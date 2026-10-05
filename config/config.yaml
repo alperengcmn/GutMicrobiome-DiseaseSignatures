@@ -1,0 +1,450 @@
+# =============================================================================
+# Metagenomics / Microbiome Analysis Pipeline — Configuration File
+# =============================================================================
+# Edit this file to configure your analysis.
+# All paths can be absolute or relative to the project root directory.
+# =============================================================================
+
+# ── Input ─────────────────────────────────────────────────────────────────────
+input:
+  reads:
+    paired_end: true           # true = paired-end, false = single-end
+    samples:
+      - name: SRR8865598
+        r1: data/raw/SRR8865598_1.fastq.gz
+        r2: data/raw/SRR8865598_2.fastq.gz
+      - name: SRR8865599
+        r1: data/raw/SRR8865599_1.fastq.gz
+        r2: data/raw/SRR8865599_2.fastq.gz
+      - name: SRR8865600
+        r1: data/raw/SRR8865600_1.fastq.gz
+        r2: data/raw/SRR8865600_2.fastq.gz
+      - name: SRR8865601
+        r1: data/raw/SRR8865601_1.fastq.gz
+        r2: data/raw/SRR8865601_2.fastq.gz
+      - name: SRR8865594
+        r1: data/raw/SRR8865594_1.fastq.gz
+        r2: data/raw/SRR8865594_2.fastq.gz
+      - name: SRR8865595
+        r1: data/raw/SRR8865595_1.fastq.gz
+        r2: data/raw/SRR8865595_2.fastq.gz
+      - name: SRR8865596
+        r1: data/raw/SRR8865596_1.fastq.gz
+        r2: data/raw/SRR8865596_2.fastq.gz
+      - name: SRR8865597
+        r1: data/raw/SRR8865597_1.fastq.gz
+        r2: data/raw/SRR8865597_2.fastq.gz
+      - name: SRR8865592
+        r1: data/raw/SRR8865592_1.fastq.gz
+        r2: data/raw/SRR8865592_2.fastq.gz
+      - name: SRR8865593
+        r1: data/raw/SRR8865593_1.fastq.gz
+        r2: data/raw/SRR8865593_2.fastq.gz
+      - name: SRR8865584
+        r1: data/raw/SRR8865584_1.fastq.gz
+        r2: data/raw/SRR8865584_2.fastq.gz
+      - name: SRR8865585
+        r1: data/raw/SRR8865585_1.fastq.gz
+        r2: data/raw/SRR8865585_2.fastq.gz
+      - name: SRR8865586
+        r1: data/raw/SRR8865586_1.fastq.gz
+        r2: data/raw/SRR8865586_2.fastq.gz
+      - name: SRR8865587
+        r1: data/raw/SRR8865587_1.fastq.gz
+        r2: data/raw/SRR8865587_2.fastq.gz
+      - name: SRR8865588
+        r1: data/raw/SRR8865588_1.fastq.gz
+        r2: data/raw/SRR8865588_2.fastq.gz
+      - name: SRR8865589
+        r1: data/raw/SRR8865589_1.fastq.gz
+        r2: data/raw/SRR8865589_2.fastq.gz
+      - name: SRR8865590
+        r1: data/raw/SRR8865590_1.fastq.gz
+        r2: data/raw/SRR8865590_2.fastq.gz
+      - name: SRR8865591
+        r1: data/raw/SRR8865591_1.fastq.gz
+        r2: data/raw/SRR8865591_2.fastq.gz
+      - name: SRR8865582
+        r1: data/raw/SRR8865582_1.fastq.gz
+        r2: data/raw/SRR8865582_2.fastq.gz
+      - name: SRR8865583
+        r1: data/raw/SRR8865583_1.fastq.gz
+        r2: data/raw/SRR8865583_2.fastq.gz
+      - name: SRR8865577
+        r1: data/raw/SRR8865577_1.fastq.gz
+        r2: data/raw/SRR8865577_2.fastq.gz
+      - name: SRR8865576
+        r1: data/raw/SRR8865576_1.fastq.gz
+        r2: data/raw/SRR8865576_2.fastq.gz
+      - name: SRR8865579
+        r1: data/raw/SRR8865579_1.fastq.gz
+        r2: data/raw/SRR8865579_2.fastq.gz
+      - name: SRR8865578
+        r1: data/raw/SRR8865578_1.fastq.gz
+        r2: data/raw/SRR8865578_2.fastq.gz
+      - name: SRR8865573
+        r1: data/raw/SRR8865573_1.fastq.gz
+        r2: data/raw/SRR8865573_2.fastq.gz
+      - name: SRR8865572
+        r1: data/raw/SRR8865572_1.fastq.gz
+        r2: data/raw/SRR8865572_2.fastq.gz
+      - name: SRR8865575
+        r1: data/raw/SRR8865575_1.fastq.gz
+        r2: data/raw/SRR8865575_2.fastq.gz
+      - name: SRR8865574
+        r1: data/raw/SRR8865574_1.fastq.gz
+        r2: data/raw/SRR8865574_2.fastq.gz
+      - name: SRR8865581
+        r1: data/raw/SRR8865581_1.fastq.gz
+        r2: data/raw/SRR8865581_2.fastq.gz
+      - name: SRR8865580
+        r1: data/raw/SRR8865580_1.fastq.gz
+        r2: data/raw/SRR8865580_2.fastq.gz
+      - name: SRR5898912
+        r1: data/raw/SRR5898912_1.fastq.gz
+        r2: data/raw/SRR5898912_2.fastq.gz
+      - name: SRR5898911
+        r1: data/raw/SRR5898911_1.fastq.gz
+        r2: data/raw/SRR5898911_2.fastq.gz
+      - name: SRR5898910
+        r1: data/raw/SRR5898910_1.fastq.gz
+        r2: data/raw/SRR5898910_2.fastq.gz
+      - name: SRR5898909
+        r1: data/raw/SRR5898909_1.fastq.gz
+        r2: data/raw/SRR5898909_2.fastq.gz
+      - name: SRR5898908
+        r1: data/raw/SRR5898908_1.fastq.gz
+        r2: data/raw/SRR5898908_2.fastq.gz
+      - name: SRR5898920
+        r1: data/raw/SRR5898920_1.fastq.gz
+        r2: data/raw/SRR5898920_2.fastq.gz
+      - name: SRR5898921
+        r1: data/raw/SRR5898921_1.fastq.gz
+        r2: data/raw/SRR5898921_2.fastq.gz
+      - name: SRR5898922
+        r1: data/raw/SRR5898922_1.fastq.gz
+        r2: data/raw/SRR5898922_2.fastq.gz
+      - name: SRR5898923
+        r1: data/raw/SRR5898923_1.fastq.gz
+        r2: data/raw/SRR5898923_2.fastq.gz
+      - name: SRR5898924
+        r1: data/raw/SRR5898924_1.fastq.gz
+        r2: data/raw/SRR5898924_2.fastq.gz
+      - name: SRR5898925
+        r1: data/raw/SRR5898925_1.fastq.gz
+        r2: data/raw/SRR5898925_2.fastq.gz
+      - name: SRR5898926
+        r1: data/raw/SRR5898926_1.fastq.gz
+        r2: data/raw/SRR5898926_2.fastq.gz
+      - name: SRR5899017
+        r1: data/raw/SRR5899017_1.fastq.gz
+        r2: data/raw/SRR5899017_2.fastq.gz
+      - name: SRR5898966
+        r1: data/raw/SRR5898966_1.fastq.gz
+        r2: data/raw/SRR5898966_2.fastq.gz
+      - name: SRR5898984
+        r1: data/raw/SRR5898984_1.fastq.gz
+        r2: data/raw/SRR5898984_2.fastq.gz
+      - name: SRR5898985
+        r1: data/raw/SRR5898985_1.fastq.gz
+        r2: data/raw/SRR5898985_2.fastq.gz
+      - name: SRR5898986
+        r1: data/raw/SRR5898986_1.fastq.gz
+        r2: data/raw/SRR5898986_2.fastq.gz
+      - name: SRR5898987
+        r1: data/raw/SRR5898987_1.fastq.gz
+        r2: data/raw/SRR5898987_2.fastq.gz
+      - name: SRR5898980
+        r1: data/raw/SRR5898980_1.fastq.gz
+        r2: data/raw/SRR5898980_2.fastq.gz
+      - name: SRR5898981
+        r1: data/raw/SRR5898981_1.fastq.gz
+        r2: data/raw/SRR5898981_2.fastq.gz
+      - name: SRR5898982
+        r1: data/raw/SRR5898982_1.fastq.gz
+        r2: data/raw/SRR5898982_2.fastq.gz
+      - name: SRR5898983
+        r1: data/raw/SRR5898983_1.fastq.gz
+        r2: data/raw/SRR5898983_2.fastq.gz
+      - name: SRR5898978
+        r1: data/raw/SRR5898978_1.fastq.gz
+        r2: data/raw/SRR5898978_2.fastq.gz
+      - name: SRR5898979
+        r1: data/raw/SRR5898979_1.fastq.gz
+        r2: data/raw/SRR5898979_2.fastq.gz
+      - name: SRR5898954
+        r1: data/raw/SRR5898954_1.fastq.gz
+        r2: data/raw/SRR5898954_2.fastq.gz
+      - name: SRR5898950
+        r1: data/raw/SRR5898950_1.fastq.gz
+        r2: data/raw/SRR5898950_2.fastq.gz
+      - name: SRR5898948
+        r1: data/raw/SRR5898948_1.fastq.gz
+        r2: data/raw/SRR5898948_2.fastq.gz
+      - name: SRR5899005
+        r1: data/raw/SRR5899005_1.fastq.gz
+        r2: data/raw/SRR5899005_2.fastq.gz
+      - name: SRR5899007
+        r1: data/raw/SRR5899007_1.fastq.gz
+        r2: data/raw/SRR5899007_2.fastq.gz
+      - name: SRR5899006
+        r1: data/raw/SRR5899006_1.fastq.gz
+        r2: data/raw/SRR5899006_2.fastq.gz
+  # Path to sample metadata file (TSV or CSV).
+  # Must contain a 'sample_id' column matching sample names above.
+  # Example columns: sample_id, group, timepoint, treatment, subject_id
+  metadata: data/metadata/sample_metadata.tsv
+
+# ── Host Contamination Removal ────────────────────────────────────────────────
+host:
+  enabled: false            # Enable after the GRCh38.p14 Bowtie2 index is installed
+
+  # Reference genome for the host organism.
+  # Provide a pre-built Bowtie2 index prefix (without .bt2 extension).
+  # Example built-in presets (requires index files to exist):
+  #   human  → path to GRCh38 Bowtie2 index
+  #   mouse  → path to GRCm39 Bowtie2 index
+  #   custom → provide your own index path below
+  reference: data/db/GRCh38.p14/bowtie2_index  # Build/download this Bowtie2 index before analysis
+
+  # Bowtie2 alignment sensitivity for host removal
+  # Options: --very-fast, --fast, --sensitive (default), --very-sensitive
+  sensitivity: --sensitive
+
+# ── Quality Control ───────────────────────────────────────────────────────────
+qc:
+  fastqc_threads: 4
+  # Additional FastQC arguments (optional)
+  fastqc_extra_args: ""
+
+# ── Read Preprocessing ────────────────────────────────────────────────────────
+preprocessing:
+  tool: fastp               # Only 'fastp' is supported
+  threads: 4
+
+  # Adapter trimming
+  detect_adapter_for_pe: true
+  adapter_sequence: ""      # Leave empty for auto-detection
+  adapter_sequence_r2: ""
+
+  # Quality filtering
+  qualified_quality_phred: 20    # Minimum Phred score per base
+  unqualified_percent_limit: 40  # Max % of bases below quality threshold
+  n_base_limit: 5                # Max N bases per read
+
+  # Length filtering
+  length_required: 50            # Minimum read length after trimming
+
+  # Deduplication (set to false for amplicon data)
+  deduplication: false
+
+  # fastp extra arguments (optional)
+  extra_args: ""
+
+# ── Taxonomic Profiling ───────────────────────────────────────────────────────
+taxonomy:
+  # Path to Kraken2 database directory (must be downloaded separately).
+  # Download instructions: https://ccb.jhu.edu/software/kraken2/index.shtml
+  # Standard DB: ~8 GB | Plus DB: ~55 GB | MiniKraken2: ~8 GB (reduced)
+  kraken2_db: data/db/k2_standard_08_GB_20260626  # Kraken2 Standard-8 (Index zone); extract the tarball here
+
+  # Confidence threshold for Kraken2 (0.0–1.0)
+  # Higher = more specific, fewer classified reads
+  confidence: 0.1
+
+  # Minimum hit groups for Kraken2 classification
+  minimum_hit_groups: 3
+
+  # Bracken read length (must match sequencing read length)
+  # Common values: 75, 100, 150, 250
+  bracken_read_length: 150
+
+  # Minimum reads for Bracken re-estimation
+  bracken_threshold: 10
+
+  # Taxonomic levels for Bracken re-estimation
+  # Options: D (domain), P (phylum), C (class), O (order), F (family), G (genus), S (species)
+  bracken_levels:
+    - P   # Phylum
+    - C   # Class
+    - O   # Order
+    - F   # Family
+    - G   # Genus
+    - S   # Species
+
+  threads: 4
+
+  # Memory-map the database instead of loading it into RAM (needed here:
+  # Standard-8 is ~8 GB, this machine has ~3 GB RAM). Slower but correct.
+  memory_mapping: true
+
+  # Per-read Kraken2 assignments are not used downstream; skip writing them.
+  save_read_assignments: false
+
+# ── Diversity Analysis ────────────────────────────────────────────────────────
+diversity:
+  # Taxonomic level for diversity calculations
+  # Options: phylum, class, order, family, genus, species
+  level: genus
+
+  # Alpha diversity metrics
+  # Chao1 is omitted: Bracken drops taxa with < threshold reads, so true
+  # singleton/doubleton counts (which Chao1 relies on) do not exist.
+  alpha_metrics:
+    - shannon
+    - simpson
+    - observed
+
+  # Beta diversity metrics
+  beta_metrics:
+    - bray_curtis
+    - jaccard
+
+  # UniFrac: requires a phylogenetic tree (optional)
+  unifrac:
+    enabled: false
+    tree_path: ""            # Path to Newick-format phylogenetic tree
+
+  # Rarefaction (subsampling to equal depth)
+  rarefaction:
+    enabled: true
+    depth: 0                 # 0 = auto (10th percentile of sample read counts)
+    seed: 42
+
+# ── Differential Abundance ────────────────────────────────────────────────────
+differential_abundance:
+  # Statistical method for differential abundance testing
+  # Options:
+  #   ancom_bc  — ANCOM-BC (recommended for compositional microbiome data)
+  #   clr_lm    — CLR-transformed linear model
+  #   wilcoxon  — Wilcoxon rank-sum (non-parametric, pairwise)
+  # clr_lm: CLR(Bracken counts + 0.5) ~ group + covariates (OLS per taxon)
+  method: clr_lm
+
+  # Recruitment site is balanced across groups (15/15 per site) and is adjusted for.
+  covariates:
+    - location
+
+  # Second method on the same taxa; concordant hits are flagged.
+  sensitivity_method: wilcoxon
+
+  # Taxonomic level(s) for differential analysis
+  levels:
+    - genus
+    - species
+
+  # Significance thresholds
+  alpha: 0.05                # FDR-adjusted p-value cutoff
+  min_prevalence: 0.1        # Minimum fraction of samples a taxon must appear in
+
+  # Minimum mean relative abundance to include a taxon (0–1)
+  min_mean_abundance: 0.0001
+
+  # Multiple testing correction method
+  # Options: fdr_bh (Benjamini-Hochberg), bonferroni, holm
+  p_correction: fdr_bh
+
+# ── Functional Profiling ──────────────────────────────────────────────────────
+functional:
+  enabled: false            # HUMAnN3 not run: ~30 GB DB does not fit on disk; 100k-spot subset too shallow
+
+  # HUMAnN3 database paths (download from https://huttenhower.sph.harvard.edu/humann)
+  nucleotide_db: data/db/humann3/chocophlan
+  protein_db: data/db/humann3/uniref
+
+  # Pathway database: metacyc (default) or unipathway
+  pathway_db: metacyc
+
+  threads: 4
+  memory_use: minimum        # Options: minimum, maximum
+
+  # Additional HUMAnN3 arguments
+  extra_args: ""
+
+# ── Analysis Groups ───────────────────────────────────────────────────────────
+analysis:
+  # Column name in metadata file that defines comparison groups.
+  # e.g., "group", "condition", "treatment", "diagnosis"
+  group_column: group
+
+  # Reference group for differential analysis (will be "Control" in comparisons).
+  # Leave empty to use alphabetical first group.
+  reference_group: Healthy
+
+  # Comparisons to perform (pairs of [group1, group2]).
+  # Leave empty to perform all pairwise comparisons.
+  comparisons:
+    - [CRC, Healthy]  # Positive direction/log2 fold change is CRC relative to Healthy
+  # Example:
+  # comparisons:
+  #   - [Control, Disease]
+  #   - [Before, After]
+
+# ── Statistical Analysis ─────────────────────────────────────────────────────
+statistics:
+  # Multiple testing correction for diversity/permanova tests
+  p_correction: fdr_bh
+
+  # PERMANOVA settings (beta diversity group comparison)
+  permanova:
+    n_permutations: 999
+    seed: 42
+    # Permute group labels only within each recruitment site
+    strata_column: location
+
+# ── Report ────────────────────────────────────────────────────────────────────
+report:
+  title: "Gut microbiome — colorectal cancer vs. healthy (Gupta et al. 2019 cohort, 100k-spot subset)"
+  extra_limitations:
+    - "<strong>Group is fully confounded with sequencing batch:</strong> all 30 CRC samples come from BioProject PRJNA531273 and all 30 healthy controls from PRJNA397112 (a separate, earlier cohort). Any CRC-vs-healthy difference can also reflect differences in sample collection, DNA extraction, library preparation or sequencing run. This cannot be corrected statistically in this design."
+    - "<strong>Different read pre-processing between projects:</strong> fastp removed almost no CRC reads but ~8% of healthy-control reads, indicating the two projects' FASTQ files differ in quality or prior trimming."
+    - "<strong>Shallow subset:</strong> only the first 100,000 SRA spots per sample were analysed (not a random subsample), far below the original sequencing depth; rare taxa and low-abundance differences are underpowered."
+    - "<strong>No host-read removal:</strong> the human reference index was not available, so human reads remain in the input; they are mostly unclassified or assigned to Homo sapiens by Kraken2 and do not enter the bacterial relative abundances, but they reduce effective depth."
+    - "<strong>Low classification rate:</strong> with the 8 GB-capped Kraken2 Standard database and confidence 0.1, only 1.7–19% of read pairs per sample were classified (mean ≈ 8%; ~97% of classified reads bacterial, human &lt; 0.1%). Indian gut communities are under-represented in reference databases; abundances describe the classified fraction only."
+    - "<strong>Rarefaction excluded only CRC samples:</strong> the default depth (10th percentile, 2,899 genus-level reads) removed 6 samples, all CRC. Re-running alpha diversity at the minimum depth (1,398 reads, all 60 samples kept) gave the same conclusion (CRC higher; all q ≤ 0.0005); see results/tables/alpha_sensitivity_min_depth.tsv."
+    - "<strong>No functional profiling:</strong> HUMAnN3 was not run (database does not fit on disk; depth too low for reliable pathway estimates)."
+
+# ── Resources ─────────────────────────────────────────────────────────────────
+resources:
+  threads: 4                 # Default threads for tools that support parallelism
+  memory_gb: 3               # Available memory in GB (informational)
+
+# ── Output ────────────────────────────────────────────────────────────────────
+output:
+  directory: results         # Main output directory
+  reports_dir: results/reports       # Directory for HTML reports
+  logs_dir: logs             # Directory for log files
+
+  # Report format: html (always generated), pdf (requires weasyprint or wkhtmltopdf)
+  report_formats:
+    - html
+
+  # Figure formats (png is always generated)
+  figure_formats:
+    - png
+    - pdf
+
+  # Compress intermediate files to save disk space
+  compress_intermediates: false
+
+# ── Pipeline Control ──────────────────────────────────────────────────────────
+pipeline:
+  # Steps to run. Remove a step to skip it.
+  steps:
+    - qc_pre           # FastQC + MultiQC before preprocessing
+    - preprocessing    # Adapter trimming and quality filtering
+    # - host_removal     # Host contamination removal (requires host.enabled: true)
+    - qc_post          # FastQC + MultiQC after preprocessing
+    - taxonomy         # Kraken2 + Bracken taxonomic profiling
+    - diversity        # Alpha and beta diversity analysis
+    - differential     # Differential abundance analysis
+    # - functional       # HUMAnN3 functional profiling (requires functional.enabled: true)
+    - statistics       # Statistical tests and summaries
+    - visualization    # Publication-quality figures
+    - reporting        # Automated scientific report
+
+  # Skip completed steps if output files already exist (resume mode)
+  resume: false
+
+  # Random seed for reproducibility
+  seed: 42
