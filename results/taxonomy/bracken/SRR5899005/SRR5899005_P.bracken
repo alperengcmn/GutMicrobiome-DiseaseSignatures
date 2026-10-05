@@ -1,0 +1,6 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacteroidota	976	P	4155	91	4246	0.78080
+Spirochaetota	203691	P	306	32	338	0.06216
+Pseudomonadota	1224	P	60	1	61	0.01122
+Bacillota	1239	P	734	37	771	0.14178
+Chordata	7711	P	19	1	20	0.00368

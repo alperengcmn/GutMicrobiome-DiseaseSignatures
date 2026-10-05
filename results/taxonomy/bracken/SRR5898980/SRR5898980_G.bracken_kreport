@@ -1,0 +1,57 @@
+100.00	7240	0	R	1	root
+100.00	7240	0	R1	131567	  cellular organisms
+100.00	7240	0	D	2	    Bacteria
+72.75	5267	0	K	3379134	      Pseudomonadati
+68.77	4978	0	K1	1783270	        FCB group
+68.77	4978	0	K2	68336	          Bacteroidota/Chlorobiota group
+68.77	4978	0	P	976	            Bacteroidota
+68.77	4978	0	C	200643	              Bacteroidia
+68.77	4978	0	O	171549	                Bacteroidales
+54.49	3945	0	F	815	                  Bacteroidaceae
+44.67	3234	0	G	816	                    Bacteroides
+9.82	711	0	G	909656	                    Phocaeicola
+12.09	875	0	F	171550	                  Rikenellaceae
+12.09	875	0	G	239759	                    Alistipes
+1.32	95	0	F	2005519	                  Barnesiellaceae
+1.32	95	0	G	397864	                    Barnesiella
+0.68	49	0	F	2005525	                  Tannerellaceae
+0.68	49	0	G	375288	                    Parabacteroides
+0.17	12	0	F	1853231	                  Odoribacteraceae
+0.17	12	0	G	283168	                    Odoribacter
+2.25	162	0	K1	1783257	        PVC group
+2.25	162	0	P	74201	          Verrucomicrobiota
+2.25	162	0	C	203494	            Verrucomicrobiia
+2.25	162	0	O	48461	              Verrucomicrobiales
+2.25	162	0	F	1647988	                Akkermansiaceae
+2.25	162	0	G	239934	                  Akkermansia
+1.73	125	0	P	1224	        Pseudomonadota
+1.73	125	0	C	1236	          Gammaproteobacteria
+1.73	125	0	O	91347	            Enterobacterales
+1.73	125	0	F	543	              Enterobacteriaceae
+0.99	71	71	G	570	                Klebsiella
+0.74	53	53	G	547	                Enterobacter
+27.25	1972	0	K	1783272	      Bacillati
+19.62	1420	0	P	1239	        Bacillota
+10.99	795	0	C	186801	          Clostridia
+7.01	507	0	O	186802	            Eubacteriales
+5.69	411	0	F	216572	              Oscillospiraceae
+2.94	212	0	G	216851	                Faecalibacterium
+2.07	150	0	G	1263	                Ruminococcus
+0.68	49	0	G	2892396	                Vescimonas
+1.32	95	0	F	31979	              Clostridiaceae
+1.32	95	0	G	3144345	                Pilosibacter
+3.98	288	0	O	3085636	            Lachnospirales
+3.98	288	0	F	186803	              Lachnospiraceae
+2.03	147	0	G	841	                Roseburia
+1.04	74	0	G	1766253	                Agathobacter
+0.91	65	0	G	2944193	                Simiaoa
+8.64	625	0	C	909932	          Negativicutes
+8.64	625	0	O	1843489	            Veillonellales
+8.64	625	0	F	31977	              Veillonellaceae
+6.87	497	0	G	906	                Megasphaera
+1.76	127	0	G	39948	                Dialister
+7.63	552	0	P	201174	        Actinomycetota
+7.63	552	0	C	1760	          Actinomycetes
+7.63	552	0	O	85004	            Bifidobacteriales
+7.63	552	0	F	31953	              Bifidobacteriaceae
+7.63	552	0	G	1678	                Bifidobacterium

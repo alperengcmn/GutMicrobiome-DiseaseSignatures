@@ -1,0 +1,60 @@
+100.00	6757	0	R	1	root
+100.00	6757	0	R1	131567	  cellular organisms
+100.00	6757	0	D	2	    Bacteria
+95.93	6481	0	K	3379134	      Pseudomonadati
+95.93	6481	0	K1	1783270	        FCB group
+95.93	6481	0	K2	68336	          Bacteroidota/Chlorobiota group
+95.93	6481	0	P	976	            Bacteroidota
+95.93	6481	0	C	200643	              Bacteroidia
+95.93	6481	0	O	171549	                Bacteroidales
+52.65	3557	0	F	815	                  Bacteroidaceae
+38.98	2633	0	G	816	                    Bacteroides
+26.64	1800	1800	S	46506	                      Bacteroides stercoris
+3.34	225	225	S	818	                      Bacteroides thetaiotaomicron
+3.72	251	251	S	820	                      Bacteroides uniformis
+4.81	324	324	S	371601	                      Bacteroides xylanisolvens
+0.47	31	31	S	291644	                      Bacteroides salyersiae
+13.67	923	0	G	909656	                    Phocaeicola
+13.67	923	923	S	821	                      Phocaeicola vulgatus
+40.08	2708	0	F	171552	                  Prevotellaceae
+38.63	2610	0	G	2974251	                    Segatella
+36.19	2445	2445	S	165179	                      Segatella copri
+2.44	164	164	S	2518605	                      Segatella hominis
+1.45	98	0	G	838	                    Prevotella
+0.60	40	40	S	28131	                      Prevotella intermedia
+0.39	26	26	S	28132	                      Prevotella melaninogenica
+0.46	31	31	S	28133	                      Prevotella nigrescens
+1.70	114	0	F	2005525	                  Tannerellaceae
+1.70	114	0	G	375288	                    Parabacteroides
+1.70	114	114	S	823	                      Parabacteroides distasonis
+0.72	48	0	F	171550	                  Rikenellaceae
+0.72	48	0	G	239759	                    Alistipes
+0.72	48	48	S	328814	                      Alistipes shahii
+0.42	28	0	F	171551	                  Porphyromonadaceae
+0.42	28	0	G	836	                    Porphyromonas
+0.42	28	28	S	28124	                      Porphyromonas endodontalis
+0.36	24	0	F	1853231	                  Odoribacteraceae
+0.36	24	0	G	283168	                    Odoribacter
+0.36	24	24	S	28118	                      Odoribacter splanchnicus
+4.07	275	0	K	1783272	      Bacillati
+4.07	275	0	P	1239	        Bacillota
+3.20	216	0	C	186801	          Clostridia
+1.78	119	0	O	3085636	            Lachnospirales
+1.78	119	0	F	186803	              Lachnospiraceae
+1.18	79	0	G	2944193	                Simiaoa
+1.18	79	79	S	2763672	                  Simiaoa sunii
+0.60	40	0	G	28050	                Lachnospira
+0.60	40	40	S	39485	                  Lachnospira eligens
+1.43	96	0	O	186802	            Eubacteriales
+1.02	69	0	F	216572	              Oscillospiraceae
+1.02	69	0	G	2892396	                Vescimonas
+1.02	69	69	S	2714353	                  Vescimonas fastidiosa
+0.40	27	0	O1	538999	              Eubacteriales incertae sedis
+0.40	27	0	G	1392389	                Intestinimonas
+0.40	27	27	S	1297617	                  Intestinimonas butyriciproducens
+0.87	58	0	C	909932	          Negativicutes
+0.87	58	0	O	1843489	            Veillonellales
+0.87	58	0	F	31977	              Veillonellaceae
+0.87	58	0	G	39948	                Dialister
+0.56	37	37	S	487173	                  Dialister succinatiphilus
+0.31	20	20	S	39950	                  Dialister pneumosintes

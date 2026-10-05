@@ -1,0 +1,37 @@
+100.00	7303	0	R	1	root
+100.00	7303	0	R1	131567	  cellular organisms
+100.00	7303	0	D	2	    Bacteria
+90.54	6612	0	K	3379134	      Pseudomonadati
+90.54	6612	0	K1	1783270	        FCB group
+90.54	6612	0	K2	68336	          Bacteroidota/Chlorobiota group
+90.54	6612	0	P	976	            Bacteroidota
+90.54	6612	0	C	200643	              Bacteroidia
+90.54	6612	0	O	171549	                Bacteroidales
+90.26	6591	0	F	171552	                  Prevotellaceae
+90.26	6591	0	G	2974251	                    Segatella
+90.26	6591	6591	S	165179	                      Segatella copri
+0.29	20	0	F	171550	                  Rikenellaceae
+0.29	20	0	G	239759	                    Alistipes
+0.29	20	20	S	28117	                      Alistipes putredinis
+9.46	690	0	K	1783272	      Bacillati
+9.46	690	0	P	1239	        Bacillota
+6.72	490	0	C	186801	          Clostridia
+4.53	330	0	O	3085636	            Lachnospirales
+4.53	330	0	F	186803	              Lachnospiraceae
+3.35	244	0	G	841	                Roseburia
+2.97	216	216	S	301302	                  Roseburia faecis
+0.38	27	27	S	301301	                  Roseburia hominis
+1.19	86	0	G	2944193	                Simiaoa
+1.19	86	86	S	2763672	                  Simiaoa sunii
+2.18	159	0	O	186802	            Eubacteriales
+2.18	159	0	F	216572	              Oscillospiraceae
+2.18	159	0	G	216851	                Faecalibacterium
+2.18	159	159	S	853	                  Faecalibacterium prausnitzii
+2.74	200	0	C	909932	          Negativicutes
+2.74	200	0	O	1843489	            Veillonellales
+2.74	200	0	F	31977	              Veillonellaceae
+1.87	136	0	G	39948	                Dialister
+1.87	136	136	S	487173	                  Dialister succinatiphilus
+0.87	63	0	G	906	                Megasphaera
+0.87	63	0	G1	2626256	                  unclassified Megasphaera
+0.87	63	63	S	2023260	                    Megasphaera sp.

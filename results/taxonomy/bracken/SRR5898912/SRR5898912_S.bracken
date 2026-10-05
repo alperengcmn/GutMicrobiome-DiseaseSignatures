@@ -1,0 +1,14 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Segatella copri	165179	S	4471	1721	6192	0.90407
+Segatella hominis	2518605	S	15	16	31	0.00453
+Bacteroides stercoris	46506	S	13	81	94	0.01372
+Phocaeicola vulgatus	821	S	24	80	104	0.01518
+Butyricimonas faecalis	2093856	S	14	21	35	0.00511
+Duodenibacillus massiliensis	1852381	S	22	1	23	0.00336
+Simiaoa sunii	2763672	S	124	45	169	0.02468
+Agathobacter rectalis	39491	S	48	23	71	0.01037
+Lachnospira eligens	39485	S	24	3	27	0.00394
+Roseburia faecis	301302	S	12	6	18	0.00263
+Coprococcus sp. ART55/1	751585	S	11	6	17	0.00248
+Phascolarctobacterium sp. Marseille-Q4147	2823317	S	12	25	37	0.00540
+Megasphaera sp.	2023260	S	11	12	23	0.00336

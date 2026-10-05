@@ -1,0 +1,79 @@
+100.00	2211	0	R	1	root
+100.00	2211	0	R1	131567	  cellular organisms
+93.43	2065	0	D	2	    Bacteria
+73.86	1632	0	K	3379134	      Pseudomonadati
+62.83	1389	0	K1	1783270	        FCB group
+62.83	1389	0	K2	68336	          Bacteroidota/Chlorobiota group
+62.83	1389	0	P	976	            Bacteroidota
+62.83	1389	0	C	200643	              Bacteroidia
+62.83	1389	0	O	171549	                Bacteroidales
+39.14	865	0	F	171552	                  Prevotellaceae
+39.14	865	0	G	2974251	                    Segatella
+39.14	865	865	S	165179	                      Segatella copri
+14.60	322	0	F	815	                  Bacteroidaceae
+14.60	322	0	G	816	                    Bacteroides
+14.60	322	322	S	246787	                      Bacteroides cellulosilyticus
+9.09	200	0	F	2005525	                  Tannerellaceae
+9.09	200	0	G	375288	                    Parabacteroides
+9.09	200	200	S	823	                      Parabacteroides distasonis
+11.03	243	0	K1	1783257	        PVC group
+11.03	243	0	P	74201	          Verrucomicrobiota
+11.03	243	0	C	203494	            Verrucomicrobiia
+11.03	243	0	O	48461	              Verrucomicrobiales
+11.03	243	0	F	1647988	                Akkermansiaceae
+11.03	243	0	G	239934	                  Akkermansia
+11.03	243	243	S	239935	                    Akkermansia muciniphila
+19.57	432	0	K	1783272	      Bacillati
+19.57	432	0	P	1239	        Bacillota
+12.42	274	0	C	909932	          Negativicutes
+12.42	274	0	O	1843489	            Veillonellales
+12.42	274	0	F	31977	              Veillonellaceae
+12.42	274	0	G	39948	                Dialister
+12.42	274	274	S	2582419	                  Dialister hominis
+7.15	158	0	C	186801	          Clostridia
+7.15	158	0	O	186802	            Eubacteriales
+4.34	95	0	F	216572	              Oscillospiraceae
+4.34	95	0	G	1263	                Ruminococcus
+4.34	95	95	S	1161942	                  Ruminococcus champanellensis
+2.81	62	0	F	3085642	              Butyricicoccaceae
+2.81	62	0	G	580596	                Butyricicoccus
+2.81	62	62	S	2841509	                  Butyricicoccus intestinisimiae
+6.01	132	0	D	2157	    Archaea
+6.01	132	0	K	3366610	      Methanobacteriati
+6.01	132	0	P	28890	        Methanobacteriota
+6.01	132	0	P1	2283794	          Methanomada group
+6.01	132	0	C	183925	            Methanobacteria
+6.01	132	0	O	2158	              Methanobacteriales
+6.01	132	0	F	2159	                Methanobacteriaceae
+6.01	132	0	G	2172	                  Methanobrevibacter
+6.01	132	132	S	2173	                    Methanobrevibacter smithii
+0.57	12	0	D	2759	    Eukaryota
+0.57	12	0	D1	33154	      Opisthokonta
+0.57	12	0	K	33208	        Metazoa
+0.57	12	0	K1	6072	          Eumetazoa
+0.57	12	0	K2	33213	            Bilateria
+0.57	12	0	K3	33511	              Deuterostomia
+0.57	12	0	P	7711	                Chordata
+0.57	12	0	P1	89593	                  Craniata
+0.57	12	0	P2	7742	                    Vertebrata
+0.57	12	0	P3	7776	                      Gnathostomata
+0.57	12	0	P4	117570	                        Teleostomi
+0.57	12	0	P5	117571	                          Euteleostomi
+0.57	12	0	P6	8287	                            Sarcopterygii
+0.57	12	0	P7	1338369	                              Dipnotetrapodomorpha
+0.57	12	0	P8	32523	                                Tetrapoda
+0.57	12	0	P9	32524	                                  Amniota
+0.57	12	0	C	40674	                                    Mammalia
+0.57	12	0	C1	32525	                                      Theria
+0.57	12	0	C2	9347	                                        Eutheria
+0.57	12	0	C3	1437010	                                          Boreoeutheria
+0.57	12	0	C4	314146	                                            Euarchontoglires
+0.57	12	0	O	9443	                                              Primates
+0.57	12	0	O1	376913	                                                Haplorrhini
+0.57	12	0	O2	314293	                                                  Simiiformes
+0.57	12	0	O3	9526	                                                    Catarrhini
+0.57	12	0	O4	314295	                                                      Hominoidea
+0.57	12	0	F	9604	                                                        Hominidae
+0.57	12	0	F1	207598	                                                          Homininae
+0.57	12	0	G	9605	                                                            Homo
+0.57	12	12	S	9606	                                                              Homo sapiens

@@ -1,0 +1,7 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Segatella copri	165179	S	3759	1790	5549	0.90640
+Segatella hominis	2518605	S	113	153	266	0.04345
+Roseburia faecis	301302	S	71	27	98	0.01601
+Agathobacter rectalis	39491	S	16	9	25	0.00408
+Faecalibacterium prausnitzii	853	S	11	46	57	0.00931
+Megasphaera sp.	2023260	S	48	75	123	0.02009

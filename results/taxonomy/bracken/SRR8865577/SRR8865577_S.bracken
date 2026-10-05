@@ -1,0 +1,16 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Comamonas kerstersii	225992	S	81	102	183	0.12357
+Segatella copri	165179	S	206	128	334	0.22552
+Segatella hominis	2518605	S	28	32	60	0.04051
+Phocaeicola vulgatus	821	S	24	93	117	0.07900
+Desulfovibrio piger	901	S	24	13	37	0.02498
+Treponema succinifaciens	167	S	13	11	24	0.01621
+Eshraghiella crossota	45851	S	126	122	248	0.16745
+Agathobacter rectalis	39491	S	21	36	57	0.03849
+Lachnospira eligens	39485	S	19	12	31	0.02093
+Vescimonas fastidiosa	2714353	S	24	79	103	0.06955
+Vescimonas coprocola	2714355	S	22	75	97	0.06550
+Ruminococcus bicirculans (ex Wegman et al. 2014)	1160721	S	25	14	39	0.02633
+Megasphaera sp.	2023260	S	15	31	46	0.03106
+Bifidobacterium adolescentis	1680	S	14	40	54	0.03646
+Fusobacterium mortiferum	850	S	15	29	44	0.02971

@@ -1,0 +1,73 @@
+100.00	6846	0	R	1	root
+100.00	6846	0	R1	131567	  cellular organisms
+100.00	6846	0	D	2	    Bacteria
+73.89	5058	0	K	3379134	      Pseudomonadati
+71.49	4894	0	K1	1783270	        FCB group
+71.49	4894	0	K2	68336	          Bacteroidota/Chlorobiota group
+71.49	4894	0	P	976	            Bacteroidota
+71.49	4894	0	C	200643	              Bacteroidia
+71.49	4894	0	O	171549	                Bacteroidales
+57.36	3926	0	F	815	                  Bacteroidaceae
+46.89	3210	0	G	816	                    Bacteroides
+35.83	2452	2452	S	820	                      Bacteroides uniformis
+6.87	470	470	S	46506	                      Bacteroides stercoris
+1.84	126	126	S	47678	                      Bacteroides caccae
+1.96	134	134	S	371601	                      Bacteroides xylanisolvens
+0.39	26	26	S	818	                      Bacteroides thetaiotaomicron
+10.47	716	0	G	909656	                    Phocaeicola
+6.16	421	421	S	357276	                      Phocaeicola dorei
+4.31	295	295	S	821	                      Phocaeicola vulgatus
+12.54	858	0	F	171550	                  Rikenellaceae
+12.54	858	0	G	239759	                    Alistipes
+6.40	438	438	S	28117	                      Alistipes putredinis
+3.36	229	229	S	2585118	                      Alistipes communis
+2.00	136	136	S	328813	                      Alistipes onderdonkii
+0.78	53	53	S	214856	                      Alistipes finegoldii
+1.41	96	0	F	2005519	                  Barnesiellaceae
+1.41	96	0	G	397864	                    Barnesiella
+1.41	96	96	S	487174	                      Barnesiella intestinihominis
+0.18	12	0	F	1853231	                  Odoribacteraceae
+0.18	12	0	G	283168	                    Odoribacter
+0.18	12	12	S	28118	                      Odoribacter splanchnicus
+2.40	164	0	K1	1783257	        PVC group
+2.40	164	0	P	74201	          Verrucomicrobiota
+2.40	164	0	C	203494	            Verrucomicrobiia
+2.40	164	0	O	48461	              Verrucomicrobiales
+2.40	164	0	F	1647988	                Akkermansiaceae
+2.40	164	0	G	239934	                  Akkermansia
+2.40	164	164	S	239935	                    Akkermansia muciniphila
+26.11	1787	0	K	1783272	      Bacillati
+18.45	1262	0	P	1239	        Bacillota
+9.29	636	0	C	186801	          Clostridia
+4.96	339	0	O	186802	            Eubacteriales
+4.96	339	0	F	216572	              Oscillospiraceae
+2.80	191	0	G	216851	                Faecalibacterium
+2.80	191	191	S	853	                  Faecalibacterium prausnitzii
+1.53	104	0	G	1263	                Ruminococcus
+1.53	104	104	S	1160721	                  Ruminococcus bicirculans (ex Wegman et al. 2014)
+0.63	43	0	G	2892396	                Vescimonas
+0.63	43	43	S	2714353	                  Vescimonas fastidiosa
+4.33	296	0	O	3085636	            Lachnospirales
+4.33	296	0	F	186803	              Lachnospiraceae
+2.10	143	0	G	841	                Roseburia
+1.76	120	120	S	301302	                  Roseburia faecis
+0.35	23	23	S	301301	                  Roseburia hominis
+1.19	81	0	G	1766253	                Agathobacter
+1.19	81	81	S	39491	                  Agathobacter rectalis
+1.04	71	0	G	2944193	                Simiaoa
+1.04	71	71	S	2763672	                  Simiaoa sunii
+9.15	626	0	C	909932	          Negativicutes
+9.15	626	0	O	1843489	            Veillonellales
+9.15	626	0	F	31977	              Veillonellaceae
+7.30	499	0	G	906	                Megasphaera
+6.96	476	0	G1	2626256	                  unclassified Megasphaera
+6.96	476	476	S	2023260	                    Megasphaera sp.
+0.34	23	23	S	907	                  Megasphaera elsdenii
+1.85	126	0	G	39948	                Dialister
+1.85	126	126	S	487173	                  Dialister succinatiphilus
+7.66	524	0	P	201174	        Actinomycetota
+7.66	524	0	C	1760	          Actinomycetes
+7.66	524	0	O	85004	            Bifidobacteriales
+7.66	524	0	F	31953	              Bifidobacteriaceae
+7.66	524	0	G	1678	                Bifidobacterium
+7.66	524	524	S	1680	                  Bifidobacterium adolescentis

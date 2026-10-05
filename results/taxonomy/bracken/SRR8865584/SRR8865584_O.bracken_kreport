@@ -1,0 +1,39 @@
+100.00	2842	0	R	1	root
+100.00	2842	0	R1	131567	  cellular organisms
+97.96	2784	0	D	2	    Bacteria
+49.95	1419	0	K	3379134	      Pseudomonadati
+42.53	1208	0	K1	1783270	        FCB group
+42.53	1208	0	K2	68336	          Bacteroidota/Chlorobiota group
+42.53	1208	0	P	976	            Bacteroidota
+42.53	1208	0	C	200643	              Bacteroidia
+42.53	1208	0	O	171549	                Bacteroidales
+7.03	199	0	P	1224	        Pseudomonadota
+7.03	199	0	C	1236	          Gammaproteobacteria
+7.03	199	0	O	91347	            Enterobacterales
+0.38	10	0	P	200940	        Thermodesulfobacteriota
+0.38	10	0	C	3031449	          Desulfovibrionia
+0.38	10	0	O	213115	            Desulfovibrionales
+45.77	1300	0	K	1783272	      Bacillati
+42.17	1198	0	P	1239	        Bacillota
+27.73	788	0	C	186801	          Clostridia
+14.59	414	0	O	3085636	            Lachnospirales
+10.62	301	0	O	186802	            Eubacteriales
+2.52	71	0	O	3082720	            Peptostreptococcales
+13.36	379	0	C	909932	          Negativicutes
+8.30	236	0	O	909929	            Selenomonadales
+5.05	143	0	O	1843489	            Veillonellales
+1.08	30	0	C	526524	          Erysipelotrichia
+1.08	30	0	O	526525	            Erysipelotrichales
+3.60	102	0	P	201174	        Actinomycetota
+3.60	102	0	C	1760	          Actinomycetes
+3.60	102	0	O	85004	            Bifidobacteriales
+2.25	63	0	K	3384189	      Fusobacteriati
+2.25	63	0	P	32066	        Fusobacteriota
+2.25	63	0	C	203490	          Fusobacteriia
+2.25	63	0	O	203491	            Fusobacteriales
+2.04	57	0	D	2157	    Archaea
+2.04	57	0	K	3366610	      Methanobacteriati
+2.04	57	0	P	28890	        Methanobacteriota
+2.04	57	0	P1	2283794	          Methanomada group
+2.04	57	0	C	183925	            Methanobacteria
+2.04	57	0	O	2158	              Methanobacteriales

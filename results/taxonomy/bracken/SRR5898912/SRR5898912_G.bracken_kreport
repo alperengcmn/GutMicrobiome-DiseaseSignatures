@@ -1,0 +1,45 @@
+100.00	6945	0	R	1	root
+100.00	6945	0	R1	131567	  cellular organisms
+100.00	6945	0	D	2	    Bacteria
+94.20	6542	0	K	3379134	      Pseudomonadati
+93.86	6518	0	K1	1783270	        FCB group
+93.86	6518	0	K2	68336	          Bacteroidota/Chlorobiota group
+93.86	6518	0	P	976	            Bacteroidota
+93.86	6518	0	C	200643	              Bacteroidia
+93.86	6518	0	O	171549	                Bacteroidales
+89.11	6188	0	F	171552	                  Prevotellaceae
+89.11	6188	0	G	2974251	                    Segatella
+3.33	231	0	F	815	                  Bacteroidaceae
+1.85	128	0	G	816	                    Bacteroides
+1.48	102	0	G	909656	                    Phocaeicola
+0.51	35	0	F	2005525	                  Tannerellaceae
+0.51	35	0	G	375288	                    Parabacteroides
+0.51	35	0	F	1853231	                  Odoribacteraceae
+0.51	35	0	G	574697	                    Butyricimonas
+0.39	27	0	F	171550	                  Rikenellaceae
+0.39	27	0	G	239759	                    Alistipes
+0.34	23	0	P	1224	        Pseudomonadota
+0.34	23	0	C	28216	          Betaproteobacteria
+0.34	23	0	O	80840	            Burkholderiales
+0.34	23	0	F	995019	              Sutterellaceae
+0.34	23	0	G	1980697	                Duodenibacillus
+5.80	402	0	K	1783272	      Bacillati
+5.80	402	0	P	1239	        Bacillota
+4.86	337	0	C	186801	          Clostridia
+4.42	307	0	O	3085636	            Lachnospirales
+4.42	307	0	F	186803	              Lachnospiraceae
+2.41	167	0	G	2944193	                Simiaoa
+1.01	70	0	G	1766253	                Agathobacter
+0.40	27	0	G	28050	                Lachnospira
+0.35	24	0	G	841	                Roseburia
+0.25	17	17	G	33042	                Coprococcus
+0.44	30	0	O	186802	            Eubacteriales
+0.44	30	0	F	216572	              Oscillospiraceae
+0.44	30	0	G	216851	                Faecalibacterium
+0.94	65	0	C	909932	          Negativicutes
+0.61	42	0	O	1843488	            Acidaminococcales
+0.61	42	0	F	909930	              Acidaminococcaceae
+0.61	42	0	G	33024	                Phascolarctobacterium
+0.34	23	0	O	1843489	            Veillonellales
+0.34	23	0	F	31977	              Veillonellaceae
+0.34	23	23	G	906	                Megasphaera

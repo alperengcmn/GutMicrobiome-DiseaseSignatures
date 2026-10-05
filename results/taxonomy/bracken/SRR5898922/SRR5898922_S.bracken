@@ -1,0 +1,28 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Phocaeicola vulgatus	821	S	1144	2492	3636	0.34861
+Phocaeicola dorei	357276	S	62	147	209	0.02004
+Bacteroides caccae	47678	S	241	110	351	0.03365
+Bacteroides xylanisolvens	371601	S	169	1049	1218	0.11678
+Bacteroides uniformis	820	S	149	459	608	0.05829
+Bacteroides thetaiotaomicron	818	S	43	30	73	0.00700
+Bacteroides hominis	2763023	S	11	107	118	0.01131
+Parabacteroides merdae	46503	S	179	125	304	0.02915
+Parabacteroides distasonis	823	S	12	55	67	0.00642
+Alistipes putredinis	28117	S	124	42	166	0.01592
+Alistipes shahii	328814	S	35	61	96	0.00920
+Sutterella wadsworthensis	40545	S	111	11	122	0.01170
+Roseburia faecis	301302	S	443	147	590	0.05657
+Roseburia intestinalis	166486	S	126	105	231	0.02215
+Dorea longicatena	88431	S	205	247	452	0.04334
+Agathobacter rectalis	39491	S	50	21	71	0.00681
+Blautia faecis	871665	S	17	13	30	0.00288
+Faecalibacterium prausnitzii	853	S	66	120	186	0.01783
+Ruminococcus bovis	2564099	S	15	1	16	0.00153
+Ruminococcus bicirculans (ex Wegman et al. 2014)	1160721	S	10	1	11	0.00105
+Megasphaera sp.	2023260	S	718	612	1330	0.12752
+Megasphaera elsdenii	907	S	24	14	38	0.00364
+Veillonella parvula	29466	S	12	10	22	0.00211
+Phascolarctobacterium faecium	33025	S	100	7	107	0.01026
+Ligilactobacillus ruminis	1623	S	50	9	59	0.00566
+Bifidobacterium adolescentis	1680	S	45	196	241	0.02311
+Bifidobacterium longum	216816	S	17	48	65	0.00623

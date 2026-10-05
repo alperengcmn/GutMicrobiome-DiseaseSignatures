@@ -1,0 +1,13 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacteroidia	200643	C	6472	239	6711	0.65244
+Gammaproteobacteria	1236	C	862	150	1012	0.09839
+Betaproteobacteria	28216	C	27	1	28	0.00272
+Verrucomicrobiia	203494	C	773	43	816	0.07933
+Desulfovibrionia	3031449	C	48	5	53	0.00515
+Clostridia	186801	C	793	90	883	0.08584
+Negativicutes	909932	C	521	32	553	0.05376
+Bacilli	91061	C	44	11	55	0.00535
+Actinomycetes	1760	C	10	0	10	0.00097
+Mammalia	40674	C	38	3	41	0.00399
+Methanobacteria	183925	C	24	1	25	0.00243
+Caudoviricetes	2731619	C	94	0	94	0.00914

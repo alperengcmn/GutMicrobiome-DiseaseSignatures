@@ -1,0 +1,64 @@
+100.00	6985	0	R	1	root
+100.00	6985	0	R1	131567	  cellular organisms
+100.00	6985	0	D	2	    Bacteria
+84.65	5913	0	K	3379134	      Pseudomonadati
+77.85	5437	0	P	1224	        Pseudomonadota
+77.85	5437	0	C	1236	          Gammaproteobacteria
+77.48	5411	0	O	91347	            Enterobacterales
+77.48	5411	0	F	543	              Enterobacteriaceae
+42.16	2944	0	G	561	                Escherichia
+42.16	2944	2944	S	562	                  Escherichia coli
+19.71	1377	0	G	547	                Enterobacter
+19.71	1377	1377	S	539813	                  Enterobacter mori
+8.84	617	0	G	570	                Klebsiella
+8.84	617	617	S	548	                  Klebsiella aerogenes
+6.05	422	0	G	544	                Citrobacter
+6.05	422	422	S	67824	                  Citrobacter farmeri
+0.71	49	0	G	1903434	                Atlantibacter
+0.71	49	49	S	565	                  Atlantibacter hermannii
+0.37	25	0	O	135625	            Pasteurellales
+0.37	25	0	F	712	              Pasteurellaceae
+0.37	25	0	G	724	                Haemophilus
+0.37	25	25	S	729	                  Haemophilus parainfluenzae
+6.43	449	0	K1	1783270	        FCB group
+6.43	449	0	K2	68336	          Bacteroidota/Chlorobiota group
+6.43	449	0	P	976	            Bacteroidota
+6.43	449	0	C	200643	              Bacteroidia
+6.43	449	0	O	171549	                Bacteroidales
+6.43	449	0	F	815	                  Bacteroidaceae
+6.43	449	0	G	816	                    Bacteroides
+6.43	449	449	S	818	                      Bacteroides thetaiotaomicron
+0.37	25	0	P	200940	        Thermodesulfobacteriota
+0.37	25	0	C	3031449	          Desulfovibrionia
+0.37	25	0	O	213115	            Desulfovibrionales
+0.37	25	0	F	194924	              Desulfovibrionaceae
+0.37	25	0	G	35832	                Bilophila
+0.37	25	25	S	35833	                  Bilophila wadsworthia
+15.35	1071	0	K	1783272	      Bacillati
+13.78	962	0	P	1239	        Bacillota
+11.93	833	0	C	186801	          Clostridia
+9.47	661	0	O	3085636	            Lachnospirales
+9.47	661	0	F	186803	              Lachnospiraceae
+4.53	316	0	G	2944193	                Simiaoa
+4.53	316	316	S	2763672	                  Simiaoa sunii
+3.54	247	0	G	841	                Roseburia
+3.54	247	247	S	301301	                  Roseburia hominis
+1.41	98	0	G	28050	                Lachnospira
+1.41	98	98	S	39485	                  Lachnospira eligens
+2.45	171	0	O	186802	            Eubacteriales
+2.45	171	0	F	216572	              Oscillospiraceae
+1.81	126	0	G	216851	                Faecalibacterium
+1.81	126	126	S	853	                  Faecalibacterium prausnitzii
+0.64	44	0	G	946234	                Flavonifractor
+0.64	44	44	S	292800	                  Flavonifractor plautii
+1.86	129	0	C	909932	          Negativicutes
+1.86	129	0	O	1843489	            Veillonellales
+1.86	129	0	F	31977	              Veillonellaceae
+1.86	129	0	G	39948	                Dialister
+1.86	129	129	S	2582419	                  Dialister hominis
+1.56	109	0	P	201174	        Actinomycetota
+1.56	109	0	C	1760	          Actinomycetes
+1.56	109	0	O	85004	            Bifidobacteriales
+1.56	109	0	F	31953	              Bifidobacteriaceae
+1.56	109	0	G	1678	                Bifidobacterium
+1.56	109	109	S	216816	                  Bifidobacterium longum

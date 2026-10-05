@@ -1,0 +1,16 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacteroides	816	G	2569	623	3192	0.36551
+Phocaeicola	909656	G	2523	592	3115	0.35669
+Parabacteroides	375288	G	1179	336	1515	0.17348
+Segatella	2974251	G	267	40	307	0.03515
+Paraprevotella	577309	G	118	19	137	0.01569
+Alistipes	239759	G	88	22	110	0.01260
+Odoribacter	283168	G	17	3	20	0.00229
+Morganella	581	G	30	27	57	0.00653
+Sutterella	40544	G	10	1	11	0.00126
+Mediterraneibacter	2316020	G	82	30	112	0.01282
+Simiaoa	2944193	G	37	11	48	0.00550
+Allocoprococcus	3569723	G	10	5	15	0.00172
+Lactobacillus	1578	G	32	5	37	0.00424
+Collinsella	102106	G	26	5	31	0.00355
+Bifidobacterium	1678	G	18	1	19	0.00218

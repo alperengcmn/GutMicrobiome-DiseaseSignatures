@@ -1,0 +1,81 @@
+100.00	7051	0	R	1	root
+100.00	7051	0	R1	131567	  cellular organisms
+100.00	7051	0	D	2	    Bacteria
+62.13	4381	0	K	3379134	      Pseudomonadati
+35.60	2510	0	K1	1783270	        FCB group
+35.60	2510	0	K2	68336	          Bacteroidota/Chlorobiota group
+35.60	2510	0	P	976	            Bacteroidota
+35.60	2510	0	C	200643	              Bacteroidia
+35.60	2510	0	O	171549	                Bacteroidales
+16.67	1175	0	F	171552	                  Prevotellaceae
+16.67	1175	0	G	2974251	                    Segatella
+14.89	1050	1050	S	165179	                      Segatella copri
+1.78	125	125	S	2518605	                      Segatella hominis
+11.84	834	0	F	815	                  Bacteroidaceae
+11.00	775	0	G	816	                    Bacteroides
+2.53	178	178	S	817	                      Bacteroides fragilis
+1.55	109	109	S	818	                      Bacteroides thetaiotaomicron
+4.65	327	327	S	2763023	                      Bacteroides hominis
+0.78	54	54	S	291645	                      Bacteroides nordii
+1.49	105	105	S	820	                      Bacteroides uniformis
+0.84	59	0	G	909656	                    Phocaeicola
+0.84	59	59	S	821	                      Phocaeicola vulgatus
+6.29	443	0	F	171550	                  Rikenellaceae
+6.29	443	0	G	239759	                    Alistipes
+3.42	241	241	S	28117	                      Alistipes putredinis
+0.79	55	55	S	328813	                      Alistipes onderdonkii
+0.33	23	0	G1	2608932	                      unclassified Alistipes
+0.33	23	23	S	2662363	                        Alistipes sp. dk3624
+1.35	95	95	S	328814	                      Alistipes shahii
+0.39	27	27	S	2585118	                      Alistipes communis
+0.55	38	0	F	2005525	                  Tannerellaceae
+0.55	38	0	G	375288	                    Parabacteroides
+0.55	38	38	S	46503	                      Parabacteroides merdae
+0.26	17	0	F	1853231	                  Odoribacteraceae
+0.26	17	0	G	283168	                    Odoribacter
+0.26	17	17	S	28118	                      Odoribacter splanchnicus
+26.53	1870	0	K1	1783257	        PVC group
+26.53	1870	0	P	74201	          Verrucomicrobiota
+26.53	1870	0	C	203494	            Verrucomicrobiia
+26.53	1870	0	O	48461	              Verrucomicrobiales
+26.53	1870	0	F	1647988	                Akkermansiaceae
+26.53	1870	0	G	239934	                  Akkermansia
+26.53	1870	1870	S	239935	                    Akkermansia muciniphila
+37.87	2670	0	K	1783272	      Bacillati
+37.87	2670	0	P	1239	        Bacillota
+35.04	2470	0	C	186801	          Clostridia
+21.23	1497	0	O	3085636	            Lachnospirales
+21.23	1497	0	F	186803	              Lachnospiraceae
+13.24	933	0	G	1766253	                Agathobacter
+13.24	933	933	S	39491	                  Agathobacter rectalis
+4.55	321	0	G	33042	                Coprococcus
+4.55	321	0	G1	2684943	                  unclassified Coprococcus
+4.55	321	321	S	751585	                    Coprococcus sp. ART55/1
+2.58	182	0	G	2944193	                Simiaoa
+2.58	182	182	S	2763672	                  Simiaoa sunii
+0.85	60	0	G	841	                Roseburia
+0.61	43	43	S	301302	                  Roseburia faecis
+0.24	16	16	S	166486	                  Roseburia intestinalis
+13.80	973	0	O	186802	            Eubacteriales
+13.80	973	0	F	216572	              Oscillospiraceae
+12.99	916	0	G	216851	                Faecalibacterium
+2.72	191	0	G1	2646395	                  unclassified Faecalibacterium
+2.72	191	191	S	2929494	                    Faecalibacterium sp. I4-1-79
+10.27	724	724	S	853	                  Faecalibacterium prausnitzii
+0.53	37	0	G	3073575	                Hominenteromicrobium
+0.53	37	37	S	2885357	                  Hominenteromicrobium mulieris
+0.29	20	0	G	1905344	                Ruthenibacterium
+0.29	20	20	S	1550024	                  Ruthenibacterium lactatiformans
+1.45	102	0	C	1737404	          Tissierellia
+1.45	102	0	O	1737405	            Tissierellales
+1.45	102	0	F	1570339	              Peptoniphilaceae
+1.45	102	0	G	543311	                Parvimonas
+1.45	102	102	S	33033	                  Parvimonas micra
+1.38	97	0	C	909932	          Negativicutes
+1.38	97	0	O	1843489	            Veillonellales
+1.38	97	0	F	31977	              Veillonellaceae
+0.77	53	0	G	906	                Megasphaera
+0.77	53	0	G1	2626256	                  unclassified Megasphaera
+0.77	53	53	S	2023260	                    Megasphaera sp.
+0.62	43	0	G	39948	                Dialister
+0.62	43	43	S	487173	                  Dialister succinatiphilus

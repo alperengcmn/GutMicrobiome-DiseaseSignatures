@@ -1,0 +1,16 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Segatella	2974251	G	3610	624	4234	0.79318
+Treponema	157	G	306	35	341	0.06388
+Duodenibacillus	1980697	G	21	1	22	0.00412
+Roseburia	841	G	287	76	363	0.06800
+Agathobacter	1766253	G	60	21	81	0.01517
+Lachnospira	28050	G	21	2	23	0.00431
+Simiaoa	2944193	G	16	4	20	0.00375
+Dorea	189330	G	11	4	15	0.00281
+Faecalibacterium	216851	G	24	5	29	0.00543
+Ruminococcus	1263	G	14	0	14	0.00262
+Megasphaera	906	G	79	6	85	0.01592
+Mitsuokella	52225	G	30	11	41	0.00768
+Acidaminococcus	904	G	12	6	18	0.00337
+Ligilactobacillus	2767887	G	19	6	25	0.00468
+Homo	9605	G	19	2	21	0.00393

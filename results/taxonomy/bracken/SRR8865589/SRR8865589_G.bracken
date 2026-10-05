@@ -1,0 +1,10 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Segatella	2974251	G	594	145	739	0.38752
+Bacteroides	816	G	207	74	281	0.14735
+Parabacteroides	375288	G	107	48	155	0.08128
+Akkermansia	239934	G	138	18	156	0.08180
+Allocoprococcus	3569723	G	15	43	58	0.03041
+Blautia	572511	G	11	48	59	0.03094
+Ruminococcus	1263	G	38	60	98	0.05139
+Dialister	39948	G	170	57	227	0.11904
+Methanobrevibacter	2172	G	129	1	130	0.06817

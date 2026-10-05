@@ -1,0 +1,44 @@
+100.00	7502	0	R	1	root
+100.00	7502	0	R1	131567	  cellular organisms
+100.00	7502	0	D	2	    Bacteria
+82.85	6215	0	K	3379134	      Pseudomonadati
+82.41	6182	0	K1	1783270	        FCB group
+82.41	6182	0	K2	68336	          Bacteroidota/Chlorobiota group
+82.41	6182	0	P	976	            Bacteroidota
+82.41	6182	0	C	200643	              Bacteroidia
+82.41	6182	0	O	171549	                Bacteroidales
+81.12	6085	0	F	171552	                  Prevotellaceae
+81.12	6085	0	G	2974251	                    Segatella
+0.90	67	0	F	815	                  Bacteroidaceae
+0.62	46	0	G	816	                    Bacteroides
+0.28	20	0	G	909656	                    Phocaeicola
+0.40	29	0	F	171550	                  Rikenellaceae
+0.40	29	0	G	239759	                    Alistipes
+0.43	32	0	P	1224	        Pseudomonadota
+0.43	32	0	C	28216	          Betaproteobacteria
+0.43	32	0	O	80840	            Burkholderiales
+0.43	32	0	F	995019	              Sutterellaceae
+0.43	32	0	G	40544	                Sutterella
+17.15	1286	0	K	1783272	      Bacillati
+16.53	1240	0	P	1239	        Bacillota
+8.54	640	0	C	909932	          Negativicutes
+8.54	640	0	O	1843489	            Veillonellales
+8.54	640	0	F	31977	              Veillonellaceae
+6.09	457	0	G	39948	                Dialister
+2.45	183	0	G	906	                Megasphaera
+7.06	529	0	C	186801	          Clostridia
+6.75	506	0	O	186802	            Eubacteriales
+6.75	506	0	F	216572	              Oscillospiraceae
+6.75	506	0	G	216851	                Faecalibacterium
+0.31	23	0	O	3085636	            Lachnospirales
+0.31	23	0	F	186803	              Lachnospiraceae
+0.31	23	0	G	841	                Roseburia
+0.93	70	0	C	91061	          Bacilli
+0.93	70	0	O	186826	            Lactobacillales
+0.93	70	0	F	33958	              Lactobacillaceae
+0.93	70	0	G	2767887	                Ligilactobacillus
+0.62	46	0	P	201174	        Actinomycetota
+0.62	46	0	C	1760	          Actinomycetes
+0.62	46	0	O	85004	            Bifidobacteriales
+0.62	46	0	F	31953	              Bifidobacteriaceae
+0.62	46	0	G	1678	                Bifidobacterium

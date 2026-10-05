@@ -1,0 +1,55 @@
+100.00	8877	0	R	1	root
+100.00	8877	0	R1	131567	  cellular organisms
+100.00	8877	0	D	2	    Bacteria
+92.94	8250	0	K	3379134	      Pseudomonadati
+92.94	8250	0	K1	1783270	        FCB group
+92.94	8250	0	K2	68336	          Bacteroidota/Chlorobiota group
+92.94	8250	0	P	976	            Bacteroidota
+92.94	8250	0	C	200643	              Bacteroidia
+92.94	8250	0	O	171549	                Bacteroidales
+81.03	7192	0	F	171552	                  Prevotellaceae
+81.03	7192	0	G	2974251	                    Segatella
+80.74	7167	7167	S	165179	                      Segatella copri
+0.29	25	25	S	2518605	                      Segatella hominis
+9.86	875	0	F	815	                  Bacteroidaceae
+5.88	522	0	G	816	                    Bacteroides
+5.88	522	522	S	47678	                      Bacteroides caccae
+3.97	352	0	G	909656	                    Phocaeicola
+3.97	352	352	S	821	                      Phocaeicola vulgatus
+1.29	114	0	F	171550	                  Rikenellaceae
+1.29	114	0	G	239759	                    Alistipes
+1.29	114	114	S	28117	                      Alistipes putredinis
+0.57	50	0	F	2005525	                  Tannerellaceae
+0.57	50	0	G	375288	                    Parabacteroides
+0.57	50	50	S	46503	                      Parabacteroides merdae
+0.20	17	0	F	1853231	                  Odoribacteraceae
+0.20	17	0	G	283168	                    Odoribacter
+0.20	17	17	S	28118	                      Odoribacter splanchnicus
+7.06	626	0	K	1783272	      Bacillati
+7.06	626	0	P	1239	        Bacillota
+6.15	546	0	C	909932	          Negativicutes
+3.86	342	0	O	909929	            Selenomonadales
+3.86	342	0	F	1843491	              Selenomonadaceae
+3.86	342	0	G	158846	                Megamonas
+3.86	342	342	S	437897	                  Megamonas funiformis
+2.00	177	0	O	1843489	            Veillonellales
+2.00	177	0	F	31977	              Veillonellaceae
+1.25	110	0	G	39948	                Dialister
+1.25	110	110	S	2582419	                  Dialister hominis
+0.75	66	0	G	906	                Megasphaera
+0.75	66	0	G1	2626256	                  unclassified Megasphaera
+0.75	66	66	S	2023260	                    Megasphaera sp.
+0.30	26	0	O	1843488	            Acidaminococcales
+0.30	26	0	F	909930	              Acidaminococcaceae
+0.30	26	0	G	33024	                Phascolarctobacterium
+0.30	26	26	S	33025	                  Phascolarctobacterium faecium
+0.90	80	0	C	186801	          Clostridia
+0.90	80	0	O	3085636	            Lachnospirales
+0.90	80	0	F	186803	              Lachnospiraceae
+0.34	30	0	G	841	                Roseburia
+0.34	30	30	S	301302	                  Roseburia faecis
+0.28	25	0	G	1766253	                Agathobacter
+0.28	25	25	S	39491	                  Agathobacter rectalis
+0.27	24	0	G	33042	                Coprococcus
+0.27	24	0	G1	2684943	                  unclassified Coprococcus
+0.27	24	24	S	751585	                    Coprococcus sp. ART55/1

@@ -1,0 +1,43 @@
+100.00	7254	0	R	1	root
+100.00	7254	0	R1	131567	  cellular organisms
+100.00	7254	0	D	2	    Bacteria
+92.48	6708	0	K	3379134	      Pseudomonadati
+90.22	6544	0	K1	1783270	        FCB group
+90.22	6544	0	K2	68336	          Bacteroidota/Chlorobiota group
+90.22	6544	0	P	976	            Bacteroidota
+90.22	6544	0	C	200643	              Bacteroidia
+90.22	6544	0	O	171549	                Bacteroidales
+49.61	3598	0	F	815	                  Bacteroidaceae
+37.25	2702	0	F	171552	                  Prevotellaceae
+1.63	118	0	F	2005525	                  Tannerellaceae
+0.82	59	0	F	171550	                  Rikenellaceae
+0.49	35	0	F	1853231	                  Odoribacteraceae
+0.41	29	0	F	171551	                  Porphyromonadaceae
+2.26	164	0	P	1224	        Pseudomonadota
+2.26	164	0	C	1236	          Gammaproteobacteria
+2.26	164	0	O	91347	            Enterobacterales
+2.26	164	0	F	543	              Enterobacteriaceae
+6.94	503	0	K	1783272	      Bacillati
+6.76	490	0	P	1239	        Bacillota
+5.47	396	0	C	186801	          Clostridia
+2.94	212	0	O	186802	            Eubacteriales
+2.94	212	0	F	216572	              Oscillospiraceae
+2.54	183	0	O	3085636	            Lachnospirales
+2.54	183	0	F	186803	              Lachnospiraceae
+1.29	93	0	C	909932	          Negativicutes
+1.29	93	0	O	1843489	            Veillonellales
+1.29	93	0	F	31977	              Veillonellaceae
+0.18	13	0	P	201174	        Actinomycetota
+0.18	13	0	C	1760	          Actinomycetes
+0.18	13	0	O	85004	            Bifidobacteriales
+0.18	13	0	F	31953	              Bifidobacteriaceae
+0.29	20	0	K	3384194	      Thermotogati
+0.29	20	0	P	508458	        Synergistota
+0.29	20	0	C	649775	          Synergistia
+0.29	20	0	O	649776	            Synergistales
+0.29	20	0	F	3029088	              Dethiosulfovibrionaceae
+0.28	20	0	K	3384189	      Fusobacteriati
+0.28	20	0	P	32066	        Fusobacteriota
+0.28	20	0	C	203490	          Fusobacteriia
+0.28	20	0	O	203491	            Fusobacteriales
+0.28	20	0	F	203492	              Fusobacteriaceae

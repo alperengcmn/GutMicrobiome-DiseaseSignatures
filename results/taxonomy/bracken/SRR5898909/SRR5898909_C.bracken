@@ -1,0 +1,10 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacteroidia	200643	C	7231	362	7593	0.75620
+Desulfovibrionia	3031449	C	17	1	18	0.00179
+Negativicutes	909932	C	995	81	1076	0.10716
+Clostridia	186801	C	991	89	1080	0.10756
+Bacilli	91061	C	15	1	16	0.00159
+Coriobacteriia	84998	C	25	2	27	0.00269
+Actinomycetes	1760	C	14	0	14	0.00139
+Mammalia	40674	C	16	0	16	0.00159
+Caudoviricetes	2731619	C	195	1	196	0.01952

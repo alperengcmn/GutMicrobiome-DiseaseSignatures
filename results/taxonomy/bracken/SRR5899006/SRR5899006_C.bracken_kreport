@@ -1,0 +1,41 @@
+100.00	6250	0	R	1	root
+99.66	6229	0	R1	131567	  cellular organisms
+99.11	6194	0	D	2	    Bacteria
+87.32	5457	0	K	3379134	      Pseudomonadati
+85.51	5344	0	K1	1783270	        FCB group
+85.51	5344	0	K2	68336	          Bacteroidota/Chlorobiota group
+85.51	5344	0	P	976	            Bacteroidota
+85.51	5344	0	C	200643	              Bacteroidia
+1.59	99	0	P	1224	        Pseudomonadota
+1.40	87	0	C	1236	          Gammaproteobacteria
+0.18	11	0	C	28216	          Betaproteobacteria
+0.22	13	0	P	200940	        Thermodesulfobacteriota
+0.22	13	0	C	3031449	          Desulfovibrionia
+11.79	737	0	K	1783272	      Bacillati
+11.49	718	0	P	1239	        Bacillota
+6.05	378	0	C	909932	          Negativicutes
+5.44	340	0	C	186801	          Clostridia
+0.30	18	0	P	201174	        Actinomycetota
+0.30	18	0	C	1760	          Actinomycetes
+0.55	34	0	D	2759	    Eukaryota
+0.55	34	0	D1	33154	      Opisthokonta
+0.55	34	0	K	33208	        Metazoa
+0.55	34	0	K1	6072	          Eumetazoa
+0.55	34	0	K2	33213	            Bilateria
+0.55	34	0	K3	33511	              Deuterostomia
+0.55	34	0	P	7711	                Chordata
+0.55	34	0	P1	89593	                  Craniata
+0.55	34	0	P2	7742	                    Vertebrata
+0.55	34	0	P3	7776	                      Gnathostomata
+0.55	34	0	P4	117570	                        Teleostomi
+0.55	34	0	P5	117571	                          Euteleostomi
+0.55	34	0	P6	8287	                            Sarcopterygii
+0.55	34	0	P7	1338369	                              Dipnotetrapodomorpha
+0.55	34	0	P8	32523	                                Tetrapoda
+0.55	34	0	P9	32524	                                  Amniota
+0.55	34	34	C	40674	                                    Mammalia
+0.34	21	0	R1	10239	  Viruses
+0.34	21	0	R2	2731341	    Duplodnaviria
+0.34	21	0	K	2731360	      Heunggongvirae
+0.34	21	0	P	2731618	        Uroviricota
+0.34	21	0	C	2731619	          Caudoviricetes

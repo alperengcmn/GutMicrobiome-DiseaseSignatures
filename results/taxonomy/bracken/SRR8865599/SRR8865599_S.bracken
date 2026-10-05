@@ -1,0 +1,33 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Enterobacter cloacae	550	S	10	660	670	0.05622
+Escherichia coli	562	S	63	6152	6215	0.52148
+Haemophilus parainfluenzae	729	S	53	49	102	0.00856
+Bacteroides thetaiotaomicron	818	S	48	58	106	0.00889
+Bacteroides hominis	2763023	S	18	285	303	0.02542
+Bacteroides ovatus	28116	S	13	236	249	0.02089
+Phocaeicola vulgatus	821	S	44	127	171	0.01435
+Segatella copri	165179	S	261	79	340	0.02853
+Mediterraneibacter torques	33039	S	191	94	285	0.02391
+Mediterraneibacter gnavus	33038	S	10	5	15	0.00126
+Blautia wexlerae	418240	S	52	80	132	0.01108
+Blautia sp. SC05B48	2479767	S	33	185	218	0.01829
+Blautia obeum	40520	S	25	20	45	0.00378
+Dorea longicatena	88431	S	39	48	87	0.00730
+Enterocloster bolteae	208479	S	35	23	58	0.00487
+[Clostridium] scindens	29347	S	34	9	43	0.00361
+Roseburia hominis	301301	S	14	9	23	0.00193
+Faecalimonas umbilicata	1912855	S	13	7	20	0.00168
+Flavonifractor plautii	292800	S	300	119	419	0.03516
+Faecalibacterium prausnitzii	853	S	43	131	174	0.01460
+Streptococcus parasanguinis	1318	S	16	197	213	0.01787
+Streptococcus oralis	1303	S	12	231	243	0.02039
+Streptococcus salivarius	1304	S	12	293	305	0.02559
+Streptococcus lactarius	684066	S	10	28	38	0.00319
+Limosilactobacillus fermentum	1613	S	82	73	155	0.01301
+Limosilactobacillus mucosae	97478	S	31	86	117	0.00982
+Ligilactobacillus salivarius	1624	S	27	16	43	0.00361
+Veillonella parvula	29466	S	360	241	601	0.05043
+Dialister hominis	2582419	S	219	32	251	0.02106
+Bifidobacterium longum	216816	S	39	100	139	0.01166
+Rothia mucilaginosa	43675	S	18	23	41	0.00344
+Collinsella aerofaciens	74426	S	23	55	78	0.00654

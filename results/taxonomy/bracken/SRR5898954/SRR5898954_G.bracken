@@ -1,0 +1,17 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Segatella	2974251	G	1258	165	1423	0.33897
+Bacteroides	816	G	737	155	892	0.21248
+Phocaeicola	909656	G	240	61	301	0.07170
+Alistipes	239759	G	123	43	166	0.03954
+Parabacteroides	375288	G	72	26	98	0.02334
+Escherichia	561	G	25	570	595	0.14173
+Haemophilus	724	G	23	6	29	0.00691
+Ruminococcus	1263	G	131	11	142	0.03383
+Faecalibacterium	216851	G	51	11	62	0.01477
+Agathobacter	1766253	G	26	29	55	0.01310
+Coprococcus	33042	G	18	6	24	0.00572
+Dialister	39948	G	22	2	24	0.00572
+Bifidobacterium	1678	G	25	3	28	0.00667
+Homo	9605	G	10	0	10	0.00238
+Smehivirus	3700818	G	59	232	291	0.06932
+Burzaovirus	2948645	G	10	39	49	0.01167

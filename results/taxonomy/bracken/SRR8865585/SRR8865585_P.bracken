@@ -1,0 +1,6 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacteroidota	976	P	6394	164	6558	0.78936
+Pseudomonadota	1224	P	37	12	49	0.00590
+Thermodesulfobacteriota	200940	P	22	1	23	0.00277
+Bacillota	1239	P	1534	120	1654	0.19909
+Uroviricota	2731618	P	19	3	22	0.00265

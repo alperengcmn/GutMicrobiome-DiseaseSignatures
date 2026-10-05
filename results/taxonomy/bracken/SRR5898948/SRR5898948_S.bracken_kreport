@@ -1,0 +1,53 @@
+100.00	9785	0	R	1	root
+100.00	9785	0	R1	131567	  cellular organisms
+100.00	9785	0	D	2	    Bacteria
+94.92	9289	0	K	3379134	      Pseudomonadati
+94.92	9289	0	K1	1783270	        FCB group
+94.92	9289	0	K2	68336	          Bacteroidota/Chlorobiota group
+94.92	9289	0	P	976	            Bacteroidota
+94.92	9289	0	C	200643	              Bacteroidia
+94.92	9289	0	O	171549	                Bacteroidales
+84.34	8253	0	F	815	                  Bacteroidaceae
+68.82	6734	0	G	816	                    Bacteroides
+25.30	2475	2475	S	820	                      Bacteroides uniformis
+38.22	3740	3740	S	28116	                      Bacteroides ovatus
+2.87	280	280	S	47678	                      Bacteroides caccae
+1.41	137	137	S	818	                      Bacteroides thetaiotaomicron
+1.02	100	100	S	371601	                      Bacteroides xylanisolvens
+15.52	1518	0	G	909656	                    Phocaeicola
+15.52	1518	1518	S	357276	                      Phocaeicola dorei
+9.74	953	0	F	171550	                  Rikenellaceae
+9.74	953	0	G	239759	                    Alistipes
+5.60	548	548	S	28117	                      Alistipes putredinis
+2.73	267	267	S	214856	                      Alistipes finegoldii
+0.69	67	67	S	2585118	                      Alistipes communis
+0.60	58	58	S	328813	                      Alistipes onderdonkii
+0.13	12	12	S	626932	                      Alistipes indistinctus
+0.55	54	0	F	1853231	                  Odoribacteraceae
+0.55	54	0	G	283168	                    Odoribacter
+0.55	54	54	S	28118	                      Odoribacter splanchnicus
+0.29	28	0	F	171552	                  Prevotellaceae
+0.29	28	0	G	577309	                    Paraprevotella
+0.29	28	28	S	454154	                      Paraprevotella clara
+5.08	496	0	K	1783272	      Bacillati
+3.98	389	0	P	1239	        Bacillota
+3.80	371	0	C	186801	          Clostridia
+3.45	337	0	O	186802	            Eubacteriales
+3.45	337	0	F	216572	              Oscillospiraceae
+3.45	337	0	G	216851	                Faecalibacterium
+3.45	337	337	S	853	                  Faecalibacterium prausnitzii
+0.35	34	0	O	3085636	            Lachnospirales
+0.35	34	0	F	186803	              Lachnospiraceae
+0.35	34	0	G	1766253	                Agathobacter
+0.35	34	34	S	39491	                  Agathobacter rectalis
+0.18	17	0	C	909932	          Negativicutes
+0.18	17	0	O	1843488	            Acidaminococcales
+0.18	17	0	F	909930	              Acidaminococcaceae
+0.18	17	0	G	33024	                Phascolarctobacterium
+0.18	17	17	S	33025	                  Phascolarctobacterium faecium
+1.10	107	0	P	201174	        Actinomycetota
+1.10	107	0	C	1760	          Actinomycetes
+1.10	107	0	O	85004	            Bifidobacteriales
+1.10	107	0	F	31953	              Bifidobacteriaceae
+1.10	107	0	G	1678	                Bifidobacterium
+1.10	107	107	S	216816	                  Bifidobacterium longum

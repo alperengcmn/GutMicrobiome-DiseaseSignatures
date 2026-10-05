@@ -1,0 +1,45 @@
+100.00	4508	0	R	1	root
+100.00	4508	0	R1	131567	  cellular organisms
+100.00	4508	0	D	2	    Bacteria
+58.48	2637	0	K	1783272	      Bacillati
+58.48	2637	0	P	1239	        Bacillota
+55.71	2511	0	C	186801	          Clostridia
+55.71	2511	0	O	3085636	            Lachnospirales
+55.71	2511	0	F	186803	              Lachnospiraceae
+49.08	2213	0	G	2944193	                Simiaoa
+49.08	2213	2213	S	2763672	                  Simiaoa sunii
+2.97	133	0	G	841	                Roseburia
+1.51	67	67	S	301301	                  Roseburia hominis
+0.71	32	32	S	301302	                  Roseburia faecis
+0.76	34	34	S	166486	                  Roseburia intestinalis
+2.55	115	0	G	1766253	                Agathobacter
+2.55	115	115	S	39491	                  Agathobacter rectalis
+0.78	35	0	G	189330	                Dorea
+0.78	35	35	S	88431	                  Dorea longicatena
+0.32	14	0	G	3569723	                Allocoprococcus
+0.32	14	14	S	410072	                  Allocoprococcus comes
+2.77	125	0	C	909932	          Negativicutes
+2.32	104	0	O	909929	            Selenomonadales
+2.32	104	0	F	1843491	              Selenomonadaceae
+2.32	104	0	G	52225	                Mitsuokella
+2.32	104	104	S	52226	                  Mitsuokella multacida
+0.46	20	0	O	1843489	            Veillonellales
+0.46	20	0	F	31977	              Veillonellaceae
+0.46	20	0	G	906	                Megasphaera
+0.46	20	0	G1	2626256	                  unclassified Megasphaera
+0.46	20	20	S	2023260	                    Megasphaera sp.
+41.52	1871	0	K	3379134	      Pseudomonadati
+41.52	1871	0	K1	1783270	        FCB group
+41.52	1871	0	K2	68336	          Bacteroidota/Chlorobiota group
+41.52	1871	0	P	976	            Bacteroidota
+41.52	1871	0	C	200643	              Bacteroidia
+41.52	1871	0	O	171549	                Bacteroidales
+35.02	1578	0	F	171552	                  Prevotellaceae
+35.02	1578	0	G	2974251	                    Segatella
+35.02	1578	1578	S	165179	                      Segatella copri
+5.89	265	0	F	815	                  Bacteroidaceae
+5.89	265	0	G	909656	                    Phocaeicola
+5.89	265	265	S	821	                      Phocaeicola vulgatus
+0.60	27	0	F	1853231	                  Odoribacteraceae
+0.60	27	0	G	283168	                    Odoribacter
+0.60	27	27	S	28118	                      Odoribacter splanchnicus

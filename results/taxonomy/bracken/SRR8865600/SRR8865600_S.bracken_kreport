@@ -1,0 +1,80 @@
+100.00	5993	0	R	1	root
+100.00	5993	0	R1	131567	  cellular organisms
+100.00	5993	0	D	2	    Bacteria
+88.42	5299	0	K	3379134	      Pseudomonadati
+48.40	2900	0	K1	1783270	        FCB group
+48.40	2900	0	K2	68336	          Bacteroidota/Chlorobiota group
+48.40	2900	0	P	976	            Bacteroidota
+48.40	2900	0	C	200643	              Bacteroidia
+48.40	2900	0	O	171549	                Bacteroidales
+24.62	1475	0	F	815	                  Bacteroidaceae
+21.78	1305	0	G	816	                    Bacteroides
+12.11	725	725	S	820	                      Bacteroides uniformis
+3.03	181	181	S	817	                      Bacteroides fragilis
+2.17	129	129	S	818	                      Bacteroides thetaiotaomicron
+1.28	76	76	S	47678	                      Bacteroides caccae
+1.29	77	77	S	329854	                      Bacteroides intestinalis
+1.57	94	94	S	291645	                      Bacteroides nordii
+0.32	19	19	S	28111	                      Bacteroides eggerthii
+2.84	170	0	G	909656	                    Phocaeicola
+2.14	128	128	S	821	                      Phocaeicola vulgatus
+0.70	42	42	S	357276	                      Phocaeicola dorei
+11.67	699	0	F	171550	                  Rikenellaceae
+11.67	699	0	G	239759	                    Alistipes
+11.67	699	699	S	28117	                      Alistipes putredinis
+5.40	323	0	F	171551	                  Porphyromonadaceae
+5.40	323	0	G	836	                    Porphyromonas
+5.40	323	323	S	28123	                      Porphyromonas asaccharolytica
+2.57	153	0	F	1853231	                  Odoribacteraceae
+2.10	125	0	G	283168	                    Odoribacter
+2.10	125	125	S	28118	                      Odoribacter splanchnicus
+0.47	27	0	G	574697	                    Butyricimonas
+0.47	27	27	S	544645	                      Butyricimonas virosa
+2.40	144	0	F	171552	                  Prevotellaceae
+1.68	100	0	G	838	                    Prevotella
+1.68	100	100	S	28125	                      Prevotella bivia
+0.73	43	0	G	2974251	                    Segatella
+0.73	43	43	S	165179	                      Segatella copri
+1.74	104	0	F	2005525	                  Tannerellaceae
+1.74	104	0	G	375288	                    Parabacteroides
+1.32	79	79	S	823	                      Parabacteroides distasonis
+0.42	25	25	S	328812	                      Parabacteroides goldsteinii
+40.02	2398	0	P	1224	        Pseudomonadota
+40.02	2398	0	C	1236	          Gammaproteobacteria
+40.02	2398	0	O	91347	            Enterobacterales
+40.02	2398	0	F	543	              Enterobacteriaceae
+40.02	2398	0	G	561	                Escherichia
+40.02	2398	2398	S	562	                  Escherichia coli
+11.58	693	0	K	1783272	      Bacillati
+11.58	693	0	P	1239	        Bacillota
+6.90	413	0	C	186801	          Clostridia
+2.93	175	0	O	3085636	            Lachnospirales
+2.93	175	0	F	186803	              Lachnospiraceae
+2.10	125	0	G	2944193	                Simiaoa
+2.10	125	125	S	2763672	                  Simiaoa sunii
+0.84	50	0	G	1766253	                Agathobacter
+0.84	50	50	S	39491	                  Agathobacter rectalis
+2.32	139	0	O	186802	            Eubacteriales
+2.32	139	0	F	216572	              Oscillospiraceae
+1.60	95	0	G	216851	                Faecalibacterium
+1.60	95	95	S	853	                  Faecalibacterium prausnitzii
+0.73	43	0	G	2172004	                Lawsonibacter
+0.73	43	43	S	2108523	                  Lawsonibacter asaccharolyticus
+1.64	98	0	O	3082720	            Peptostreptococcales
+1.64	98	0	F	186804	              Peptostreptococcaceae
+1.64	98	0	G	1257	                Peptostreptococcus
+1.64	98	98	S	1261	                  Peptostreptococcus anaerobius
+3.39	202	0	C	909932	          Negativicutes
+2.83	169	0	O	1843489	            Veillonellales
+2.83	169	0	F	31977	              Veillonellaceae
+2.83	169	0	G	39948	                Dialister
+2.83	169	169	S	2582419	                  Dialister hominis
+0.55	33	0	O	1843488	            Acidaminococcales
+0.55	33	0	F	909930	              Acidaminococcaceae
+0.55	33	0	G	33024	                Phascolarctobacterium
+0.55	33	33	S	33025	                  Phascolarctobacterium faecium
+1.29	77	0	C	1737404	          Tissierellia
+1.29	77	0	O	1737405	            Tissierellales
+1.29	77	0	F	1570339	              Peptoniphilaceae
+1.29	77	0	G	543311	                Parvimonas
+1.29	77	77	S	33033	                  Parvimonas micra

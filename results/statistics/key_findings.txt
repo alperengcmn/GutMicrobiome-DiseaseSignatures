@@ -1,0 +1,8 @@
+[ALPHA] observed diversity differs significantly between groups (Kruskal-Wallis, adj. p = 0.0001).
+[ALPHA] shannon diversity differs significantly between groups (Kruskal-Wallis, adj. p = 0.0001).
+[ALPHA] simpson diversity differs significantly between groups (Kruskal-Wallis, adj. p = 0.0001).
+[BETA] Community composition differs significantly between groups by bray_curtis (PERMANOVA: F=14.097, R²=0.196, p=0.0010, permutations within location). PERMDISP p=0.0040 — group dispersions differ, so part of the PERMANOVA signal may reflect spread rather than a shift in composition.
+[BETA] Community composition differs significantly between groups by jaccard (PERMANOVA: F=6.520, R²=0.101, p=0.0010, permutations within location). PERMDISP p=0.0040 — group dispersions differ, so part of the PERMANOVA signal may reflect spread rather than a shift in composition.
+[TAXONOMY] Dominant genera by mean relative abundance: Segatella (32.1%), Bacteroides (15.6%), Phocaeicola (8.3%).
+[DIFF_ABUND] 18/51 genus taxa differ significantly in CRC_vs_Healthy. Top: Agathobacter, Mediterraneibacter, Megasphaera. 17 are also significant in the sensitivity method with the same direction.
+[DIFF_ABUND] 20/65 species taxa differ significantly in CRC_vs_Healthy. Top: Roseburia faecis, Agathobacter rectalis, Parabacteroides distasonis. 17 are also significant in the sensitivity method with the same direction.

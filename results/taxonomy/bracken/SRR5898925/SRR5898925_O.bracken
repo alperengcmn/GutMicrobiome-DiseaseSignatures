@@ -1,0 +1,6 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacteroidales	171549	O	7254	251	7505	0.97951
+Veillonellales	1843489	O	63	5	68	0.00887
+Selenomonadales	909929	O	11	0	11	0.00144
+Lachnospirales	3085636	O	38	11	49	0.00640
+Eubacteriales	186802	O	27	0	27	0.00352

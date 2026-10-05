@@ -1,0 +1,42 @@
+100.00	5356	0	R	1	root
+100.00	5356	0	R1	131567	  cellular organisms
+100.00	5356	0	D	2	    Bacteria
+93.37	5000	0	K	3379134	      Pseudomonadati
+92.65	4962	0	K1	1783270	        FCB group
+92.65	4962	0	K2	68336	          Bacteroidota/Chlorobiota group
+92.65	4962	0	P	976	            Bacteroidota
+92.65	4962	0	C	200643	              Bacteroidia
+92.65	4962	0	O	171549	                Bacteroidales
+92.16	4936	0	F	171552	                  Prevotellaceae
+92.16	4936	0	G	2974251	                    Segatella
+85.82	4596	4596	S	165179	                      Segatella copri
+6.34	339	339	S	2518605	                      Segatella hominis
+0.48	25	0	F	2005525	                  Tannerellaceae
+0.48	25	0	G	375288	                    Parabacteroides
+0.48	25	25	S	46503	                      Parabacteroides merdae
+0.72	38	0	P	1224	        Pseudomonadota
+0.72	38	0	C	28216	          Betaproteobacteria
+0.72	38	0	O	80840	            Burkholderiales
+0.72	38	0	F	995019	              Sutterellaceae
+0.72	38	0	G	40544	                Sutterella
+0.72	38	38	S	2584944	                  Sutterella faecalis
+6.63	355	0	K	1783272	      Bacillati
+6.63	355	0	P	1239	        Bacillota
+5.56	297	0	C	186801	          Clostridia
+5.56	297	0	O	3085636	            Lachnospirales
+5.56	297	0	F	186803	              Lachnospiraceae
+4.22	226	0	G	1766253	                Agathobacter
+4.22	226	226	S	39491	                  Agathobacter rectalis
+0.58	31	0	G	2944193	                Simiaoa
+0.58	31	31	S	2763672	                  Simiaoa sunii
+0.43	22	0	G	841	                Roseburia
+0.43	22	22	S	301302	                  Roseburia faecis
+0.32	17	0	G	33042	                Coprococcus
+0.32	17	0	G1	2684943	                  unclassified Coprococcus
+0.32	17	17	S	751585	                    Coprococcus sp. ART55/1
+1.08	57	0	C	909932	          Negativicutes
+1.08	57	0	O	1843489	            Veillonellales
+1.08	57	0	F	31977	              Veillonellaceae
+1.08	57	0	G	906	                Megasphaera
+1.08	57	0	G1	2626256	                  unclassified Megasphaera
+1.08	57	57	S	2023260	                    Megasphaera sp.

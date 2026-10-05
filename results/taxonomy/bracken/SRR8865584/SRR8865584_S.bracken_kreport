@@ -1,0 +1,82 @@
+100.00	2422	0	R	1	root
+100.00	2422	0	R1	131567	  cellular organisms
+97.60	2363	0	D	2	    Bacteria
+49.06	1188	0	K	1783272	      Bacillati
+45.01	1090	0	P	1239	        Bacillota
+27.88	675	0	C	186801	          Clostridia
+15.09	365	0	O	3085636	            Lachnospirales
+15.09	365	0	F	186803	              Lachnospiraceae
+11.58	280	0	G	2944193	                Simiaoa
+11.58	280	280	S	2763672	                  Simiaoa sunii
+2.46	59	0	G	1766253	                Agathobacter
+2.46	59	59	S	39491	                  Agathobacter rectalis
+1.05	25	0	G	841	                Roseburia
+1.05	25	25	S	301302	                  Roseburia faecis
+9.28	224	0	O	186802	            Eubacteriales
+8.02	194	0	F	216572	              Oscillospiraceae
+3.47	83	0	G	2591381	                Dysosmobacter
+3.47	83	83	S	2093857	                  Dysosmobacter welbionis
+3.03	73	0	G	2892396	                Vescimonas
+1.58	38	38	S	2714353	                  Vescimonas fastidiosa
+1.46	35	35	S	2714355	                  Vescimonas coprocola
+1.52	36	0	G	3073575	                Hominenteromicrobium
+1.52	36	36	S	2885357	                  Hominenteromicrobium mulieris
+1.27	30	0	O1	538999	              Eubacteriales incertae sedis
+1.27	30	0	G	1392389	                Intestinimonas
+1.27	30	30	S	1297617	                  Intestinimonas butyriciproducens
+3.50	84	0	O	3082720	            Peptostreptococcales
+3.50	84	0	F	186804	              Peptostreptococcaceae
+3.50	84	0	G	1257	                Peptostreptococcus
+3.50	84	84	S	1261	                  Peptostreptococcus anaerobius
+16.01	387	0	C	909932	          Negativicutes
+10.53	254	0	O	909929	            Selenomonadales
+10.53	254	0	F	1843491	              Selenomonadaceae
+10.53	254	0	G	52225	                Mitsuokella
+10.53	254	254	S	52226	                  Mitsuokella multacida
+5.48	132	0	O	1843489	            Veillonellales
+5.48	132	0	F	31977	              Veillonellaceae
+5.48	132	0	G	906	                Megasphaera
+5.48	132	0	G1	2626256	                  unclassified Megasphaera
+5.48	132	132	S	2023260	                    Megasphaera sp.
+1.13	27	0	C	526524	          Erysipelotrichia
+1.13	27	0	O	526525	            Erysipelotrichales
+1.13	27	0	F	128827	              Erysipelotrichaceae
+1.13	27	0	G	123375	                Solobacterium
+1.13	27	27	S	102148	                  Solobacterium moorei
+4.05	98	0	P	201174	        Actinomycetota
+4.05	98	0	C	1760	          Actinomycetes
+4.05	98	0	O	85004	            Bifidobacteriales
+4.05	98	0	F	31953	              Bifidobacteriaceae
+4.05	98	0	G	1678	                Bifidobacterium
+4.05	98	98	S	1680	                  Bifidobacterium adolescentis
+48.54	1175	0	K	3379134	      Pseudomonadati
+48.08	1164	0	K1	1783270	        FCB group
+48.08	1164	0	K2	68336	          Bacteroidota/Chlorobiota group
+48.08	1164	0	P	976	            Bacteroidota
+48.08	1164	0	C	200643	              Bacteroidia
+48.08	1164	0	O	171549	                Bacteroidales
+32.48	786	0	F	171552	                  Prevotellaceae
+32.48	786	0	G	2974251	                    Segatella
+29.57	716	716	S	165179	                      Segatella copri
+2.91	70	70	S	2518605	                      Segatella hominis
+15.60	377	0	F	815	                  Bacteroidaceae
+13.46	325	0	G	816	                    Bacteroides
+1.05	25	25	S	47678	                      Bacteroides caccae
+12.41	300	300	S	2763023	                      Bacteroides hominis
+2.14	51	0	G	909656	                    Phocaeicola
+2.14	51	51	S	821	                      Phocaeicola vulgatus
+0.46	11	0	P	200940	        Thermodesulfobacteriota
+0.46	11	0	C	3031449	          Desulfovibrionia
+0.46	11	0	O	213115	            Desulfovibrionales
+0.46	11	0	F	194924	              Desulfovibrionaceae
+0.46	11	0	G	35832	                Bilophila
+0.46	11	11	S	35833	                  Bilophila wadsworthia
+2.40	58	0	D	2157	    Archaea
+2.40	58	0	K	3366610	      Methanobacteriati
+2.40	58	0	P	28890	        Methanobacteriota
+2.40	58	0	P1	2283794	          Methanomada group
+2.40	58	0	C	183925	            Methanobacteria
+2.40	58	0	O	2158	              Methanobacteriales
+2.40	58	0	F	2159	                Methanobacteriaceae
+2.40	58	0	G	2172	                  Methanobrevibacter
+2.40	58	58	S	2173	                    Methanobrevibacter smithii

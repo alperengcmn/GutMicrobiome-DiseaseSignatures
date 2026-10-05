@@ -1,0 +1,21 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Segatella copri	165179	S	443	273	716	0.29562
+Segatella hominis	2518605	S	26	44	70	0.02890
+Bacteroides caccae	47678	S	12	13	25	0.01032
+Bacteroides hominis	2763023	S	11	289	300	0.12386
+Phocaeicola vulgatus	821	S	10	41	51	0.02106
+Bilophila wadsworthia	35833	S	10	1	11	0.00454
+Simiaoa sunii	2763672	S	147	133	280	0.11561
+Agathobacter rectalis	39491	S	27	32	59	0.02436
+Roseburia faecis	301302	S	14	11	25	0.01032
+Vescimonas fastidiosa	2714353	S	16	22	38	0.01569
+Vescimonas coprocola	2714355	S	15	20	35	0.01445
+Dysosmobacter welbionis	2093857	S	16	67	83	0.03427
+Hominenteromicrobium mulieris	2885357	S	14	22	36	0.01486
+Intestinimonas butyriciproducens	1297617	S	20	10	30	0.01239
+Peptostreptococcus anaerobius	1261	S	34	50	84	0.03468
+Mitsuokella multacida	52226	S	172	82	254	0.10487
+Megasphaera sp.	2023260	S	64	68	132	0.05450
+Solobacterium moorei	102148	S	10	17	27	0.01115
+Bifidobacterium adolescentis	1680	S	24	74	98	0.04046
+Methanobrevibacter smithii	2173	S	24	34	58	0.02395

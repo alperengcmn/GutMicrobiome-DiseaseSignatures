@@ -1,0 +1,55 @@
+100.00	3022	0	R	1	root
+100.00	3022	0	R1	131567	  cellular organisms
+100.00	3022	0	D	2	    Bacteria
+63.41	1916	0	K	3379134	      Pseudomonadati
+63.41	1916	0	K1	1783270	        FCB group
+63.41	1916	0	K2	68336	          Bacteroidota/Chlorobiota group
+63.41	1916	0	P	976	            Bacteroidota
+63.41	1916	0	C	200643	              Bacteroidia
+63.41	1916	0	O	171549	                Bacteroidales
+63.41	1916	0	F	171552	                  Prevotellaceae
+63.41	1916	0	G	2974251	                    Segatella
+60.55	1829	1829	S	165179	                      Segatella copri
+2.87	86	86	S	2518605	                      Segatella hominis
+36.59	1105	0	K	1783272	      Bacillati
+32.37	978	0	P	1239	        Bacillota
+26.76	808	0	C	186801	          Clostridia
+25.47	769	0	O	3085636	            Lachnospirales
+25.47	769	0	F	186803	              Lachnospiraceae
+14.54	439	0	G	1766253	                Agathobacter
+14.54	439	439	S	39491	                  Agathobacter rectalis
+3.07	92	0	G	841	                Roseburia
+3.07	92	92	S	301302	                  Roseburia faecis
+2.94	88	0	G	3342669	                Eshraghiella
+2.94	88	88	S	45851	                  Eshraghiella crossota
+2.12	64	0	G	2944193	                Simiaoa
+2.12	64	64	S	2763672	                  Simiaoa sunii
+1.46	44	0	G	189330	                Dorea
+1.46	44	44	S	88431	                  Dorea longicatena
+0.79	23	0	G	572511	                Blautia
+0.79	23	23	S	40520	                  Blautia obeum
+0.55	16	0	G	28050	                Lachnospira
+0.55	16	16	S	39485	                  Lachnospira eligens
+1.29	39	0	O	186802	            Eubacteriales
+1.29	39	0	F	216572	              Oscillospiraceae
+1.29	39	0	G	1263	                Ruminococcus
+0.69	20	20	S	40519	                  Ruminococcus callidus
+0.60	18	18	S	1160721	                  Ruminococcus bicirculans (ex Wegman et al. 2014)
+5.61	169	0	C	909932	          Negativicutes
+4.26	128	0	O	1843489	            Veillonellales
+4.26	128	0	F	31977	              Veillonellaceae
+2.31	69	0	G	39948	                Dialister
+2.31	69	69	S	487173	                  Dialister succinatiphilus
+1.95	59	0	G	906	                Megasphaera
+1.95	59	0	G1	2626256	                  unclassified Megasphaera
+1.95	59	59	S	2023260	                    Megasphaera sp.
+1.36	40	0	O	909929	            Selenomonadales
+1.36	40	0	F	1843491	              Selenomonadaceae
+1.36	40	0	G	52225	                Mitsuokella
+1.36	40	40	S	52226	                  Mitsuokella multacida
+4.21	127	0	P	201174	        Actinomycetota
+4.21	127	0	C	1760	          Actinomycetes
+4.21	127	0	O	85004	            Bifidobacteriales
+4.21	127	0	F	31953	              Bifidobacteriaceae
+4.21	127	0	G	1678	                Bifidobacterium
+4.21	127	127	S	1680	                  Bifidobacterium adolescentis

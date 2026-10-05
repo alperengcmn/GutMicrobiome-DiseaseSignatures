@@ -1,0 +1,17 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacteroidaceae	815	F	6101	724	6825	0.68182
+Tannerellaceae	2005525	F	397	44	441	0.04406
+Rikenellaceae	171550	F	262	40	302	0.03017
+Odoribacteraceae	1853231	F	13	1	14	0.00140
+Desulfovibrionaceae	194924	F	16	2	18	0.00180
+Veillonellaceae	31977	F	962	90	1052	0.10509
+Selenomonadaceae	1843491	F	10	1	11	0.00110
+Oscillospiraceae	216572	F	530	66	596	0.05954
+Eubacteriaceae	186806	F	44	21	65	0.00649
+Clostridiaceae	31979	F	25	9	34	0.00340
+Lachnospiraceae	186803	F	313	71	384	0.03836
+Lactobacillaceae	33958	F	11	1	12	0.00120
+Coriobacteriaceae	84107	F	23	2	25	0.00250
+Bifidobacteriaceae	31953	F	13	0	13	0.00130
+Hominidae	9604	F	16	0	16	0.00160
+Intestiviridae	2942964	F	194	1	195	0.01948

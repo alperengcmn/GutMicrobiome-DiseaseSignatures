@@ -1,0 +1,16 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacteroides intestinalis	329854	S	359	364	723	0.26640
+Bacteroides uniformis	820	S	141	830	971	0.35777
+Bacteroides eggerthii	28111	S	68	154	222	0.08180
+Segatella copri	165179	S	49	46	95	0.03500
+Segatella hominis	2518605	S	12	23	35	0.01290
+Butyricimonas virosa	544645	S	21	26	47	0.01732
+Odoribacter splanchnicus	28118	S	24	17	41	0.01511
+Desulfovibrio piger	901	S	31	26	57	0.02100
+Akkermansia muciniphila	239935	S	31	25	56	0.02063
+Vescimonas coprocola	2714355	S	10	145	155	0.05711
+Ruminococcus champanellensis	1161942	S	18	12	30	0.01105
+Ruthenibacterium lactatiformans	1550024	S	11	45	56	0.02063
+Simiaoa sunii	2763672	S	14	106	120	0.04422
+Dialister pneumosintes	39950	S	16	21	37	0.01363
+Homo sapiens	9606	S	55	8	63	0.02321

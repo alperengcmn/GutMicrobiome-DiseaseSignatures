@@ -1,0 +1,15 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Segatella	2974251	G	4470	765	5235	0.77995
+Phocaeicola	909656	G	66	33	99	0.01475
+Bacteroides	816	G	43	15	58	0.00864
+Sutterella	40544	G	21	3	24	0.00358
+Megasphaera	906	G	708	61	769	0.11457
+Dialister	39948	G	157	13	170	0.02533
+Megamonas	158846	G	51	5	56	0.00834
+Agathobacter	1766253	G	78	34	112	0.01669
+Roseburia	841	G	10	3	13	0.00194
+Lachnospira	28050	G	10	1	11	0.00164
+Simiaoa	2944193	G	10	3	13	0.00194
+Faecalibacterium	216851	G	67	10	77	0.01147
+Bifidobacterium	1678	G	43	5	48	0.00715
+Homo	9605	G	21	1	22	0.00328

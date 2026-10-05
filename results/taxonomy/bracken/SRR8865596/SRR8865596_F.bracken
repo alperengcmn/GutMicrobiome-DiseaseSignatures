@@ -1,0 +1,9 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Enterobacteriaceae	543	F	8979	3859	12838	0.75518
+Bacteroidaceae	815	F	730	51	781	0.04594
+Tannerellaceae	2005525	F	47	11	58	0.00341
+Bifidobacteriaceae	31953	F	2741	228	2969	0.17465
+Enterococcaceae	81852	F	175	30	205	0.01206
+Lactobacillaceae	33958	F	51	11	62	0.00365
+Oscillospiraceae	216572	F	43	10	53	0.00312
+Lachnospiraceae	186803	F	27	4	31	0.00182

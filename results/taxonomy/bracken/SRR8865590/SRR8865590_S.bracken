@@ -1,0 +1,22 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacteroides stercoris	46506	S	951	849	1800	0.26639
+Bacteroides thetaiotaomicron	818	S	110	115	225	0.03330
+Bacteroides uniformis	820	S	45	206	251	0.03715
+Bacteroides xylanisolvens	371601	S	33	291	324	0.04795
+Bacteroides salyersiae	291644	S	23	8	31	0.00459
+Phocaeicola vulgatus	821	S	257	666	923	0.13660
+Segatella copri	165179	S	1850	595	2445	0.36185
+Segatella hominis	2518605	S	83	81	164	0.02427
+Prevotella intermedia	28131	S	23	17	40	0.00592
+Prevotella melaninogenica	28132	S	16	10	26	0.00385
+Prevotella nigrescens	28133	S	15	16	31	0.00459
+Parabacteroides distasonis	823	S	23	91	114	0.01687
+Alistipes shahii	328814	S	15	33	48	0.00710
+Odoribacter splanchnicus	28118	S	20	4	24	0.00355
+Porphyromonas endodontalis	28124	S	24	4	28	0.00414
+Vescimonas fastidiosa	2714353	S	11	58	69	0.01021
+Intestinimonas butyriciproducens	1297617	S	15	12	27	0.00400
+Simiaoa sunii	2763672	S	19	60	79	0.01169
+Lachnospira eligens	39485	S	17	23	40	0.00592
+Dialister succinatiphilus	487173	S	27	10	37	0.00548
+Dialister pneumosintes	39950	S	16	4	20	0.00296

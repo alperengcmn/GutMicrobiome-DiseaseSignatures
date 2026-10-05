@@ -1,0 +1,42 @@
+100.00	5087	0	R	1	root
+100.00	5087	0	R1	131567	  cellular organisms
+100.00	5087	0	D	2	    Bacteria
+83.50	4248	0	K	3379134	      Pseudomonadati
+83.50	4248	0	K1	1783270	        FCB group
+83.50	4248	0	K2	68336	          Bacteroidota/Chlorobiota group
+83.50	4248	0	P	976	            Bacteroidota
+83.50	4248	0	C	200643	              Bacteroidia
+83.50	4248	0	O	171549	                Bacteroidales
+83.50	4248	0	F	171552	                  Prevotellaceae
+83.50	4248	0	G	2974251	                    Segatella
+78.40	3989	3989	S	165179	                      Segatella copri
+5.09	259	259	S	2518605	                      Segatella hominis
+16.50	839	0	K	1783272	      Bacillati
+15.43	784	0	P	1239	        Bacillota
+15.43	784	0	C	186801	          Clostridia
+11.87	603	0	O	3085636	            Lachnospirales
+11.87	603	0	F	186803	              Lachnospiraceae
+5.75	292	0	G	1766253	                Agathobacter
+5.75	292	292	S	39491	                  Agathobacter rectalis
+2.04	103	0	G	3342669	                Eshraghiella
+2.04	103	103	S	45851	                  Eshraghiella crossota
+1.39	70	0	G	2944152	                Wujia
+1.39	70	70	S	2763670	                  Wujia chipingensis
+1.08	54	0	G	841	                Roseburia
+1.08	54	54	S	301302	                  Roseburia faecis
+1.02	51	0	G	2944193	                Simiaoa
+1.02	51	51	S	2763672	                  Simiaoa sunii
+0.60	30	0	G	28050	                Lachnospira
+0.60	30	30	S	39485	                  Lachnospira eligens
+3.56	181	0	O	186802	            Eubacteriales
+3.56	181	0	F	216572	              Oscillospiraceae
+3.34	170	0	G	216851	                Faecalibacterium
+3.34	170	170	S	853	                  Faecalibacterium prausnitzii
+0.22	10	0	G	1263	                Ruminococcus
+0.22	10	10	S	1161942	                  Ruminococcus champanellensis
+1.08	54	0	P	201174	        Actinomycetota
+1.08	54	0	C	1760	          Actinomycetes
+1.08	54	0	O	85004	            Bifidobacteriales
+1.08	54	0	F	31953	              Bifidobacteriaceae
+1.08	54	0	G	1678	                Bifidobacterium
+1.08	54	54	S	1680	                  Bifidobacterium adolescentis

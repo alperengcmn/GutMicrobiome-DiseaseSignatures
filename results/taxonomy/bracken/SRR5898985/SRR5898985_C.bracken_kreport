@@ -1,0 +1,44 @@
+100.00	6704	0	R	1	root
+97.70	6550	0	R1	131567	  cellular organisms
+96.19	6449	0	D	2	    Bacteria
+67.68	4537	0	K	3379134	      Pseudomonadati
+66.11	4432	0	K1	1783270	        FCB group
+66.11	4432	0	K2	68336	          Bacteroidota/Chlorobiota group
+66.11	4432	0	P	976	            Bacteroidota
+66.11	4432	0	C	200643	              Bacteroidia
+1.38	92	0	P	1224	        Pseudomonadota
+1.38	92	0	C	1236	          Gammaproteobacteria
+0.18	12	0	K1	1783257	        PVC group
+0.18	12	0	P	74201	          Verrucomicrobiota
+0.18	12	0	C	203494	            Verrucomicrobiia
+28.51	1911	0	K	1783272	      Bacillati
+23.77	1593	0	P	1239	        Bacillota
+22.44	1504	0	C	186801	          Clostridia
+0.55	36	0	C	909932	          Negativicutes
+0.52	34	0	C	526524	          Erysipelotrichia
+0.27	17	0	C	91061	          Bacilli
+4.74	318	0	P	201174	        Actinomycetota
+3.18	213	0	C	1760	          Actinomycetes
+1.56	104	0	C	84998	          Coriobacteriia
+1.51	101	0	D	2759	    Eukaryota
+1.51	101	0	D1	33154	      Opisthokonta
+1.51	101	0	K	33208	        Metazoa
+1.51	101	0	K1	6072	          Eumetazoa
+1.51	101	0	K2	33213	            Bilateria
+1.51	101	0	K3	33511	              Deuterostomia
+1.51	101	0	P	7711	                Chordata
+1.51	101	0	P1	89593	                  Craniata
+1.51	101	0	P2	7742	                    Vertebrata
+1.51	101	0	P3	7776	                      Gnathostomata
+1.51	101	0	P4	117570	                        Teleostomi
+1.51	101	0	P5	117571	                          Euteleostomi
+1.51	101	0	P6	8287	                            Sarcopterygii
+1.51	101	0	P7	1338369	                              Dipnotetrapodomorpha
+1.51	101	0	P8	32523	                                Tetrapoda
+1.51	101	0	P9	32524	                                  Amniota
+1.51	101	101	C	40674	                                    Mammalia
+2.30	154	0	R1	10239	  Viruses
+2.30	154	0	R2	2731341	    Duplodnaviria
+2.30	154	0	K	2731360	      Heunggongvirae
+2.30	154	0	P	2731618	        Uroviricota
+2.30	154	0	C	2731619	          Caudoviricetes

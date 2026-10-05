@@ -1,0 +1,14 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Segatella copri	165179	S	3981	1352	5333	0.88105
+Segatella hominis	2518605	S	18	17	35	0.00578
+Klebsiella quasipneumoniae	1463165	S	10	174	184	0.03040
+Haemophilus parainfluenzae	729	S	11	7	18	0.00297
+Sutterella wadsworthensis	40545	S	25	1	26	0.00430
+Sutterella faecalis	2584944	S	12	1	13	0.00215
+Agathobacter rectalis	39491	S	28	16	44	0.00727
+Roseburia faecis	301302	S	23	9	32	0.00529
+Lachnospira eligens	39485	S	15	2	17	0.00281
+Faecalibacterium prausnitzii	853	S	28	77	105	0.01735
+Dialister succinatiphilus	487173	S	76	30	106	0.01751
+Megasphaera sp.	2023260	S	33	49	82	0.01355
+Ligilactobacillus ruminis	1623	S	41	11	52	0.00859

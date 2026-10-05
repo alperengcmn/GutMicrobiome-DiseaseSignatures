@@ -1,0 +1,45 @@
+100.00	5446	0	R	1	root
+99.60	5423	0	R1	131567	  cellular organisms
+98.86	5383	0	D	2	    Bacteria
+75.20	4095	0	K	3379134	      Pseudomonadati
+66.03	3596	0	K1	1783270	        FCB group
+66.03	3596	0	K2	68336	          Bacteroidota/Chlorobiota group
+66.03	3596	0	P	976	            Bacteroidota
+66.03	3596	0	C	200643	              Bacteroidia
+5.65	307	0	P	1224	        Pseudomonadota
+5.44	296	0	C	1236	          Gammaproteobacteria
+0.21	11	0	C	28216	          Betaproteobacteria
+2.33	126	0	K1	1783257	        PVC group
+2.33	126	0	P	74201	          Verrucomicrobiota
+2.33	126	0	C	203494	            Verrucomicrobiia
+1.19	64	0	P	200940	        Thermodesulfobacteriota
+1.19	64	0	C	3031449	          Desulfovibrionia
+23.65	1288	0	K	1783272	      Bacillati
+18.50	1007	0	P	1239	        Bacillota
+10.89	592	0	C	186801	          Clostridia
+7.61	414	0	C	909932	          Negativicutes
+5.16	280	0	P	201174	        Actinomycetota
+4.65	253	0	C	1760	          Actinomycetes
+0.51	27	0	C	84998	          Coriobacteriia
+0.74	40	0	D	2759	    Eukaryota
+0.74	40	0	D1	33154	      Opisthokonta
+0.74	40	0	K	33208	        Metazoa
+0.74	40	0	K1	6072	          Eumetazoa
+0.74	40	0	K2	33213	            Bilateria
+0.74	40	0	K3	33511	              Deuterostomia
+0.74	40	0	P	7711	                Chordata
+0.74	40	0	P1	89593	                  Craniata
+0.74	40	0	P2	7742	                    Vertebrata
+0.74	40	0	P3	7776	                      Gnathostomata
+0.74	40	0	P4	117570	                        Teleostomi
+0.74	40	0	P5	117571	                          Euteleostomi
+0.74	40	0	P6	8287	                            Sarcopterygii
+0.74	40	0	P7	1338369	                              Dipnotetrapodomorpha
+0.74	40	0	P8	32523	                                Tetrapoda
+0.74	40	0	P9	32524	                                  Amniota
+0.74	40	40	C	40674	                                    Mammalia
+0.40	22	0	R1	10239	  Viruses
+0.40	22	0	R2	2731341	    Duplodnaviria
+0.40	22	0	K	2731360	      Heunggongvirae
+0.40	22	0	P	2731618	        Uroviricota
+0.40	22	0	C	2731619	          Caudoviricetes

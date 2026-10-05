@@ -1,0 +1,71 @@
+100.00	10766	0	R	1	root
+100.00	10766	0	R1	131567	  cellular organisms
+100.00	10766	0	D	2	    Bacteria
+96.59	10399	0	K	3379134	      Pseudomonadati
+85.57	9212	0	K1	1783270	        FCB group
+85.57	9212	0	K2	68336	          Bacteroidota/Chlorobiota group
+85.57	9212	0	P	976	            Bacteroidota
+85.57	9212	0	C	200643	              Bacteroidia
+85.57	9212	0	O	171549	                Bacteroidales
+61.94	6669	0	F	815	                  Bacteroidaceae
+34.52	3717	0	G	816	                    Bacteroides
+9.22	992	992	S	28111	                      Bacteroides eggerthii
+4.74	510	510	S	46506	                      Bacteroides stercoris
+1.86	200	200	S	818	                      Bacteroides thetaiotaomicron
+11.39	1226	1226	S	2763023	                      Bacteroides hominis
+1.36	146	146	S	47678	                      Bacteroides caccae
+3.96	426	426	S	820	                      Bacteroides uniformis
+2.00	215	215	S	28116	                      Bacteroides ovatus
+27.42	2951	0	G	909656	                    Phocaeicola
+26.85	2890	2890	S	821	                      Phocaeicola vulgatus
+0.57	61	61	S	357276	                      Phocaeicola dorei
+14.13	1521	0	F	2005525	                  Tannerellaceae
+14.13	1521	0	G	375288	                    Parabacteroides
+12.90	1388	1388	S	46503	                      Parabacteroides merdae
+1.23	132	132	S	823	                      Parabacteroides distasonis
+6.17	664	0	F	171552	                  Prevotellaceae
+4.89	526	0	G	2974251	                    Segatella
+4.89	526	526	S	165179	                      Segatella copri
+1.28	137	0	G	577309	                    Paraprevotella
+0.95	102	102	S	454154	                      Paraprevotella clara
+0.33	35	35	S	454155	                      Paraprevotella xylaniphila
+2.90	312	0	F	171550	                  Rikenellaceae
+2.90	312	0	G	239759	                    Alistipes
+2.90	312	312	S	328814	                      Alistipes shahii
+0.43	45	0	F	1853231	                  Odoribacteraceae
+0.43	45	0	G	283168	                    Odoribacter
+0.43	45	45	S	28118	                      Odoribacter splanchnicus
+11.02	1186	0	P	1224	        Pseudomonadota
+10.73	1155	0	C	1236	          Gammaproteobacteria
+10.73	1155	0	O	91347	            Enterobacterales
+7.03	757	0	F	543	              Enterobacteriaceae
+7.03	757	0	G	561	                Escherichia
+7.03	757	757	S	562	                  Escherichia coli
+3.70	397	0	F	1903414	              Morganellaceae
+3.70	397	0	G	581	                Morganella
+3.70	397	397	S	582	                  Morganella morganii
+0.29	31	0	C	28216	          Betaproteobacteria
+0.29	31	0	O	80840	            Burkholderiales
+0.29	31	0	F	995019	              Sutterellaceae
+0.29	31	0	G	40544	                Sutterella
+0.29	31	31	S	2584944	                  Sutterella faecalis
+3.41	367	0	K	1783272	      Bacillati
+3.41	367	0	P	1239	        Bacillota
+3.17	341	0	C	186801	          Clostridia
+2.87	309	0	O	3085636	            Lachnospirales
+2.87	309	0	F	186803	              Lachnospiraceae
+1.59	171	0	G	2316020	                Mediterraneibacter
+1.59	171	171	S	33038	                  Mediterraneibacter gnavus
+0.82	88	0	G	2944193	                Simiaoa
+0.82	88	88	S	2763672	                  Simiaoa sunii
+0.46	49	0	G	3569723	                Allocoprococcus
+0.46	49	49	S	410072	                  Allocoprococcus comes
+0.29	31	0	O	186802	            Eubacteriales
+0.29	31	0	F	216572	              Oscillospiraceae
+0.29	31	0	G	946234	                Flavonifractor
+0.29	31	31	S	292800	                  Flavonifractor plautii
+0.25	26	0	C	91061	          Bacilli
+0.25	26	0	O	186826	            Lactobacillales
+0.25	26	0	F	33958	              Lactobacillaceae
+0.25	26	0	G	1578	                Lactobacillus
+0.25	26	26	S	47770	                  Lactobacillus crispatus

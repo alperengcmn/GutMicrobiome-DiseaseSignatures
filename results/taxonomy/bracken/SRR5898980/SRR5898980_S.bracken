@@ -1,0 +1,26 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacteroides uniformis	820	S	442	2010	2452	0.35817
+Bacteroides stercoris	46506	S	244	226	470	0.06865
+Bacteroides caccae	47678	S	82	44	126	0.01840
+Bacteroides xylanisolvens	371601	S	14	120	134	0.01957
+Bacteroides thetaiotaomicron	818	S	13	13	26	0.00380
+Phocaeicola dorei	357276	S	112	309	421	0.06150
+Phocaeicola vulgatus	821	S	82	213	295	0.04309
+Alistipes putredinis	28117	S	273	165	438	0.06398
+Alistipes communis	2585118	S	160	69	229	0.03345
+Alistipes onderdonkii	328813	S	81	55	136	0.01987
+Alistipes finegoldii	214856	S	23	30	53	0.00774
+Barnesiella intestinihominis	487174	S	79	17	96	0.01402
+Odoribacter splanchnicus	28118	S	10	2	12	0.00175
+Akkermansia muciniphila	239935	S	114	50	164	0.02396
+Faecalibacterium prausnitzii	853	S	23	168	191	0.02790
+Ruminococcus bicirculans (ex Wegman et al. 2014)	1160721	S	79	25	104	0.01519
+Vescimonas fastidiosa	2714353	S	13	30	43	0.00628
+Roseburia faecis	301302	S	73	47	120	0.01753
+Roseburia hominis	301301	S	12	11	23	0.00336
+Agathobacter rectalis	39491	S	45	36	81	0.01183
+Simiaoa sunii	2763672	S	42	29	71	0.01037
+Megasphaera sp.	2023260	S	235	241	476	0.06953
+Megasphaera elsdenii	907	S	13	10	23	0.00336
+Dialister succinatiphilus	487173	S	91	35	126	0.01840
+Bifidobacterium adolescentis	1680	S	88	436	524	0.07654

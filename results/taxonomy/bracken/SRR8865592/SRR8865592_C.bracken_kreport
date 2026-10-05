@@ -1,0 +1,44 @@
+100.00	10582	0	R	1	root
+100.00	10582	0	R1	131567	  cellular organisms
+92.51	9790	0	D	2	    Bacteria
+76.39	8084	0	K	3379134	      Pseudomonadati
+73.14	7740	0	K1	1783270	        FCB group
+73.14	7740	0	K2	68336	          Bacteroidota/Chlorobiota group
+73.14	7740	0	P	976	            Bacteroidota
+73.14	7740	0	C	200643	              Bacteroidia
+3.00	317	0	K1	1783257	        PVC group
+3.00	317	0	P	74201	          Verrucomicrobiota
+3.00	317	0	C	203494	            Verrucomicrobiia
+0.15	15	0	P	200940	        Thermodesulfobacteriota
+0.15	15	0	C	3031449	          Desulfovibrionia
+0.10	10	0	P	1224	        Pseudomonadota
+0.10	10	0	C	28216	          Betaproteobacteria
+16.12	1705	0	K	1783272	      Bacillati
+15.41	1630	0	P	1239	        Bacillota
+12.00	1270	0	C	186801	          Clostridia
+3.28	347	0	C	909932	          Negativicutes
+0.12	12	0	C	526524	          Erysipelotrichia
+0.71	75	0	P	201174	        Actinomycetota
+0.71	75	0	C	1760	          Actinomycetes
+4.62	488	0	D	2759	    Eukaryota
+4.62	488	0	D1	33154	      Opisthokonta
+4.62	488	0	K	33208	        Metazoa
+4.62	488	0	K1	6072	          Eumetazoa
+4.62	488	0	K2	33213	            Bilateria
+4.62	488	0	K3	33511	              Deuterostomia
+4.62	488	0	P	7711	                Chordata
+4.62	488	0	P1	89593	                  Craniata
+4.62	488	0	P2	7742	                    Vertebrata
+4.62	488	0	P3	7776	                      Gnathostomata
+4.62	488	0	P4	117570	                        Teleostomi
+4.62	488	0	P5	117571	                          Euteleostomi
+4.62	488	0	P6	8287	                            Sarcopterygii
+4.62	488	0	P7	1338369	                              Dipnotetrapodomorpha
+4.62	488	0	P8	32523	                                Tetrapoda
+4.62	488	0	P9	32524	                                  Amniota
+4.62	488	488	C	40674	                                    Mammalia
+2.87	303	0	D	2157	    Archaea
+2.87	303	0	K	3366610	      Methanobacteriati
+2.87	303	0	P	28890	        Methanobacteriota
+2.87	303	0	P1	2283794	          Methanomada group
+2.87	303	0	C	183925	            Methanobacteria

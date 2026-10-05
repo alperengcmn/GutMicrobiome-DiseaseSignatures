@@ -1,0 +1,53 @@
+100.00	8471	0	R	1	root
+99.80	8454	0	R1	131567	  cellular organisms
+99.80	8454	0	D	2	    Bacteria
+68.51	5803	0	K	3379134	      Pseudomonadati
+43.74	3705	0	K1	1783270	        FCB group
+43.74	3705	0	K2	68336	          Bacteroidota/Chlorobiota group
+43.74	3705	0	P	976	            Bacteroidota
+43.74	3705	0	C	200643	              Bacteroidia
+43.74	3705	0	O	171549	                Bacteroidales
+42.95	3638	0	F	171552	                  Prevotellaceae
+42.95	3638	0	G	2974251	                    Segatella
+0.45	38	0	F	815	                  Bacteroidaceae
+0.45	38	0	G	816	                    Bacteroides
+0.33	28	0	F	2005525	                  Tannerellaceae
+0.33	28	0	G	375288	                    Parabacteroides
+24.77	2097	0	P	1224	        Pseudomonadota
+24.77	2097	0	C	1236	          Gammaproteobacteria
+24.77	2097	0	O	91347	            Enterobacterales
+24.77	2097	0	F	543	              Enterobacteriaceae
+16.81	1423	1423	G	570	                Klebsiella
+7.96	674	0	G	561	                Escherichia
+31.29	2650	0	K	1783272	      Bacillati
+30.54	2586	0	P	1239	        Bacillota
+27.31	2313	0	C	909932	          Negativicutes
+27.14	2299	0	O	1843489	            Veillonellales
+27.14	2299	0	F	31977	              Veillonellaceae
+24.10	2041	0	G	39948	                Dialister
+3.04	257	0	G	906	                Megasphaera
+0.17	14	0	O	909929	            Selenomonadales
+0.17	14	0	F	1843491	              Selenomonadaceae
+0.17	14	0	G	158846	                Megamonas
+3.22	273	0	C	186801	          Clostridia
+3.22	273	0	O	186802	            Eubacteriales
+3.22	273	0	F	216572	              Oscillospiraceae
+3.22	273	0	G	216851	                Faecalibacterium
+0.75	63	0	P	201174	        Actinomycetota
+0.40	33	0	C	1760	          Actinomycetes
+0.40	33	0	O	85004	            Bifidobacteriales
+0.40	33	0	F	31953	              Bifidobacteriaceae
+0.40	33	0	G	1678	                Bifidobacterium
+0.35	29	0	C	84998	          Coriobacteriia
+0.35	29	0	O	84999	            Coriobacteriales
+0.35	29	0	F	84107	              Coriobacteriaceae
+0.35	29	0	G	102106	                Collinsella
+0.20	17	0	R1	10239	  Viruses
+0.20	17	0	R2	2731341	    Duplodnaviria
+0.20	17	0	K	2731360	      Heunggongvirae
+0.20	17	0	P	2731618	        Uroviricota
+0.20	17	0	C	2731619	          Caudoviricetes
+0.20	17	0	C1	3424297	            Caudoviricetes incertae sedis
+0.20	17	0	F	2842329	              Schitoviridae
+0.20	17	0	F1	3700670	                Waldeevirinae
+0.20	17	0	G	2948690	                  Efbeekayvirus

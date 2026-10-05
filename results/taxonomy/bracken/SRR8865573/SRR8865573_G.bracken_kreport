@@ -1,0 +1,66 @@
+100.00	3535	0	R	1	root
+100.00	3535	0	R1	131567	  cellular organisms
+100.00	3535	0	D	2	    Bacteria
+89.75	3172	0	K	3379134	      Pseudomonadati
+72.63	2567	0	K1	1783270	        FCB group
+72.63	2567	0	K2	68336	          Bacteroidota/Chlorobiota group
+72.63	2567	0	P	976	            Bacteroidota
+72.63	2567	0	C	200643	              Bacteroidia
+72.63	2567	0	O	171549	                Bacteroidales
+27.69	978	0	F	815	                  Bacteroidaceae
+18.17	642	0	G	909656	                    Phocaeicola
+9.52	336	0	G	816	                    Bacteroides
+17.74	627	0	F	2005525	                  Tannerellaceae
+17.74	627	0	G	375288	                    Parabacteroides
+16.55	585	0	F	171552	                  Prevotellaceae
+16.55	585	0	G	2974251	                    Segatella
+9.47	334	0	F	1853231	                  Odoribacteraceae
+5.23	184	0	G	574697	                    Butyricimonas
+4.24	150	0	G	283168	                    Odoribacter
+1.18	41	0	F	171550	                  Rikenellaceae
+1.18	41	0	G	239759	                    Alistipes
+12.09	427	0	K1	1783257	        PVC group
+12.09	427	0	P	74201	          Verrucomicrobiota
+12.09	427	0	C	203494	            Verrucomicrobiia
+12.09	427	0	O	48461	              Verrucomicrobiales
+12.09	427	0	F	1647988	                Akkermansiaceae
+12.09	427	0	G	239934	                  Akkermansia
+2.63	92	0	P	29547	        Campylobacterota
+2.63	92	0	C	3031852	          Epsilonproteobacteria
+2.63	92	0	O	213849	            Campylobacterales
+2.63	92	0	F	72294	              Campylobacteraceae
+2.63	92	0	G	194	                Campylobacter
+1.22	42	0	P	200940	        Thermodesulfobacteriota
+1.22	42	0	C	3031449	          Desulfovibrionia
+1.22	42	0	O	213115	            Desulfovibrionales
+1.22	42	0	F	194924	              Desulfovibrionaceae
+0.70	24	0	G	872	                Desulfovibrio
+0.52	18	0	G	35832	                Bilophila
+0.63	22	0	P	203691	        Spirochaetota
+0.63	22	0	C	203692	          Spirochaetia
+0.63	22	0	O	3120456	            Treponematales
+0.63	22	0	F	2845253	              Treponemataceae
+0.63	22	0	G	157	                Treponema
+0.56	19	0	P	1224	        Pseudomonadota
+0.56	19	0	C	28216	          Betaproteobacteria
+0.56	19	0	O	80840	            Burkholderiales
+0.56	19	0	F	995019	              Sutterellaceae
+0.56	19	0	G	1980697	                Duodenibacillus
+10.25	362	0	K	1783272	      Bacillati
+10.25	362	0	P	1239	        Bacillota
+8.40	297	0	C	186801	          Clostridia
+6.70	236	0	O	186802	            Eubacteriales
+5.97	210	0	F	216572	              Oscillospiraceae
+1.52	53	0	G	1905344	                Ruthenibacterium
+2.94	103	0	G	2892396	                Vescimonas
+1.51	53	0	G	216851	                Faecalibacterium
+0.73	25	0	O1	538999	              Eubacteriales incertae sedis
+0.73	25	0	G	1392389	                Intestinimonas
+1.70	60	0	O	3085636	            Lachnospirales
+1.70	60	0	F	186803	              Lachnospiraceae
+1.70	60	0	G	28050	                Lachnospira
+1.85	65	0	C	909932	          Negativicutes
+1.85	65	0	O	1843489	            Veillonellales
+1.85	65	0	F	31977	              Veillonellaceae
+1.05	37	0	G	29465	                Veillonella
+0.80	28	0	G	906	                Megasphaera

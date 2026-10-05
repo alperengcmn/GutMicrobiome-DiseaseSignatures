@@ -1,0 +1,7 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Prevotellaceae	171552	F	5036	777	5813	0.93985
+Lachnospiraceae	186803	F	110	22	132	0.02134
+Oscillospiraceae	216572	F	56	9	65	0.01051
+Veillonellaceae	31977	F	123	9	132	0.02134
+Coprobacillaceae	2810280	F	11	2	13	0.00210
+Bifidobacteriaceae	31953	F	24	2	26	0.00420

@@ -1,0 +1,27 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacteroides uniformis	820	S	131	594	725	0.12097
+Bacteroides fragilis	817	S	79	102	181	0.03020
+Bacteroides thetaiotaomicron	818	S	63	66	129	0.02153
+Bacteroides caccae	47678	S	50	26	76	0.01268
+Bacteroides intestinalis	329854	S	41	36	77	0.01285
+Bacteroides nordii	291645	S	36	58	94	0.01568
+Bacteroides eggerthii	28111	S	10	9	19	0.00317
+Phocaeicola vulgatus	821	S	32	96	128	0.02136
+Phocaeicola dorei	357276	S	10	32	42	0.00701
+Alistipes putredinis	28117	S	442	257	699	0.11664
+Porphyromonas asaccharolytica	28123	S	270	53	323	0.05390
+Odoribacter splanchnicus	28118	S	103	22	125	0.02086
+Butyricimonas virosa	544645	S	16	11	27	0.00451
+Prevotella bivia	28125	S	74	26	100	0.01669
+Segatella copri	165179	S	15	28	43	0.00718
+Parabacteroides distasonis	823	S	22	57	79	0.01318
+Parabacteroides goldsteinii	328812	S	19	6	25	0.00417
+Escherichia coli	562	S	17	2381	2398	0.40013
+Simiaoa sunii	2763672	S	45	80	125	0.02086
+Agathobacter rectalis	39491	S	14	36	50	0.00834
+Faecalibacterium prausnitzii	853	S	20	75	95	0.01585
+Lawsonibacter asaccharolyticus	2108523	S	12	31	43	0.00718
+Peptostreptococcus anaerobius	1261	S	36	62	98	0.01635
+Dialister hominis	2582419	S	138	31	169	0.02820
+Phascolarctobacterium faecium	33025	S	28	5	33	0.00551
+Parvimonas micra	33033	S	24	53	77	0.01285

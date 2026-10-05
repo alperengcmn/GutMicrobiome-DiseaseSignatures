@@ -1,0 +1,35 @@
+100.00	10406	0	R	1	root
+100.00	10406	0	R1	131567	  cellular organisms
+79.11	8232	0	D	2	    Bacteria
+66.08	6876	0	K	3379134	      Pseudomonadati
+65.11	6775	0	K1	1783270	        FCB group
+65.11	6775	0	K2	68336	          Bacteroidota/Chlorobiota group
+65.11	6775	0	P	976	            Bacteroidota
+65.11	6775	0	C	200643	              Bacteroidia
+0.97	100	0	P	1224	        Pseudomonadota
+0.64	66	0	C	1236	          Gammaproteobacteria
+0.32	33	0	C	28216	          Betaproteobacteria
+13.04	1356	0	K	1783272	      Bacillati
+12.41	1291	0	P	1239	        Bacillota
+9.24	961	0	C	186801	          Clostridia
+2.48	258	0	C	909932	          Negativicutes
+0.69	71	0	C	91061	          Bacilli
+0.62	64	0	P	201174	        Actinomycetota
+0.62	64	0	C	1760	          Actinomycetes
+20.89	2173	0	D	2759	    Eukaryota
+20.89	2173	0	D1	33154	      Opisthokonta
+20.89	2173	0	K	33208	        Metazoa
+20.89	2173	0	K1	6072	          Eumetazoa
+20.89	2173	0	K2	33213	            Bilateria
+20.89	2173	0	K3	33511	              Deuterostomia
+20.89	2173	0	P	7711	                Chordata
+20.89	2173	0	P1	89593	                  Craniata
+20.89	2173	0	P2	7742	                    Vertebrata
+20.89	2173	0	P3	7776	                      Gnathostomata
+20.89	2173	0	P4	117570	                        Teleostomi
+20.89	2173	0	P5	117571	                          Euteleostomi
+20.89	2173	0	P6	8287	                            Sarcopterygii
+20.89	2173	0	P7	1338369	                              Dipnotetrapodomorpha
+20.89	2173	0	P8	32523	                                Tetrapoda
+20.89	2173	0	P9	32524	                                  Amniota
+20.89	2173	2173	C	40674	                                    Mammalia

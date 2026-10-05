@@ -1,0 +1,25 @@
+100.00	5454	0	R	1	root
+99.60	5431	0	R1	131567	  cellular organisms
+98.86	5391	0	D	2	    Bacteria
+75.09	4095	0	K	3379134	      Pseudomonadati
+65.93	3595	0	K1	1783270	        FCB group
+65.93	3595	0	K2	68336	          Bacteroidota/Chlorobiota group
+65.93	3595	0	P	976	            Bacteroidota
+5.64	307	0	P	1224	        Pseudomonadota
+2.33	126	0	K1	1783257	        PVC group
+2.33	126	0	P	74201	          Verrucomicrobiota
+1.19	64	0	P	200940	        Thermodesulfobacteriota
+23.77	1296	0	K	1783272	      Bacillati
+18.62	1015	0	P	1239	        Bacillota
+5.15	280	0	P	201174	        Actinomycetota
+0.74	40	0	D	2759	    Eukaryota
+0.74	40	0	D1	33154	      Opisthokonta
+0.74	40	0	K	33208	        Metazoa
+0.74	40	0	K1	6072	          Eumetazoa
+0.74	40	0	K2	33213	            Bilateria
+0.74	40	0	K3	33511	              Deuterostomia
+0.74	40	40	P	7711	                Chordata
+0.40	22	0	R1	10239	  Viruses
+0.40	22	0	R2	2731341	    Duplodnaviria
+0.40	22	0	K	2731360	      Heunggongvirae
+0.40	22	0	P	2731618	        Uroviricota

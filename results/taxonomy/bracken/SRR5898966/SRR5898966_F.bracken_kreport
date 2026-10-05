@@ -1,0 +1,27 @@
+100.00	6185	0	R	1	root
+100.00	6185	0	R1	131567	  cellular organisms
+100.00	6185	0	D	2	    Bacteria
+94.00	5813	0	K	3379134	      Pseudomonadati
+94.00	5813	0	K1	1783270	        FCB group
+94.00	5813	0	K2	68336	          Bacteroidota/Chlorobiota group
+94.00	5813	0	P	976	            Bacteroidota
+94.00	5813	0	C	200643	              Bacteroidia
+94.00	5813	0	O	171549	                Bacteroidales
+94.00	5813	0	F	171552	                  Prevotellaceae
+6.00	371	0	K	1783272	      Bacillati
+5.57	344	0	P	1239	        Bacillota
+3.21	198	0	C	186801	          Clostridia
+2.15	132	0	O	3085636	            Lachnospirales
+2.15	132	0	F	186803	              Lachnospiraceae
+1.06	65	0	O	186802	            Eubacteriales
+1.06	65	0	F	216572	              Oscillospiraceae
+2.15	132	0	C	909932	          Negativicutes
+2.15	132	0	O	1843489	            Veillonellales
+2.15	132	0	F	31977	              Veillonellaceae
+0.21	13	0	C	526524	          Erysipelotrichia
+0.21	13	0	O	526525	            Erysipelotrichales
+0.21	13	0	F	2810280	              Coprobacillaceae
+0.43	26	0	P	201174	        Actinomycetota
+0.43	26	0	C	1760	          Actinomycetes
+0.43	26	0	O	85004	            Bifidobacteriales
+0.43	26	0	F	31953	              Bifidobacteriaceae

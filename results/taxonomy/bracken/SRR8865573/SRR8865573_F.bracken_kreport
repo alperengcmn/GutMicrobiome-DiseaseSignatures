@@ -1,0 +1,48 @@
+100.00	3728	0	R	1	root
+100.00	3728	0	R1	131567	  cellular organisms
+100.00	3728	0	D	2	    Bacteria
+88.59	3302	0	K	3379134	      Pseudomonadati
+68.64	2558	0	K1	1783270	        FCB group
+68.64	2558	0	K2	68336	          Bacteroidota/Chlorobiota group
+68.64	2558	0	P	976	            Bacteroidota
+68.64	2558	0	C	200643	              Bacteroidia
+68.64	2558	0	O	171549	                Bacteroidales
+26.13	974	0	F	815	                  Bacteroidaceae
+15.74	586	0	F	171552	                  Prevotellaceae
+16.77	625	0	F	2005525	                  Tannerellaceae
+8.89	331	0	F	1853231	                  Odoribacteraceae
+1.11	41	0	F	171550	                  Rikenellaceae
+11.29	420	0	K1	1783257	        PVC group
+11.29	420	0	P	74201	          Verrucomicrobiota
+11.29	420	0	C	203494	            Verrucomicrobiia
+11.29	420	0	O	48461	              Verrucomicrobiales
+11.29	420	0	F	1647988	                Akkermansiaceae
+4.48	166	0	P	1224	        Pseudomonadota
+4.07	151	0	C	1236	          Gammaproteobacteria
+4.07	151	0	O	91347	            Enterobacterales
+4.07	151	0	F	543	              Enterobacteriaceae
+0.41	15	0	C	28216	          Betaproteobacteria
+0.41	15	0	O	80840	            Burkholderiales
+0.41	15	0	F	995019	              Sutterellaceae
+2.48	92	0	P	29547	        Campylobacterota
+2.48	92	0	C	3031852	          Epsilonproteobacteria
+2.48	92	0	O	213849	            Campylobacterales
+2.48	92	0	F	72294	              Campylobacteraceae
+1.14	42	0	P	200940	        Thermodesulfobacteriota
+1.14	42	0	C	3031449	          Desulfovibrionia
+1.14	42	0	O	213115	            Desulfovibrionales
+1.14	42	0	F	194924	              Desulfovibrionaceae
+0.58	21	0	P	203691	        Spirochaetota
+0.58	21	0	C	203692	          Spirochaetia
+0.58	21	0	O	3120456	            Treponematales
+0.58	21	0	F	2845253	              Treponemataceae
+11.41	425	0	K	1783272	      Bacillati
+11.41	425	0	P	1239	        Bacillota
+9.63	359	0	C	186801	          Clostridia
+5.82	216	0	O	186802	            Eubacteriales
+5.82	216	0	F	216572	              Oscillospiraceae
+3.81	142	0	O	3085636	            Lachnospirales
+3.81	142	0	F	186803	              Lachnospiraceae
+1.77	66	0	C	909932	          Negativicutes
+1.77	66	0	O	1843489	            Veillonellales
+1.77	66	0	F	31977	              Veillonellaceae

@@ -1,0 +1,21 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Enterobacter cloacae	550	S	336	2752	3088	0.37232
+Morganella morganii	582	S	35	26	61	0.00735
+Haemophilus parainfluenzae	729	S	22	13	35	0.00422
+Sutterella wadsworthensis	40545	S	38	4	42	0.00506
+Phocaeicola vulgatus	821	S	201	1318	1519	0.18314
+Phocaeicola coprophilus	387090	S	10	36	46	0.00555
+Bacteroides thetaiotaomicron	818	S	33	234	267	0.03219
+Segatella copri	165179	S	22	15	37	0.00446
+Megasphaera sp.	2023260	S	1080	1065	2145	0.25862
+Megasphaera elsdenii	907	S	37	28	65	0.00784
+Dialister succinatiphilus	487173	S	82	34	116	0.01399
+Mitsuokella multacida	52226	S	55	18	73	0.00880
+Faecalibacterium prausnitzii	853	S	170	335	505	0.06089
+Ruminococcus bicirculans (ex Wegman et al. 2014)	1160721	S	34	3	37	0.00446
+Hominenteromicrobium mulieris	2885357	S	14	9	23	0.00277
+Flavonifractor plautii	292800	S	13	4	17	0.00205
+Lachnospira eligens	39485	S	37	14	51	0.00615
+Roseburia intestinalis	166486	S	14	32	46	0.00555
+Mediterraneibacter gnavus	33038	S	14	14	28	0.00338
+Bifidobacterium longum	216816	S	16	66	82	0.00989

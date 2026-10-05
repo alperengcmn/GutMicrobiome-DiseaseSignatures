@@ -1,0 +1,44 @@
+100.00	4824	0	R	1	root
+100.00	4824	0	R1	131567	  cellular organisms
+100.00	4824	0	D	2	    Bacteria
+59.71	2880	0	K	1783272	      Bacillati
+59.45	2868	0	P	1239	        Bacillota
+56.90	2744	0	C	186801	          Clostridia
+52.09	2512	0	O	3085636	            Lachnospirales
+52.09	2512	0	F	186803	              Lachnospiraceae
+45.64	2201	0	G	2944193	                Simiaoa
+2.89	139	0	G	841	                Roseburia
+2.35	113	0	G	1766253	                Agathobacter
+0.91	43	0	G	189330	                Dorea
+0.30	14	0	G	3569723	                Allocoprococcus
+4.82	232	0	O	186802	            Eubacteriales
+4.82	232	0	F	216572	              Oscillospiraceae
+2.21	106	0	G	1263	                Ruminococcus
+2.60	125	0	G	216851	                Faecalibacterium
+2.55	123	0	C	909932	          Negativicutes
+2.13	102	0	O	909929	            Selenomonadales
+2.13	102	0	F	1843491	              Selenomonadaceae
+2.13	102	0	G	52225	                Mitsuokella
+0.43	20	0	O	1843489	            Veillonellales
+0.43	20	0	F	31977	              Veillonellaceae
+0.43	20	20	G	906	                Megasphaera
+0.26	12	0	P	201174	        Actinomycetota
+0.26	12	0	C	1760	          Actinomycetes
+0.26	12	0	O	85004	            Bifidobacteriales
+0.26	12	0	F	31953	              Bifidobacteriaceae
+0.26	12	0	G	1678	                Bifidobacterium
+40.29	1943	0	K	3379134	      Pseudomonadati
+40.29	1943	0	K1	1783270	        FCB group
+40.29	1943	0	K2	68336	          Bacteroidota/Chlorobiota group
+40.29	1943	0	P	976	            Bacteroidota
+40.29	1943	0	C	200643	              Bacteroidia
+40.29	1943	0	O	171549	                Bacteroidales
+32.40	1562	0	F	171552	                  Prevotellaceae
+32.40	1562	0	G	2974251	                    Segatella
+7.05	340	0	F	815	                  Bacteroidaceae
+5.34	257	0	G	909656	                    Phocaeicola
+1.71	82	0	G	816	                    Bacteroides
+0.55	26	0	F	1853231	                  Odoribacteraceae
+0.55	26	0	G	283168	                    Odoribacter
+0.29	14	0	F	171550	                  Rikenellaceae
+0.29	14	0	G	239759	                    Alistipes

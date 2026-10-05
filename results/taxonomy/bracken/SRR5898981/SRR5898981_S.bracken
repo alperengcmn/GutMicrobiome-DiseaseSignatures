@@ -1,0 +1,13 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Simiaoa sunii	2763672	S	1761	452	2213	0.49091
+Roseburia hominis	301301	S	49	18	67	0.01486
+Roseburia faecis	301302	S	25	7	32	0.00710
+Roseburia intestinalis	166486	S	17	17	34	0.00754
+Agathobacter rectalis	39491	S	83	32	115	0.02551
+Dorea longicatena	88431	S	16	19	35	0.00776
+Allocoprococcus comes	410072	S	10	4	14	0.00311
+Mitsuokella multacida	52226	S	81	23	104	0.02307
+Megasphaera sp.	2023260	S	10	10	20	0.00444
+Segatella copri	165179	S	1151	427	1578	0.35004
+Phocaeicola vulgatus	821	S	66	199	265	0.05878
+Odoribacter splanchnicus	28118	S	21	6	27	0.00599

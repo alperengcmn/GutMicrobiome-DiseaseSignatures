@@ -1,0 +1,4 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacteroidia	200643	C	7255	250	7505	0.97951
+Negativicutes	909932	C	75	4	79	0.01031
+Clostridia	186801	C	71	5	76	0.00992

@@ -1,0 +1,10 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Megasphaera	906	G	5056	691	5747	0.71891
+Dialister	39948	G	195	28	223	0.02790
+Acidaminococcus	904	G	55	109	164	0.02052
+Ligilactobacillus	2767887	G	267	78	345	0.04316
+Roseburia	841	G	43	28	71	0.00888
+Bifidobacterium	1678	G	535	72	607	0.07593
+Klebsiella	570	G	305	377	682	0.08531
+Haemophilus	724	G	10	4	14	0.00175
+Bacteroides	816	G	87	50	137	0.01714

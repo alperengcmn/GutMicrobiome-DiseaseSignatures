@@ -1,0 +1,10 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Segatella copri	165179	S	539	326	865	0.39123
+Bacteroides cellulosilyticus	246787	S	70	252	322	0.14564
+Parabacteroides distasonis	823	S	30	170	200	0.09046
+Akkermansia muciniphila	239935	S	165	78	243	0.10991
+Ruminococcus champanellensis	1161942	S	44	51	95	0.04297
+Butyricicoccus intestinisimiae	2841509	S	10	52	62	0.02804
+Dialister hominis	2582419	S	179	95	274	0.12393
+Methanobrevibacter smithii	2173	S	66	66	132	0.05970
+Homo sapiens	9606	S	12	0	12	0.00543

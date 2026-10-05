@@ -1,0 +1,7 @@
+rarefaction	depth	metric	n_CRC	n_Healthy	median_CRC	median_Healthy	p	q
+p10_default	2899	observed	24	30	23	16	5.377e-05	6.709e-05
+p10_default	2899	shannon	24	30	2.1218	1.0796	6.709e-05	6.709e-05
+p10_default	2899	simpson	24	30	0.7944	0.48118	1.8496e-05	5.5489e-05
+minimum	1398	observed	30	30	21.5	16	0.00049482	0.00049482
+minimum	1398	shannon	30	30	2.1023	1.051	2.5138e-05	3.7706e-05
+minimum	1398	simpson	30	30	0.79418	0.4693	3.9739e-06	1.1922e-05

@@ -1,0 +1,13 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Segatella copri	165179	S	2470	795	3265	0.62155
+Segatella hominis	2518605	S	524	445	969	0.18447
+Treponema succinifaciens	167	S	301	41	342	0.06511
+Duodenibacillus massiliensis	1852381	S	21	1	22	0.00419
+Roseburia faecis	301302	S	275	86	361	0.06872
+Agathobacter rectalis	39491	S	60	22	82	0.01561
+Lachnospira eligens	39485	S	21	2	23	0.00438
+Simiaoa sunii	2763672	S	16	4	20	0.00381
+Megasphaera sp.	2023260	S	32	43	75	0.01428
+Mitsuokella multacida	52226	S	30	12	42	0.00800
+Ligilactobacillus ruminis	1623	S	19	6	25	0.00476
+Homo sapiens	9606	S	19	2	21	0.00400

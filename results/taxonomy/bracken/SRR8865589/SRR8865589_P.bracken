@@ -1,0 +1,5 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacteroidota	976	P	1135	41	1176	0.59007
+Verrucomicrobiota	74201	P	139	14	153	0.07677
+Bacillota	1239	P	476	56	532	0.26693
+Methanobacteriota	28890	P	129	1	130	0.06523

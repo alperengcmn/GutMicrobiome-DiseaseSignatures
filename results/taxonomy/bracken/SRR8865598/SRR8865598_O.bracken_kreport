@@ -1,0 +1,47 @@
+100.00	13779	0	R	1	root
+100.00	13779	0	R1	131567	  cellular organisms
+94.41	13008	0	D	2	    Bacteria
+78.13	10765	0	K	3379134	      Pseudomonadati
+57.94	7983	0	K1	1783270	        FCB group
+57.94	7983	0	K2	68336	          Bacteroidota/Chlorobiota group
+57.94	7983	0	P	976	            Bacteroidota
+57.94	7983	0	C	200643	              Bacteroidia
+57.94	7983	0	O	171549	                Bacteroidales
+20.19	2782	0	P	1224	        Pseudomonadota
+20.19	2782	0	C	1236	          Gammaproteobacteria
+20.19	2782	0	O	91347	            Enterobacterales
+16.27	2242	0	K	1783272	      Bacillati
+14.61	2013	0	P	1239	        Bacillota
+11.79	1624	0	C	186801	          Clostridia
+7.20	992	0	O	3085636	            Lachnospirales
+4.59	632	0	O	186802	            Eubacteriales
+2.58	354	0	C	909932	          Negativicutes
+2.21	304	0	O	1843488	            Acidaminococcales
+0.37	50	0	O	1843489	            Veillonellales
+0.24	33	0	C	91061	          Bacilli
+0.24	33	0	O	186826	            Lactobacillales
+1.67	229	0	P	201174	        Actinomycetota
+1.67	229	0	C	1760	          Actinomycetes
+1.67	229	0	O	85004	            Bifidobacteriales
+5.59	770	0	D	2759	    Eukaryota
+5.59	770	0	D1	33154	      Opisthokonta
+5.59	770	0	K	33208	        Metazoa
+5.59	770	0	K1	6072	          Eumetazoa
+5.59	770	0	K2	33213	            Bilateria
+5.59	770	0	K3	33511	              Deuterostomia
+5.59	770	0	P	7711	                Chordata
+5.59	770	0	P1	89593	                  Craniata
+5.59	770	0	P2	7742	                    Vertebrata
+5.59	770	0	P3	7776	                      Gnathostomata
+5.59	770	0	P4	117570	                        Teleostomi
+5.59	770	0	P5	117571	                          Euteleostomi
+5.59	770	0	P6	8287	                            Sarcopterygii
+5.59	770	0	P7	1338369	                              Dipnotetrapodomorpha
+5.59	770	0	P8	32523	                                Tetrapoda
+5.59	770	0	P9	32524	                                  Amniota
+5.59	770	0	C	40674	                                    Mammalia
+5.59	770	0	C1	32525	                                      Theria
+5.59	770	0	C2	9347	                                        Eutheria
+5.59	770	0	C3	1437010	                                          Boreoeutheria
+5.59	770	0	C4	314146	                                            Euarchontoglires
+5.59	770	770	O	9443	                                              Primates

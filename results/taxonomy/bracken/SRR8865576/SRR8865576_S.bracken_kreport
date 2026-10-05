@@ -1,0 +1,76 @@
+100.00	8649	0	R	1	root
+100.00	8649	0	R1	131567	  cellular organisms
+100.00	8649	0	D	2	    Bacteria
+96.88	8379	0	K	3379134	      Pseudomonadati
+96.12	8313	0	K1	1783270	        FCB group
+96.12	8313	0	K2	68336	          Bacteroidota/Chlorobiota group
+96.12	8313	0	P	976	            Bacteroidota
+96.12	8313	0	C	200643	              Bacteroidia
+96.12	8313	0	O	171549	                Bacteroidales
+73.16	6328	0	F	815	                  Bacteroidaceae
+37.25	3221	0	G	909656	                    Phocaeicola
+36.42	3149	3149	S	821	                      Phocaeicola vulgatus
+0.84	72	72	S	357276	                      Phocaeicola dorei
+35.91	3106	0	G	816	                    Bacteroides
+9.84	850	850	S	28111	                      Bacteroides eggerthii
+4.49	388	388	S	46506	                      Bacteroides stercoris
+2.47	213	213	S	818	                      Bacteroides thetaiotaomicron
+1.45	125	125	S	47678	                      Bacteroides caccae
+4.72	408	408	S	820	                      Bacteroides uniformis
+10.72	927	927	S	2763023	                      Bacteroides hominis
+0.48	41	41	S	291645	                      Bacteroides nordii
+1.74	150	150	S	28116	                      Bacteroides ovatus
+16.58	1434	0	F	2005525	                  Tannerellaceae
+16.58	1434	0	G	375288	                    Parabacteroides
+15.36	1328	1328	S	46503	                      Parabacteroides merdae
+1.23	106	106	S	823	                      Parabacteroides distasonis
+4.95	428	0	F	171552	                  Prevotellaceae
+3.23	279	0	G	2974251	                    Segatella
+3.23	279	279	S	165179	                      Segatella copri
+1.72	148	0	G	577309	                    Paraprevotella
+1.32	113	113	S	454154	                      Paraprevotella clara
+0.40	34	34	S	454155	                      Paraprevotella xylaniphila
+1.22	105	0	F	171550	                  Rikenellaceae
+1.22	105	0	G	239759	                    Alistipes
+1.22	105	105	S	328814	                      Alistipes shahii
+0.20	16	0	F	1853231	                  Odoribacteraceae
+0.20	16	0	G	283168	                    Odoribacter
+0.20	16	16	S	28118	                      Odoribacter splanchnicus
+0.76	65	0	P	1224	        Pseudomonadota
+0.54	46	0	C	1236	          Gammaproteobacteria
+0.54	46	0	O	91347	            Enterobacterales
+0.54	46	0	F	1903414	              Morganellaceae
+0.54	46	0	G	581	                Morganella
+0.54	46	46	S	582	                  Morganella morganii
+0.22	19	0	C	28216	          Betaproteobacteria
+0.22	19	0	O	80840	            Burkholderiales
+0.22	19	0	F	995019	              Sutterellaceae
+0.22	19	0	G	40544	                Sutterella
+0.22	19	19	S	2584944	                  Sutterella faecalis
+3.12	269	0	K	1783272	      Bacillati
+2.60	225	0	P	1239	        Bacillota
+2.01	173	0	C	186801	          Clostridia
+2.01	173	0	O	3085636	            Lachnospirales
+2.01	173	0	F	186803	              Lachnospiraceae
+1.24	107	0	G	2316020	                Mediterraneibacter
+1.24	107	107	S	33038	                  Mediterraneibacter gnavus
+0.47	40	0	G	2944193	                Simiaoa
+0.47	40	40	S	2763672	                  Simiaoa sunii
+0.30	26	0	G	3569723	                Allocoprococcus
+0.30	26	26	S	410072	                  Allocoprococcus comes
+0.43	37	0	C	91061	          Bacilli
+0.43	37	0	O	186826	            Lactobacillales
+0.43	37	0	F	33958	              Lactobacillaceae
+0.43	37	0	G	1578	                Lactobacillus
+0.43	37	37	S	47770	                  Lactobacillus crispatus
+0.17	14	0	C	909932	          Negativicutes
+0.17	14	0	O	909929	            Selenomonadales
+0.17	14	0	F	1843491	              Selenomonadaceae
+0.17	14	0	G	158846	                Megamonas
+0.17	14	14	S	437897	                  Megamonas funiformis
+0.52	44	0	P	201174	        Actinomycetota
+0.52	44	0	C	84998	          Coriobacteriia
+0.52	44	0	O	84999	            Coriobacteriales
+0.52	44	0	F	84107	              Coriobacteriaceae
+0.52	44	0	G	102106	                Collinsella
+0.52	44	44	S	74426	                  Collinsella aerofaciens

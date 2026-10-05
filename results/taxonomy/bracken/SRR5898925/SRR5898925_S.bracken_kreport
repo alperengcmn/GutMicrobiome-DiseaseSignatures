@@ -1,0 +1,25 @@
+100.00	7570	0	R	1	root
+100.00	7570	0	R1	131567	  cellular organisms
+100.00	7570	0	D	2	    Bacteria
+98.92	7488	0	K	3379134	      Pseudomonadati
+98.92	7488	0	K1	1783270	        FCB group
+98.92	7488	0	K2	68336	          Bacteroidota/Chlorobiota group
+98.92	7488	0	P	976	            Bacteroidota
+98.92	7488	0	C	200643	              Bacteroidia
+98.92	7488	0	O	171549	                Bacteroidales
+98.92	7488	0	F	171552	                  Prevotellaceae
+98.92	7488	0	G	2974251	                    Segatella
+96.40	7297	7297	S	165179	                      Segatella copri
+2.53	191	191	S	2518605	                      Segatella hominis
+1.08	81	0	K	1783272	      Bacillati
+1.08	81	0	P	1239	        Bacillota
+0.78	59	0	C	909932	          Negativicutes
+0.78	59	0	O	1843489	            Veillonellales
+0.78	59	0	F	31977	              Veillonellaceae
+0.78	59	0	G	39948	                Dialister
+0.78	59	59	S	2582419	                  Dialister hominis
+0.30	22	0	C	186801	          Clostridia
+0.30	22	0	O	3085636	            Lachnospirales
+0.30	22	0	F	186803	              Lachnospiraceae
+0.30	22	0	G	841	                Roseburia
+0.30	22	22	S	301302	                  Roseburia faecis

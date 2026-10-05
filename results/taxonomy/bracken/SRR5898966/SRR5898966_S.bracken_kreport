@@ -1,0 +1,32 @@
+100.00	6122	0	R	1	root
+100.00	6122	0	R1	131567	  cellular organisms
+100.00	6122	0	D	2	    Bacteria
+95.01	5816	0	K	3379134	      Pseudomonadati
+95.01	5816	0	K1	1783270	        FCB group
+95.01	5816	0	K2	68336	          Bacteroidota/Chlorobiota group
+95.01	5816	0	P	976	            Bacteroidota
+95.01	5816	0	C	200643	              Bacteroidia
+95.01	5816	0	O	171549	                Bacteroidales
+95.01	5816	0	F	171552	                  Prevotellaceae
+95.01	5816	0	G	2974251	                    Segatella
+90.66	5549	5549	S	165179	                      Segatella copri
+4.35	266	266	S	2518605	                      Segatella hominis
+4.99	305	0	K	1783272	      Bacillati
+4.99	305	0	P	1239	        Bacillota
+2.98	182	0	C	186801	          Clostridia
+2.04	124	0	O	3085636	            Lachnospirales
+2.04	124	0	F	186803	              Lachnospiraceae
+1.62	98	0	G	841	                Roseburia
+1.62	98	98	S	301302	                  Roseburia faecis
+0.42	25	0	G	1766253	                Agathobacter
+0.42	25	25	S	39491	                  Agathobacter rectalis
+0.94	57	0	O	186802	            Eubacteriales
+0.94	57	0	F	216572	              Oscillospiraceae
+0.94	57	0	G	216851	                Faecalibacterium
+0.94	57	57	S	853	                  Faecalibacterium prausnitzii
+2.01	123	0	C	909932	          Negativicutes
+2.01	123	0	O	1843489	            Veillonellales
+2.01	123	0	F	31977	              Veillonellaceae
+2.01	123	0	G	906	                Megasphaera
+2.01	123	0	G1	2626256	                  unclassified Megasphaera
+2.01	123	123	S	2023260	                    Megasphaera sp.

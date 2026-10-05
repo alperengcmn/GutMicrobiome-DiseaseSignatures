@@ -1,0 +1,10 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Prevotellaceae	171552	F	5241	886	6127	0.80608
+Bacteroidaceae	815	F	56	20	76	0.01000
+Rikenellaceae	171550	F	11	3	14	0.00184
+Sutterellaceae	995019	F	31	3	34	0.00447
+Veillonellaceae	31977	F	627	68	695	0.09144
+Oscillospiraceae	216572	F	442	67	509	0.06696
+Lachnospiraceae	186803	F	27	9	36	0.00474
+Lactobacillaceae	33958	F	44	9	53	0.00697
+Bifidobacteriaceae	31953	F	46	6	52	0.00684

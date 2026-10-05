@@ -1,0 +1,45 @@
+100.00	13400	0	R	1	root
+100.00	13400	0	R1	131567	  cellular organisms
+100.00	13400	0	D	2	    Bacteria
+74.88	10034	0	K	3379134	      Pseudomonadati
+37.50	5025	0	K1	1783270	        FCB group
+37.50	5025	0	K2	68336	          Bacteroidota/Chlorobiota group
+37.50	5025	0	P	976	            Bacteroidota
+37.50	5025	0	C	200643	              Bacteroidia
+37.50	5025	0	O	171549	                Bacteroidales
+27.80	3725	0	F	171552	                  Prevotellaceae
+5.59	748	0	F	815	                  Bacteroidaceae
+2.21	296	0	F	2005525	                  Tannerellaceae
+1.78	238	0	F	171550	                  Rikenellaceae
+0.12	15	0	F	1853231	                  Odoribacteraceae
+37.37	5008	0	P	1224	        Pseudomonadota
+37.37	5008	0	C	1236	          Gammaproteobacteria
+37.37	5008	0	O	91347	            Enterobacterales
+36.35	4871	0	F	543	              Enterobacteriaceae
+1.02	136	0	F	1903414	              Morganellaceae
+25.12	3366	0	K	1783272	      Bacillati
+24.71	3310	0	P	1239	        Bacillota
+12.83	1718	0	C	909932	          Negativicutes
+10.17	1363	0	O	1843489	            Veillonellales
+10.17	1363	0	F	31977	              Veillonellaceae
+1.60	215	0	O	1843488	            Acidaminococcales
+1.60	215	0	F	909930	              Acidaminococcaceae
+1.05	140	0	O	909929	            Selenomonadales
+1.05	140	0	F	1843491	              Selenomonadaceae
+11.17	1496	0	C	186801	          Clostridia
+5.72	766	0	O	3085636	            Lachnospirales
+5.72	766	0	F	186803	              Lachnospiraceae
+5.45	729	0	O	186802	            Eubacteriales
+5.34	715	0	F	216572	              Oscillospiraceae
+0.11	14	0	F	31979	              Clostridiaceae
+0.71	95	0	C	91061	          Bacilli
+0.71	95	0	O	186826	            Lactobacillales
+0.61	81	0	F	33958	              Lactobacillaceae
+0.10	14	0	F	1300	              Streptococcaceae
+0.42	56	0	P	201174	        Actinomycetota
+0.31	40	0	C	84998	          Coriobacteriia
+0.31	40	0	O	84999	            Coriobacteriales
+0.31	40	0	F	84107	              Coriobacteriaceae
+0.11	15	0	C	1760	          Actinomycetes
+0.11	15	0	O	85004	            Bifidobacteriales
+0.11	15	0	F	31953	              Bifidobacteriaceae

@@ -1,0 +1,13 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Escherichia coli	562	S	245	12578	12823	0.75970
+Bacteroides faecis	674529	S	27	88	115	0.00681
+Bacteroides thetaiotaomicron	818	S	25	57	82	0.00486
+Bacteroides xylanisolvens	371601	S	22	489	511	0.03027
+Phocaeicola vulgatus	821	S	17	30	47	0.00278
+Parabacteroides distasonis	823	S	18	42	60	0.00355
+Bifidobacterium longum	216816	S	724	1931	2655	0.15730
+Bifidobacterium breve	1685	S	102	158	260	0.01540
+Bifidobacterium catenulatum	1686	S	10	29	39	0.00231
+Enterococcus avium	33945	S	85	113	198	0.01173
+Lactobacillus helveticus	1587	S	12	25	37	0.00219
+Flavonifractor plautii	292800	S	30	15	45	0.00267

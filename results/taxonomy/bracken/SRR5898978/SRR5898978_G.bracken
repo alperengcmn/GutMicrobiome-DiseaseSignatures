@@ -1,0 +1,13 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Segatella	2974251	G	2939	699	3638	0.42947
+Bacteroides	816	G	23	15	38	0.00449
+Parabacteroides	375288	G	21	7	28	0.00331
+Klebsiella	570	G	631	792	1423	0.16798
+Escherichia	561	G	11	663	674	0.07957
+Dialister	39948	G	1793	248	2041	0.24094
+Megasphaera	906	G	228	29	257	0.03034
+Megamonas	158846	G	13	1	14	0.00165
+Faecalibacterium	216851	G	212	61	273	0.03223
+Bifidobacterium	1678	G	31	2	33	0.00390
+Collinsella	102106	G	24	5	29	0.00342
+Efbeekayvirus	2948690	G	17	0	17	0.00201

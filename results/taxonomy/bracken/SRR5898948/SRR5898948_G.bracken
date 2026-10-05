@@ -1,0 +1,14 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacteroides	816	G	5911	847	6758	0.68214
+Phocaeicola	909656	G	1215	290	1505	0.15191
+Alistipes	239759	G	672	268	940	0.09488
+Odoribacter	283168	G	44	9	53	0.00535
+Parabacteroides	375288	G	40	27	67	0.00676
+Paraprevotella	577309	G	24	8	32	0.00323
+Akkermansia	239934	G	19	0	19	0.00192
+Faecalibacterium	216851	G	256	80	336	0.03392
+Vescimonas	2892396	G	10	13	23	0.00232
+Agathobacter	1766253	G	12	16	28	0.00283
+Coprococcus	33042	G	10	6	16	0.00162
+Phascolarctobacterium	33024	G	16	1	17	0.00172
+Bifidobacterium	1678	G	100	7	107	0.01080

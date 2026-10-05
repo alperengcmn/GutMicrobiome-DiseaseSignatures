@@ -1,0 +1,50 @@
+100.00	1871	0	R	1	root
+100.00	1871	0	R1	131567	  cellular organisms
+93.03	1740	0	D	2	    Bacteria
+70.17	1312	0	K	3379134	      Pseudomonadati
+61.73	1154	0	K1	1783270	        FCB group
+61.73	1154	0	K2	68336	          Bacteroidota/Chlorobiota group
+61.73	1154	0	P	976	            Bacteroidota
+61.73	1154	0	C	200643	              Bacteroidia
+61.73	1154	0	O	171549	                Bacteroidales
+40.06	749	0	F	171552	                  Prevotellaceae
+40.06	749	0	G	2974251	                    Segatella
+40.06	749	749	S	165179	                      Segatella copri
+12.94	242	0	F	815	                  Bacteroidaceae
+12.94	242	0	G	816	                    Bacteroides
+12.94	242	242	S	246787	                      Bacteroides cellulosilyticus
+8.74	163	0	F	2005525	                  Tannerellaceae
+8.74	163	0	G	375288	                    Parabacteroides
+8.74	163	163	S	823	                      Parabacteroides distasonis
+8.44	157	0	K1	1783257	        PVC group
+8.44	157	0	P	74201	          Verrucomicrobiota
+8.44	157	0	C	203494	            Verrucomicrobiia
+8.44	157	0	O	48461	              Verrucomicrobiales
+8.44	157	0	F	1647988	                Akkermansiaceae
+8.44	157	0	G	239934	                  Akkermansia
+8.44	157	157	S	239935	                    Akkermansia muciniphila
+22.86	427	0	K	1783272	      Bacillati
+22.86	427	0	P	1239	        Bacillota
+12.83	240	0	C	909932	          Negativicutes
+12.83	240	0	O	1843489	            Veillonellales
+12.83	240	0	F	31977	              Veillonellaceae
+12.83	240	0	G	39948	                Dialister
+12.83	240	240	S	2582419	                  Dialister hominis
+10.03	187	0	C	186801	          Clostridia
+6.90	129	0	O	3085636	            Lachnospirales
+6.90	129	0	F	186803	              Lachnospiraceae
+6.90	129	0	G	3569723	                Allocoprococcus
+6.90	129	129	S	410072	                  Allocoprococcus comes
+3.13	58	0	O	186802	            Eubacteriales
+3.13	58	0	F	216572	              Oscillospiraceae
+3.13	58	0	G	1263	                Ruminococcus
+3.13	58	58	S	1161942	                  Ruminococcus champanellensis
+6.97	130	0	D	2157	    Archaea
+6.97	130	0	K	3366610	      Methanobacteriati
+6.97	130	0	P	28890	        Methanobacteriota
+6.97	130	0	P1	2283794	          Methanomada group
+6.97	130	0	C	183925	            Methanobacteria
+6.97	130	0	O	2158	              Methanobacteriales
+6.97	130	0	F	2159	                Methanobacteriaceae
+6.97	130	0	G	2172	                  Methanobrevibacter
+6.97	130	130	S	2173	                    Methanobrevibacter smithii

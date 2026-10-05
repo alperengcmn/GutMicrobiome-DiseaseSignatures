@@ -1,0 +1,18 @@
+100.00	3067	0	R	1	root
+100.00	3067	0	R1	131567	  cellular organisms
+99.44	3049	0	D	2	    Bacteria
+62.32	1911	0	K	3379134	      Pseudomonadati
+39.62	1215	0	P	1224	        Pseudomonadota
+20.77	636	0	K1	1783270	        FCB group
+20.77	636	0	K2	68336	          Bacteroidota/Chlorobiota group
+20.77	636	0	P	976	            Bacteroidota
+1.42	43	0	P	200940	        Thermodesulfobacteriota
+0.51	15	0	P	203691	        Spirochaetota
+35.77	1097	0	K	1783272	      Bacillati
+32.95	1010	0	P	1239	        Bacillota
+2.82	86	0	P	201174	        Actinomycetota
+1.35	41	0	K	3384189	      Fusobacteriati
+1.35	41	0	P	32066	        Fusobacteriota
+0.56	17	0	D	2157	    Archaea
+0.56	17	0	K	3366610	      Methanobacteriati
+0.56	17	17	P	28890	        Methanobacteriota

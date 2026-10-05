@@ -1,0 +1,11 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Segatella copri	165179	S	3378	1064	4442	0.75288
+Segatella hominis	2518605	S	418	356	774	0.13119
+Phocaeicola vulgatus	821	S	18	59	77	0.01305
+Desulfovibrio piger	901	S	10	3	13	0.00220
+Megasphaera elsdenii	907	S	157	122	279	0.04729
+Mitsuokella multacida	52226	S	78	23	101	0.01712
+Agathobacter rectalis	39491	S	56	46	102	0.01729
+Simiaoa sunii	2763672	S	27	19	46	0.00780
+Eshraghiella crossota	45851	S	19	8	27	0.00458
+Homo sapiens	9606	S	34	0	34	0.00576

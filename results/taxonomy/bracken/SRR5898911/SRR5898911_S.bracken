@@ -1,0 +1,13 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Segatella copri	165179	S	5097	1559	6656	0.65435
+Bacteroides fragilis	817	S	21	30	51	0.00501
+Sutterella wadsworthensis	40545	S	30	3	33	0.00324
+Agathobacter rectalis	39491	S	485	176	661	0.06498
+Roseburia faecis	301302	S	11	3	14	0.00138
+Faecalibacterium prausnitzii	853	S	39	174	213	0.02094
+Dialister hominis	2582419	S	161	11	172	0.01691
+Megasphaera sp.	2023260	S	33	24	57	0.00560
+Megamonas funiformis	437897	S	15	3	18	0.00177
+Ligilactobacillus ruminis	1623	S	48	8	56	0.00551
+Bifidobacterium adolescentis	1680	S	10	48	58	0.00570
+Homo sapiens	9606	S	2095	83	2178	0.21412

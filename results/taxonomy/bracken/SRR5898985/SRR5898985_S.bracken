@@ -1,0 +1,32 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Segatella copri	165179	S	1191	559	1750	0.27902
+Segatella hominis	2518605	S	610	615	1225	0.19531
+Bacteroides fragilis	817	S	134	206	340	0.05421
+Bacteroides caccae	47678	S	58	46	104	0.01658
+Bacteroides uniformis	820	S	52	291	343	0.05469
+Bacteroides salyersiae	291644	S	33	27	60	0.00957
+Bacteroides thetaiotaomicron	818	S	11	16	27	0.00430
+Bacteroides ovatus	28116	S	10	140	150	0.02392
+Phocaeicola vulgatus	821	S	69	287	356	0.05676
+Alistipes indistinctus	626932	S	22	15	37	0.00590
+Akkermansia sp. N21116	3040764	S	12	0	12	0.00191
+Agathobacter rectalis	39491	S	261	141	402	0.06409
+Roseburia faecis	301302	S	107	44	151	0.02408
+Roseburia intestinalis	166486	S	67	70	137	0.02184
+Blautia wexlerae	418240	S	79	100	179	0.02854
+Blautia faecis	871665	S	18	13	31	0.00494
+Dorea longicatena	88431	S	29	33	62	0.00989
+Dorea formicigenerans	39486	S	12	8	20	0.00319
+Coprococcus sp. ART55/1	751585	S	26	19	45	0.00717
+Simiaoa sunii	2763672	S	25	11	36	0.00574
+Faecalibacterium prausnitzii	853	S	15	217	232	0.03699
+Vescimonas coprocola	2714355	S	15	26	41	0.00654
+Clostridium sp. ETTB3	3438650	S	16	6	22	0.00351
+Eubacterium ventriosum	39496	S	10	5	15	0.00239
+Dialister hominis	2582419	S	18	1	19	0.00303
+Ligilactobacillus ruminis	1623	S	11	2	13	0.00207
+Bifidobacterium adolescentis	1680	S	47	136	183	0.02918
+Bifidobacterium longum	216816	S	11	21	32	0.00510
+Collinsella aerofaciens	74426	S	23	49	72	0.01148
+Homo sapiens	9606	S	97	5	102	0.01626
+Horekuvirus hiberniae	2955551	S	10	50	60	0.00957

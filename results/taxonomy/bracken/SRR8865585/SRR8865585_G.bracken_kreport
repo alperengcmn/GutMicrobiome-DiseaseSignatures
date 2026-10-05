@@ -1,0 +1,54 @@
+100.00	8171	0	R	1	root
+100.00	8171	0	R1	131567	  cellular organisms
+100.00	8171	0	D	2	    Bacteria
+80.88	6608	0	K	3379134	      Pseudomonadati
+80.44	6572	0	K1	1783270	        FCB group
+80.44	6572	0	K2	68336	          Bacteroidota/Chlorobiota group
+80.44	6572	0	P	976	            Bacteroidota
+80.44	6572	0	C	200643	              Bacteroidia
+80.44	6572	0	O	171549	                Bacteroidales
+29.88	2441	0	F	815	                  Bacteroidaceae
+26.62	2175	0	G	816	                    Bacteroides
+3.26	266	0	G	909656	                    Phocaeicola
+27.53	2249	0	F	171550	                  Rikenellaceae
+27.53	2249	0	G	239759	                    Alistipes
+12.67	1035	0	F	171552	                  Prevotellaceae
+6.75	551	0	G	577309	                    Paraprevotella
+5.92	483	0	G	2974251	                    Segatella
+4.97	405	0	F	2005519	                  Barnesiellaceae
+4.77	389	0	G	397864	                    Barnesiella
+0.20	16	0	G	1348911	                    Coprobacter
+3.01	246	0	F	1853231	                  Odoribacteraceae
+1.70	139	0	G	574697	                    Butyricimonas
+1.31	107	0	G	283168	                    Odoribacter
+2.38	194	0	F	2005525	                  Tannerellaceae
+2.38	194	0	G	375288	                    Parabacteroides
+0.25	20	0	P	200940	        Thermodesulfobacteriota
+0.25	20	0	C	3031449	          Desulfovibrionia
+0.25	20	0	O	213115	            Desulfovibrionales
+0.25	20	0	F	194924	              Desulfovibrionaceae
+0.25	20	0	G	35832	                Bilophila
+0.19	15	0	P	1224	        Pseudomonadota
+0.19	15	0	C	28216	          Betaproteobacteria
+0.19	15	0	O	80840	            Burkholderiales
+0.19	15	0	F	995019	              Sutterellaceae
+0.19	15	0	G	40544	                Sutterella
+19.12	1562	0	K	1783272	      Bacillati
+19.12	1562	0	P	1239	        Bacillota
+19.12	1562	0	C	186801	          Clostridia
+10.79	881	0	O	186802	            Eubacteriales
+10.46	854	0	F	216572	              Oscillospiraceae
+5.98	488	0	G	216851	                Faecalibacterium
+1.40	114	0	G	1905344	                Ruthenibacterium
+0.92	75	0	G	1263	                Ruminococcus
+1.07	87	0	G	946234	                Flavonifractor
+0.64	52	0	G	2892396	                Vescimonas
+0.45	37	0	G	2172004	                Lawsonibacter
+0.33	26	0	O1	538999	              Eubacteriales incertae sedis
+0.33	26	0	G	1392389	                Intestinimonas
+8.33	680	0	O	3085636	            Lachnospirales
+8.33	680	0	F	186803	              Lachnospiraceae
+5.02	410	0	G	3076670	                Claveliimonas
+1.03	84	0	G	2719313	                Enterocloster
+1.39	113	0	G	841	                Roseburia
+0.89	72	0	G	2944193	                Simiaoa

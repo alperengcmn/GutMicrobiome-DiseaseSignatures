@@ -1,0 +1,8 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacteroidia	200643	C	6204	344	6548	0.90007
+Gammaproteobacteria	1236	C	146	19	165	0.02268
+Clostridia	186801	C	342	58	400	0.05498
+Negativicutes	909932	C	91	14	105	0.01443
+Actinomycetes	1760	C	12	1	13	0.00179
+Fusobacteriia	203490	C	20	0	20	0.00275
+Synergistia	649775	C	20	0	20	0.00275

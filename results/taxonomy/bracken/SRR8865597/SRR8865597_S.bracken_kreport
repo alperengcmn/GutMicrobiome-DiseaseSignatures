@@ -1,0 +1,61 @@
+100.00	1274	0	R	1	root
+100.00	1274	0	R1	131567	  cellular organisms
+85.29	1087	0	D	2	    Bacteria
+63.77	813	0	K	3379134	      Pseudomonadati
+63.77	813	0	K1	1783270	        FCB group
+63.77	813	0	K2	68336	          Bacteroidota/Chlorobiota group
+63.77	813	0	P	976	            Bacteroidota
+63.77	813	0	C	200643	              Bacteroidia
+63.77	813	0	O	171549	                Bacteroidales
+44.39	566	0	F	815	                  Bacteroidaceae
+22.99	293	0	G	816	                    Bacteroides
+10.99	140	140	S	820	                      Bacteroides uniformis
+6.09	77	77	S	817	                      Bacteroides fragilis
+3.10	39	39	S	28111	                      Bacteroides eggerthii
+2.80	35	35	S	818	                      Bacteroides thetaiotaomicron
+21.40	272	0	G	909656	                    Phocaeicola
+13.57	173	173	S	357276	                      Phocaeicola dorei
+7.83	99	99	S	821	                      Phocaeicola vulgatus
+7.19	91	0	F	171552	                  Prevotellaceae
+4.55	58	0	G	2974251	                    Segatella
+4.55	58	58	S	165179	                      Segatella copri
+2.63	33	0	G	838	                    Prevotella
+2.63	33	33	S	28133	                      Prevotella nigrescens
+5.11	65	0	F	2005525	                  Tannerellaceae
+5.11	65	0	G	375288	                    Parabacteroides
+5.11	65	65	S	823	                      Parabacteroides distasonis
+3.09	39	0	F	171550	                  Rikenellaceae
+3.09	39	0	G	239759	                    Alistipes
+3.09	39	39	S	328814	                      Alistipes shahii
+2.51	32	0	F	1853231	                  Odoribacteraceae
+2.51	32	0	G	283168	                    Odoribacter
+2.51	32	32	S	28118	                      Odoribacter splanchnicus
+1.47	18	0	F	171551	                  Porphyromonadaceae
+1.47	18	0	G	836	                    Porphyromonas
+1.47	18	18	S	28124	                      Porphyromonas endodontalis
+21.52	274	0	K	1783272	      Bacillati
+21.52	274	0	P	1239	        Bacillota
+11.05	140	0	C	1737404	          Tissierellia
+11.05	140	0	O	1737405	            Tissierellales
+11.05	140	0	F	1570339	              Peptoniphilaceae
+11.05	140	0	G	543311	                Parvimonas
+11.05	140	140	S	33033	                  Parvimonas micra
+8.72	111	0	C	186801	          Clostridia
+8.72	111	0	O	3085636	            Lachnospirales
+8.72	111	0	F	186803	              Lachnospiraceae
+8.72	111	0	G	2316020	                Mediterraneibacter
+8.72	111	111	S	33039	                  Mediterraneibacter torques
+1.75	22	0	C	909932	          Negativicutes
+1.75	22	0	O	1843489	            Veillonellales
+1.75	22	0	F	31977	              Veillonellaceae
+1.75	22	0	G	39948	                Dialister
+1.75	22	22	S	39950	                  Dialister pneumosintes
+14.71	187	0	D	2157	    Archaea
+14.71	187	0	K	3366610	      Methanobacteriati
+14.71	187	0	P	28890	        Methanobacteriota
+14.71	187	0	P1	2283794	          Methanomada group
+14.71	187	0	C	183925	            Methanobacteria
+14.71	187	0	O	2158	              Methanobacteriales
+14.71	187	0	F	2159	                Methanobacteriaceae
+14.71	187	0	G	2172	                  Methanobrevibacter
+14.71	187	187	S	2173	                    Methanobrevibacter smithii

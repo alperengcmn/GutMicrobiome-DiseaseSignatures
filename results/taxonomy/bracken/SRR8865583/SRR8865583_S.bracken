@@ -1,0 +1,22 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Phocaeicola vulgatus	821	S	140	432	572	0.18529
+Bacteroides intestinalis	329854	S	85	69	154	0.04989
+Bacteroides stercoris	46506	S	13	13	26	0.00842
+Bacteroides xylanisolvens	371601	S	13	101	114	0.03693
+Bacteroides eggerthii	28111	S	10	10	20	0.00648
+Segatella copri	165179	S	347	190	537	0.17396
+Parabacteroides distasonis	823	S	123	398	521	0.16877
+Odoribacter splanchnicus	28118	S	107	30	137	0.04438
+Butyricimonas faecalis	2093856	S	62	74	136	0.04406
+Butyricimonas virosa	544645	S	14	16	30	0.00972
+Akkermansia muciniphila	239935	S	250	99	349	0.11305
+Duodenibacillus massiliensis	1852381	S	10	3	13	0.00421
+Candidatus Campylobacter infans	2561898	S	89	21	110	0.03563
+Bilophila wadsworthia	35833	S	22	2	24	0.00777
+Desulfovibrio piger	901	S	13	2	15	0.00486
+Treponema succinifaciens	167	S	23	7	30	0.00972
+Ruthenibacterium lactatiformans	1550024	S	19	19	38	0.01231
+Dysosmobacter welbionis	2093857	S	11	86	97	0.03142
+Lachnospira eligens	39485	S	33	32	65	0.02106
+Allocoprococcus comes	410072	S	10	35	45	0.01458
+Veillonella parvula	29466	S	23	20	43	0.01393

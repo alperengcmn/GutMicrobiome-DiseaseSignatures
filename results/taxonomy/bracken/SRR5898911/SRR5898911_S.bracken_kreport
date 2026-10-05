@@ -1,0 +1,87 @@
+100.00	10172	0	R	1	root
+100.00	10172	0	R1	131567	  cellular organisms
+78.59	7993	0	D	2	    Bacteria
+66.28	6741	0	K	3379134	      Pseudomonadati
+65.95	6708	0	K1	1783270	        FCB group
+65.95	6708	0	K2	68336	          Bacteroidota/Chlorobiota group
+65.95	6708	0	P	976	            Bacteroidota
+65.95	6708	0	C	200643	              Bacteroidia
+65.95	6708	0	O	171549	                Bacteroidales
+65.44	6656	0	F	171552	                  Prevotellaceae
+65.44	6656	0	G	2974251	                    Segatella
+65.44	6656	6656	S	165179	                      Segatella copri
+0.51	51	0	F	815	                  Bacteroidaceae
+0.51	51	0	G	816	                    Bacteroides
+0.51	51	51	S	817	                      Bacteroides fragilis
+0.33	33	0	P	1224	        Pseudomonadota
+0.33	33	0	C	28216	          Betaproteobacteria
+0.33	33	0	O	80840	            Burkholderiales
+0.33	33	0	F	995019	              Sutterellaceae
+0.33	33	0	G	40544	                Sutterella
+0.33	33	33	S	40545	                  Sutterella wadsworthensis
+12.31	1252	0	K	1783272	      Bacillati
+11.74	1193	0	P	1239	        Bacillota
+8.73	888	0	C	186801	          Clostridia
+6.64	675	0	O	3085636	            Lachnospirales
+6.64	675	0	F	186803	              Lachnospiraceae
+6.50	661	0	G	1766253	                Agathobacter
+6.50	661	661	S	39491	                  Agathobacter rectalis
+0.14	14	0	G	841	                Roseburia
+0.14	14	14	S	301302	                  Roseburia faecis
+2.10	213	0	O	186802	            Eubacteriales
+2.10	213	0	F	216572	              Oscillospiraceae
+2.10	213	0	G	216851	                Faecalibacterium
+2.10	213	213	S	853	                  Faecalibacterium prausnitzii
+2.45	248	0	C	909932	          Negativicutes
+2.27	230	0	O	1843489	            Veillonellales
+2.27	230	0	F	31977	              Veillonellaceae
+1.70	172	0	G	39948	                Dialister
+1.70	172	172	S	2582419	                  Dialister hominis
+0.57	57	0	G	906	                Megasphaera
+0.57	57	0	G1	2626256	                  unclassified Megasphaera
+0.57	57	57	S	2023260	                    Megasphaera sp.
+0.18	18	0	O	909929	            Selenomonadales
+0.18	18	0	F	1843491	              Selenomonadaceae
+0.18	18	0	G	158846	                Megamonas
+0.18	18	18	S	437897	                  Megamonas funiformis
+0.56	56	0	C	91061	          Bacilli
+0.56	56	0	O	186826	            Lactobacillales
+0.56	56	0	F	33958	              Lactobacillaceae
+0.56	56	0	G	2767887	                Ligilactobacillus
+0.56	56	56	S	1623	                  Ligilactobacillus ruminis
+0.57	58	0	P	201174	        Actinomycetota
+0.57	58	0	C	1760	          Actinomycetes
+0.57	58	0	O	85004	            Bifidobacteriales
+0.57	58	0	F	31953	              Bifidobacteriaceae
+0.57	58	0	G	1678	                Bifidobacterium
+0.57	58	58	S	1680	                  Bifidobacterium adolescentis
+21.41	2178	0	D	2759	    Eukaryota
+21.41	2178	0	D1	33154	      Opisthokonta
+21.41	2178	0	K	33208	        Metazoa
+21.41	2178	0	K1	6072	          Eumetazoa
+21.41	2178	0	K2	33213	            Bilateria
+21.41	2178	0	K3	33511	              Deuterostomia
+21.41	2178	0	P	7711	                Chordata
+21.41	2178	0	P1	89593	                  Craniata
+21.41	2178	0	P2	7742	                    Vertebrata
+21.41	2178	0	P3	7776	                      Gnathostomata
+21.41	2178	0	P4	117570	                        Teleostomi
+21.41	2178	0	P5	117571	                          Euteleostomi
+21.41	2178	0	P6	8287	                            Sarcopterygii
+21.41	2178	0	P7	1338369	                              Dipnotetrapodomorpha
+21.41	2178	0	P8	32523	                                Tetrapoda
+21.41	2178	0	P9	32524	                                  Amniota
+21.41	2178	0	C	40674	                                    Mammalia
+21.41	2178	0	C1	32525	                                      Theria
+21.41	2178	0	C2	9347	                                        Eutheria
+21.41	2178	0	C3	1437010	                                          Boreoeutheria
+21.41	2178	0	C4	314146	                                            Euarchontoglires
+21.41	2178	0	O	9443	                                              Primates
+21.41	2178	0	O1	376913	                                                Haplorrhini
+21.41	2178	0	O2	314293	                                                  Simiiformes
+21.41	2178	0	O3	9526	                                                    Catarrhini
+21.41	2178	0	O4	314295	                                                      Hominoidea
+21.41	2178	0	F	9604	                                                        Hominidae
+21.41	2178	0	F1	207598	                                                          Homininae
+21.41	2178	0	G	9605	                                                            Homo
+21.41	2178	2178	S	9606	                                                              Homo sapiens

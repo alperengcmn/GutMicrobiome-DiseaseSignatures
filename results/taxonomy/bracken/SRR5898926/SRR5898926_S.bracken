@@ -1,0 +1,10 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Segatella copri	165179	S	3230	1366	4596	0.85810
+Segatella hominis	2518605	S	162	177	339	0.06329
+Parabacteroides merdae	46503	S	10	15	25	0.00467
+Sutterella faecalis	2584944	S	21	17	38	0.00709
+Agathobacter rectalis	39491	S	158	68	226	0.04220
+Roseburia faecis	301302	S	13	9	22	0.00411
+Simiaoa sunii	2763672	S	23	8	31	0.00579
+Coprococcus sp. ART55/1	751585	S	11	6	17	0.00317
+Megasphaera sp.	2023260	S	31	26	57	0.01064

@@ -1,0 +1,52 @@
+100.00	1604	0	R	1	root
+94.95	1522	0	R1	131567	  cellular organisms
+83.30	1336	0	D	2	    Bacteria
+61.38	984	0	K	3379134	      Pseudomonadati
+53.85	863	0	K1	1783270	        FCB group
+53.85	863	0	K2	68336	          Bacteroidota/Chlorobiota group
+53.85	863	0	P	976	            Bacteroidota
+53.85	863	0	C	200643	              Bacteroidia
+53.85	863	0	O	171549	                Bacteroidales
+35.81	574	0	F	815	                  Bacteroidaceae
+6.22	99	0	F	171552	                  Prevotellaceae
+4.31	69	0	F	2005525	                  Tannerellaceae
+2.82	45	0	F	1853231	                  Odoribacteraceae
+2.87	46	0	F	171550	                  Rikenellaceae
+1.83	29	0	F	171551	                  Porphyromonadaceae
+7.53	120	0	P	1224	        Pseudomonadota
+7.53	120	0	C	1236	          Gammaproteobacteria
+7.53	120	0	O	91347	            Enterobacterales
+7.53	120	0	F	543	              Enterobacteriaceae
+21.92	351	0	K	1783272	      Bacillati
+21.26	341	0	P	1239	        Bacillota
+12.56	201	0	C	186801	          Clostridia
+7.53	120	0	O	3085636	            Lachnospirales
+7.53	120	0	F	186803	              Lachnospiraceae
+5.03	80	0	O	186802	            Eubacteriales
+5.03	80	0	F	216572	              Oscillospiraceae
+7.38	118	0	C	1737404	          Tissierellia
+7.38	118	0	O	1737405	            Tissierellales
+7.38	118	0	F	1570339	              Peptoniphilaceae
+1.31	21	0	C	909932	          Negativicutes
+1.31	21	0	O	1843489	            Veillonellales
+1.31	21	0	F	31977	              Veillonellaceae
+0.66	10	0	P	201174	        Actinomycetota
+0.66	10	0	C	1760	          Actinomycetes
+0.66	10	0	O	85004	            Bifidobacteriales
+0.66	10	0	F	31953	              Bifidobacteriaceae
+11.64	186	0	D	2157	    Archaea
+11.64	186	0	K	3366610	      Methanobacteriati
+11.64	186	0	P	28890	        Methanobacteriota
+11.64	186	0	P1	2283794	          Methanomada group
+11.64	186	0	C	183925	            Methanobacteria
+11.64	186	0	O	2158	              Methanobacteriales
+11.64	186	0	F	2159	                Methanobacteriaceae
+5.05	81	0	R1	10239	  Viruses
+5.05	81	0	R2	2731341	    Duplodnaviria
+5.05	81	0	K	2731360	      Heunggongvirae
+5.05	81	0	P	2731618	        Uroviricota
+5.05	81	0	C	2731619	          Caudoviricetes
+5.05	81	0	O	1978007	            Crassvirales
+2.75	44	0	F	2942966	              Suoliviridae
+1.56	25	0	F	3700681	              Darmviridae
+0.75	12	12	F	2942965	              Steigviridae

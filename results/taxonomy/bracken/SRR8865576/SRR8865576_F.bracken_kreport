@@ -1,0 +1,49 @@
+100.00	8810	0	R	1	root
+99.83	8795	0	R1	131567	  cellular organisms
+99.83	8795	0	D	2	    Bacteria
+96.18	8473	0	K	3379134	      Pseudomonadati
+94.51	8326	0	K1	1783270	        FCB group
+94.51	8326	0	K2	68336	          Bacteroidota/Chlorobiota group
+94.51	8326	0	P	976	            Bacteroidota
+94.51	8326	0	C	200643	              Bacteroidia
+94.51	8326	0	O	171549	                Bacteroidales
+71.85	6329	0	F	815	                  Bacteroidaceae
+16.35	1440	0	F	2005525	                  Tannerellaceae
+4.87	429	0	F	171552	                  Prevotellaceae
+1.23	107	0	F	171550	                  Rikenellaceae
+0.21	18	0	F	1853231	                  Odoribacteraceae
+1.67	147	0	P	1224	        Pseudomonadota
+1.46	128	0	C	1236	          Gammaproteobacteria
+1.46	128	0	O	91347	            Enterobacterales
+1.04	91	0	F	543	              Enterobacteriaceae
+0.42	37	0	F	1903414	              Morganellaceae
+0.21	18	0	C	28216	          Betaproteobacteria
+0.21	18	0	O	80840	            Burkholderiales
+0.21	18	0	F	995019	              Sutterellaceae
+3.65	321	0	K	1783272	      Bacillati
+2.93	258	0	P	1239	        Bacillota
+2.16	190	0	C	186801	          Clostridia
+2.03	178	0	O	3085636	            Lachnospirales
+2.03	178	0	F	186803	              Lachnospiraceae
+0.14	11	0	O	186802	            Eubacteriales
+0.14	11	0	F	216572	              Oscillospiraceae
+0.61	53	0	C	91061	          Bacilli
+0.61	53	0	O	186826	            Lactobacillales
+0.61	53	0	F	33958	              Lactobacillaceae
+0.16	14	0	C	909932	          Negativicutes
+0.16	14	0	O	909929	            Selenomonadales
+0.16	14	0	F	1843491	              Selenomonadaceae
+0.72	63	0	P	201174	        Actinomycetota
+0.51	44	0	C	84998	          Coriobacteriia
+0.51	44	0	O	84999	            Coriobacteriales
+0.51	44	0	F	84107	              Coriobacteriaceae
+0.21	18	0	C	1760	          Actinomycetes
+0.21	18	0	O	85004	            Bifidobacteriales
+0.21	18	0	F	31953	              Bifidobacteriaceae
+0.17	14	0	R1	10239	  Viruses
+0.17	14	0	R2	2731341	    Duplodnaviria
+0.17	14	0	K	2731360	      Heunggongvirae
+0.17	14	0	P	2731618	        Uroviricota
+0.17	14	0	C	2731619	          Caudoviricetes
+0.17	14	0	C1	3424297	            Caudoviricetes incertae sedis
+0.17	14	14	F	3424670	              Sarkviridae

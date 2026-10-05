@@ -1,0 +1,23 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Segatella copri	165179	S	1120	307	1427	0.35339
+Bacteroides fragilis	817	S	266	230	496	0.12283
+Bacteroides caccae	47678	S	37	14	51	0.01263
+Bacteroides uniformis	820	S	23	69	92	0.02278
+Bacteroides ovatus	28116	S	14	133	147	0.03640
+Bacteroides stercoris	46506	S	13	11	24	0.00594
+Bacteroides xylanisolvens	371601	S	10	54	64	0.01585
+Phocaeicola vulgatus	821	S	62	190	252	0.06241
+Phocaeicola dorei	357276	S	12	39	51	0.01263
+Alistipes putredinis	28117	S	67	41	108	0.02675
+Alistipes finegoldii	214856	S	10	14	24	0.00594
+Alistipes shahii	328814	S	10	22	32	0.00792
+Parabacteroides merdae	46503	S	34	49	83	0.02055
+Escherichia coli	562	S	15	582	597	0.14785
+Haemophilus parainfluenzae	729	S	22	7	29	0.00718
+Ruminococcus bovis	2564099	S	74	15	89	0.02204
+Agathobacter rectalis	39491	S	26	36	62	0.01535
+Coprococcus sp. ART55/1	751585	S	10	14	24	0.00594
+Dialister hominis	2582419	S	21	4	25	0.00619
+Homo sapiens	9606	S	10	0	10	0.00248
+Smehivirus intestinihominis	2955562	S	59	232	291	0.07207
+Burzaovirus faecalis	2955561	S	10	39	49	0.01213

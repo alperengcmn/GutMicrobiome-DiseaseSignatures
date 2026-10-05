@@ -1,0 +1,34 @@
+100.00	1978	0	R	1	root
+100.00	1978	0	R1	131567	  cellular organisms
+93.41	1848	0	D	2	    Bacteria
+67.15	1328	0	K	3379134	      Pseudomonadati
+59.37	1174	0	K1	1783270	        FCB group
+59.37	1174	0	K2	68336	          Bacteroidota/Chlorobiota group
+59.37	1174	0	P	976	            Bacteroidota
+59.37	1174	0	C	200643	              Bacteroidia
+59.37	1174	0	O	171549	                Bacteroidales
+37.31	738	0	F	171552	                  Prevotellaceae
+14.25	282	0	F	815	                  Bacteroidaceae
+7.81	154	0	F	2005525	                  Tannerellaceae
+7.78	153	0	K1	1783257	        PVC group
+7.78	153	0	P	74201	          Verrucomicrobiota
+7.78	153	0	C	203494	            Verrucomicrobiia
+7.78	153	0	O	48461	              Verrucomicrobiales
+7.78	153	0	F	1647988	                Akkermansiaceae
+26.27	519	0	K	1783272	      Bacillati
+26.27	519	0	P	1239	        Bacillota
+15.59	308	0	C	186801	          Clostridia
+8.71	172	0	O	3085636	            Lachnospirales
+8.71	172	0	F	186803	              Lachnospiraceae
+6.88	136	0	O	186802	            Eubacteriales
+6.88	136	0	F	216572	              Oscillospiraceae
+10.68	211	0	C	909932	          Negativicutes
+10.68	211	0	O	1843489	            Veillonellales
+10.68	211	0	F	31977	              Veillonellaceae
+6.59	130	0	D	2157	    Archaea
+6.59	130	0	K	3366610	      Methanobacteriati
+6.59	130	0	P	28890	        Methanobacteriota
+6.59	130	0	P1	2283794	          Methanomada group
+6.59	130	0	C	183925	            Methanobacteria
+6.59	130	0	O	2158	              Methanobacteriales
+6.59	130	0	F	2159	                Methanobacteriaceae

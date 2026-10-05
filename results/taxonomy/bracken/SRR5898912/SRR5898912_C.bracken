@@ -1,0 +1,6 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacteroidia	200643	C	6304	226	6530	0.92414
+Gammaproteobacteria	1236	C	60	5	65	0.00920
+Betaproteobacteria	28216	C	24	1	25	0.00354
+Clostridia	186801	C	340	38	378	0.05350
+Negativicutes	909932	C	63	2	65	0.00920

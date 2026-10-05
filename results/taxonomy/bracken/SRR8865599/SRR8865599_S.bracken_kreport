@@ -1,0 +1,98 @@
+100.00	11918	0	R	1	root
+100.00	11918	0	R1	131567	  cellular organisms
+100.00	11918	0	D	2	    Bacteria
+68.48	8161	0	K	3379134	      Pseudomonadati
+58.65	6989	0	P	1224	        Pseudomonadota
+58.65	6989	0	C	1236	          Gammaproteobacteria
+57.79	6886	0	O	91347	            Enterobacterales
+57.79	6886	0	F	543	              Enterobacteriaceae
+52.16	6215	0	G	561	                Escherichia
+52.16	6215	6215	S	562	                  Escherichia coli
+5.63	670	0	G	547	                Enterobacter
+5.63	670	0	G1	354276	                  Enterobacter cloacae complex
+5.63	670	670	S	550	                    Enterobacter cloacae
+0.86	102	0	O	135625	            Pasteurellales
+0.86	102	0	F	712	              Pasteurellaceae
+0.86	102	0	G	724	                Haemophilus
+0.86	102	102	S	729	                  Haemophilus parainfluenzae
+9.84	1172	0	K1	1783270	        FCB group
+9.84	1172	0	K2	68336	          Bacteroidota/Chlorobiota group
+9.84	1172	0	P	976	            Bacteroidota
+9.84	1172	0	C	200643	              Bacteroidia
+9.84	1172	0	O	171549	                Bacteroidales
+6.98	831	0	F	815	                  Bacteroidaceae
+5.54	660	0	G	816	                    Bacteroides
+0.89	106	106	S	818	                      Bacteroides thetaiotaomicron
+2.55	303	303	S	2763023	                      Bacteroides hominis
+2.10	249	249	S	28116	                      Bacteroides ovatus
+1.44	171	0	G	909656	                    Phocaeicola
+1.44	171	171	S	821	                      Phocaeicola vulgatus
+2.86	340	0	F	171552	                  Prevotellaceae
+2.86	340	0	G	2974251	                    Segatella
+2.86	340	340	S	165179	                      Segatella copri
+31.52	3756	0	K	1783272	      Bacillati
+29.34	3496	0	P	1239	        Bacillota
+12.80	1525	0	C	186801	          Clostridia
+7.81	931	0	O	3085636	            Lachnospirales
+7.81	931	0	F	186803	              Lachnospiraceae
+3.32	395	0	G	572511	                Blautia
+1.83	218	0	G1	2648079	                  unclassified Blautia
+1.83	218	218	S	2479767	                    Blautia sp. SC05B48
+1.11	132	132	S	418240	                  Blautia wexlerae
+0.38	45	45	S	40520	                  Blautia obeum
+2.53	301	0	G	2316020	                Mediterraneibacter
+2.39	285	285	S	33039	                  Mediterraneibacter torques
+0.13	15	15	S	33038	                  Mediterraneibacter gnavus
+0.73	87	0	G	189330	                Dorea
+0.73	87	87	S	88431	                  Dorea longicatena
+0.49	58	0	G	2719313	                Enterocloster
+0.49	58	58	S	208479	                  Enterocloster bolteae
+0.37	43	0	G	1506553	                Lachnoclostridium
+0.37	43	43	S	29347	                  [Clostridium] scindens
+0.20	23	0	G	841	                Roseburia
+0.20	23	23	S	301301	                  Roseburia hominis
+0.17	20	0	G	2005355	                Faecalimonas
+0.17	20	20	S	1912855	                  Faecalimonas umbilicata
+4.98	594	0	O	186802	            Eubacteriales
+4.98	594	0	F	216572	              Oscillospiraceae
+3.52	419	0	G	946234	                Flavonifractor
+3.52	419	419	S	292800	                  Flavonifractor plautii
+1.46	174	0	G	216851	                Faecalibacterium
+1.46	174	174	S	853	                  Faecalibacterium prausnitzii
+9.38	1117	0	C	91061	          Bacilli
+9.38	1117	0	O	186826	            Lactobacillales
+6.73	801	0	F	1300	              Streptococcaceae
+6.73	801	0	G	1301	                Streptococcus
+1.79	213	0	G1	3706788	                  Streptococcus parasanguinis group
+1.79	213	213	S	1318	                    Streptococcus parasanguinis
+2.57	305	305	S	1304	                  Streptococcus salivarius
+2.04	243	243	S	1303	                  Streptococcus oralis
+0.33	38	38	S	684066	                  Streptococcus lactarius
+2.65	315	0	F	33958	              Lactobacillaceae
+2.29	272	0	G	2742598	                Limosilactobacillus
+1.30	155	155	S	1613	                  Limosilactobacillus fermentum
+0.99	117	117	S	97478	                  Limosilactobacillus mucosae
+0.36	43	0	G	2767887	                Ligilactobacillus
+0.36	43	43	S	1624	                  Ligilactobacillus salivarius
+7.16	853	0	C	909932	          Negativicutes
+7.16	853	0	O	1843489	            Veillonellales
+7.16	853	0	F	31977	              Veillonellaceae
+5.05	601	0	G	29465	                Veillonella
+5.05	601	601	S	29466	                  Veillonella parvula
+2.11	251	0	G	39948	                Dialister
+2.11	251	251	S	2582419	                  Dialister hominis
+2.18	259	0	P	201174	        Actinomycetota
+1.52	180	0	C	1760	          Actinomycetes
+1.17	139	0	O	85004	            Bifidobacteriales
+1.17	139	0	F	31953	              Bifidobacteriaceae
+1.17	139	0	G	1678	                Bifidobacterium
+1.17	139	139	S	216816	                  Bifidobacterium longum
+0.35	41	0	O	85006	            Micrococcales
+0.35	41	0	F	1268	              Micrococcaceae
+0.35	41	0	G	32207	                Rothia
+0.35	41	41	S	43675	                  Rothia mucilaginosa
+0.66	78	0	C	84998	          Coriobacteriia
+0.66	78	0	O	84999	            Coriobacteriales
+0.66	78	0	F	84107	              Coriobacteriaceae
+0.66	78	0	G	102106	                Collinsella
+0.66	78	78	S	74426	                  Collinsella aerofaciens

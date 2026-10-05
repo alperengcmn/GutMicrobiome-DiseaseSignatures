@@ -1,0 +1,40 @@
+100.00	6455	0	R	1	root
+100.00	6455	0	R1	131567	  cellular organisms
+100.00	6455	0	D	2	    Bacteria
+57.64	3720	0	K	3379134	      Pseudomonadati
+57.64	3720	0	K1	1783270	        FCB group
+57.64	3720	0	K2	68336	          Bacteroidota/Chlorobiota group
+57.64	3720	0	P	976	            Bacteroidota
+57.64	3720	0	C	200643	              Bacteroidia
+57.64	3720	0	O	171549	                Bacteroidales
+57.64	3720	0	F	171552	                  Prevotellaceae
+57.64	3720	0	G	2974251	                    Segatella
+57.64	3720	3720	S	165179	                      Segatella copri
+42.36	2734	0	K	1783272	      Bacillati
+41.88	2703	0	P	1239	        Bacillota
+36.85	2378	0	C	909932	          Negativicutes
+36.61	2363	0	O	1843489	            Veillonellales
+36.61	2363	0	F	31977	              Veillonellaceae
+32.54	2100	0	G	39948	                Dialister
+31.44	2029	2029	S	487173	                  Dialister succinatiphilus
+1.10	71	0	G1	2638756	                  unclassified Dialister
+1.10	71	71	S	1955814	                    Dialister sp.
+4.07	262	0	G	906	                Megasphaera
+3.68	237	0	G1	2626256	                  unclassified Megasphaera
+3.68	237	237	S	2023260	                    Megasphaera sp.
+0.39	25	25	S	907	                  Megasphaera elsdenii
+0.24	15	0	O	909929	            Selenomonadales
+0.24	15	0	F	1843491	              Selenomonadaceae
+0.24	15	0	G	158846	                Megamonas
+0.24	15	15	S	437897	                  Megamonas funiformis
+5.04	325	0	C	186801	          Clostridia
+5.04	325	0	O	186802	            Eubacteriales
+5.04	325	0	F	216572	              Oscillospiraceae
+5.04	325	0	G	216851	                Faecalibacterium
+5.04	325	325	S	853	                  Faecalibacterium prausnitzii
+0.48	31	0	P	201174	        Actinomycetota
+0.48	31	0	C	84998	          Coriobacteriia
+0.48	31	0	O	84999	            Coriobacteriales
+0.48	31	0	F	84107	              Coriobacteriaceae
+0.48	31	0	G	102106	                Collinsella
+0.48	31	31	S	74426	                  Collinsella aerofaciens

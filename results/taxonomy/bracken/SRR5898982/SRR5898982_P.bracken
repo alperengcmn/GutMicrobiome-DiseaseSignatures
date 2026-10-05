@@ -1,0 +1,4 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacteroidota	976	P	4147	160	4307	0.80595
+Pseudomonadota	1224	P	179	56	235	0.04397
+Bacillota	1239	P	714	87	801	0.14989

@@ -1,0 +1,47 @@
+100.00	3053	0	R	1	root
+100.00	3053	0	R1	131567	  cellular organisms
+99.44	3035	0	D	2	    Bacteria
+62.27	1901	0	K	3379134	      Pseudomonadati
+39.46	1204	0	P	1224	        Pseudomonadota
+33.09	1010	0	C	1236	          Gammaproteobacteria
+33.09	1010	0	O	91347	            Enterobacterales
+6.36	194	0	C	28216	          Betaproteobacteria
+6.36	194	0	O	80840	            Burkholderiales
+20.87	637	0	K1	1783270	        FCB group
+20.87	637	0	K2	68336	          Bacteroidota/Chlorobiota group
+20.87	637	0	P	976	            Bacteroidota
+20.87	637	0	C	200643	              Bacteroidia
+20.87	637	0	O	171549	                Bacteroidales
+1.43	43	0	P	200940	        Thermodesulfobacteriota
+1.43	43	0	C	3031449	          Desulfovibrionia
+1.43	43	0	O	213115	            Desulfovibrionales
+0.51	15	0	P	203691	        Spirochaetota
+0.51	15	0	C	203692	          Spirochaetia
+0.51	15	0	O	3120456	            Treponematales
+35.80	1092	0	K	1783272	      Bacillati
+33.04	1008	0	P	1239	        Bacillota
+29.06	887	0	C	186801	          Clostridia
+16.13	492	0	O	3085636	            Lachnospirales
+12.93	394	0	O	186802	            Eubacteriales
+2.44	74	0	C	909932	          Negativicutes
+1.92	58	0	O	1843489	            Veillonellales
+0.53	16	0	O	1843488	            Acidaminococcales
+1.07	32	0	C	91061	          Bacilli
+1.07	32	0	O	186826	            Lactobacillales
+0.47	14	0	C	526524	          Erysipelotrichia
+0.47	14	0	O	526525	            Erysipelotrichales
+2.76	84	0	P	201174	        Actinomycetota
+2.26	69	0	C	1760	          Actinomycetes
+2.26	69	0	O	85004	            Bifidobacteriales
+0.50	15	0	C	84998	          Coriobacteriia
+0.50	15	0	O	84999	            Coriobacteriales
+1.37	41	0	K	3384189	      Fusobacteriati
+1.37	41	0	P	32066	        Fusobacteriota
+1.37	41	0	C	203490	          Fusobacteriia
+1.37	41	0	O	203491	            Fusobacteriales
+0.56	17	0	D	2157	    Archaea
+0.56	17	0	K	3366610	      Methanobacteriati
+0.56	17	0	P	28890	        Methanobacteriota
+0.56	17	0	P1	2283794	          Methanomada group
+0.56	17	0	C	183925	            Methanobacteria
+0.56	17	0	O	2158	              Methanobacteriales

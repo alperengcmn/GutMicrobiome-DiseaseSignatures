@@ -1,0 +1,71 @@
+100.00	1481	0	R	1	root
+100.00	1481	0	R1	131567	  cellular organisms
+100.00	1481	0	D	2	    Bacteria
+51.21	758	0	K	3379134	      Pseudomonadati
+34.60	512	0	K1	1783270	        FCB group
+34.60	512	0	K2	68336	          Bacteroidota/Chlorobiota group
+34.60	512	0	P	976	            Bacteroidota
+34.60	512	0	C	200643	              Bacteroidia
+34.60	512	0	O	171549	                Bacteroidales
+26.70	395	0	F	171552	                  Prevotellaceae
+26.70	395	0	G	2974251	                    Segatella
+22.59	334	334	S	165179	                      Segatella copri
+4.11	60	60	S	2518605	                      Segatella hominis
+7.91	117	0	F	815	                  Bacteroidaceae
+7.91	117	0	G	909656	                    Phocaeicola
+7.91	117	117	S	821	                      Phocaeicola vulgatus
+12.41	183	0	P	1224	        Pseudomonadota
+12.41	183	0	C	28216	          Betaproteobacteria
+12.41	183	0	O	80840	            Burkholderiales
+12.41	183	0	F	80864	              Comamonadaceae
+12.41	183	0	G	283	                Comamonas
+12.41	183	183	S	225992	                  Comamonas kerstersii
+2.55	37	0	P	200940	        Thermodesulfobacteriota
+2.55	37	0	C	3031449	          Desulfovibrionia
+2.55	37	0	O	213115	            Desulfovibrionales
+2.55	37	0	F	194924	              Desulfovibrionaceae
+2.55	37	0	G	872	                Desulfovibrio
+2.55	37	37	S	901	                  Desulfovibrio piger
+1.65	24	0	P	203691	        Spirochaetota
+1.65	24	0	C	203692	          Spirochaetia
+1.65	24	0	O	3120456	            Treponematales
+1.65	24	0	F	2845253	              Treponemataceae
+1.65	24	0	G	157	                Treponema
+1.65	24	24	S	167	                  Treponema succinifaciens
+45.79	678	0	K	1783272	      Bacillati
+42.14	624	0	P	1239	        Bacillota
+39.02	577	0	C	186801	          Clostridia
+22.81	337	0	O	3085636	            Lachnospirales
+22.81	337	0	F	186803	              Lachnospiraceae
+16.76	248	0	G	3342669	                Eshraghiella
+16.76	248	248	S	45851	                  Eshraghiella crossota
+3.90	57	0	G	1766253	                Agathobacter
+3.90	57	57	S	39491	                  Agathobacter rectalis
+2.16	31	0	G	28050	                Lachnospira
+2.16	31	31	S	39485	                  Lachnospira eligens
+16.20	239	0	O	186802	            Eubacteriales
+16.20	239	0	F	216572	              Oscillospiraceae
+13.51	200	0	G	2892396	                Vescimonas
+6.96	103	103	S	2714353	                  Vescimonas fastidiosa
+6.55	97	97	S	2714355	                  Vescimonas coprocola
+2.69	39	0	G	1263	                Ruminococcus
+2.69	39	39	S	1160721	                  Ruminococcus bicirculans (ex Wegman et al. 2014)
+3.12	46	0	C	909932	          Negativicutes
+3.12	46	0	O	1843489	            Veillonellales
+3.12	46	0	F	31977	              Veillonellaceae
+3.12	46	0	G	906	                Megasphaera
+3.12	46	0	G1	2626256	                  unclassified Megasphaera
+3.12	46	46	S	2023260	                    Megasphaera sp.
+3.65	54	0	P	201174	        Actinomycetota
+3.65	54	0	C	1760	          Actinomycetes
+3.65	54	0	O	85004	            Bifidobacteriales
+3.65	54	0	F	31953	              Bifidobacteriaceae
+3.65	54	0	G	1678	                Bifidobacterium
+3.65	54	54	S	1680	                  Bifidobacterium adolescentis
+3.00	44	0	K	3384189	      Fusobacteriati
+3.00	44	0	P	32066	        Fusobacteriota
+3.00	44	0	C	203490	          Fusobacteriia
+3.00	44	0	O	203491	            Fusobacteriales
+3.00	44	0	F	203492	              Fusobacteriaceae
+3.00	44	0	G	848	                Fusobacterium
+3.00	44	44	S	850	                  Fusobacterium mortiferum

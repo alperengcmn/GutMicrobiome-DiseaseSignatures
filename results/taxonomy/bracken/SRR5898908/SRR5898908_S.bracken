@@ -1,0 +1,12 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Segatella copri	165179	S	2984	1005	3989	0.78416
+Segatella hominis	2518605	S	134	125	259	0.05091
+Agathobacter rectalis	39491	S	199	93	292	0.05740
+Eshraghiella crossota	45851	S	83	20	103	0.02025
+Roseburia faecis	301302	S	41	13	54	0.01062
+Wujia chipingensis	2763670	S	43	27	70	0.01376
+Simiaoa sunii	2763672	S	37	14	51	0.01003
+Lachnospira eligens	39485	S	26	4	30	0.00590
+Faecalibacterium prausnitzii	853	S	42	128	170	0.03342
+Ruminococcus champanellensis	1161942	S	10	0	10	0.00197
+Bifidobacterium adolescentis	1680	S	11	43	54	0.01062

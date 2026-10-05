@@ -1,0 +1,11 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Escherichia	561	G	415	12394	12809	0.75507
+Klebsiella	570	G	31	0	31	0.00183
+Bacteroides	816	G	675	52	727	0.04286
+Phocaeicola	909656	G	36	18	54	0.00318
+Parabacteroides	375288	G	47	11	58	0.00342
+Bifidobacterium	1678	G	2728	242	2970	0.17508
+Enterococcus	1350	G	174	31	205	0.01208
+Lactobacillus	1578	G	35	8	43	0.00253
+Limosilactobacillus	2742598	G	11	8	19	0.00112
+Flavonifractor	946234	G	30	14	44	0.00259

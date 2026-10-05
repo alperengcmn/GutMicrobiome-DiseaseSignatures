@@ -1,0 +1,14 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Segatella copri	165179	S	3863	1350	5213	0.78889
+Segatella hominis	2518605	S	18	17	35	0.00530
+Phocaeicola vulgatus	821	S	27	75	102	0.01544
+Sutterella wadsworthensis	40545	S	20	4	24	0.00363
+Megasphaera sp.	2023260	S	401	346	747	0.11304
+Megasphaera elsdenii	907	S	14	8	22	0.00333
+Dialister hominis	2582419	S	151	19	170	0.02573
+Megamonas funiformis	437897	S	46	10	56	0.00847
+Agathobacter rectalis	39491	S	78	36	114	0.01725
+Lachnospira eligens	39485	S	10	1	11	0.00166
+Simiaoa sunii	2763672	S	10	3	13	0.00197
+Faecalibacterium prausnitzii	853	S	17	55	72	0.01090
+Homo sapiens	9606	S	21	1	22	0.00333

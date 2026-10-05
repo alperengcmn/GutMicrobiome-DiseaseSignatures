@@ -1,0 +1,16 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Segatella copri	165179	S	1158	671	1829	0.60523
+Segatella hominis	2518605	S	34	52	86	0.02846
+Agathobacter rectalis	39491	S	294	145	439	0.14527
+Roseburia faecis	301302	S	65	27	92	0.03044
+Eshraghiella crossota	45851	S	70	18	88	0.02912
+Simiaoa sunii	2763672	S	46	18	64	0.02118
+Dorea longicatena	88431	S	21	23	44	0.01456
+Blautia obeum	40520	S	13	10	23	0.00761
+Lachnospira eligens	39485	S	14	2	16	0.00529
+Ruminococcus callidus	40519	S	14	6	20	0.00662
+Ruminococcus bicirculans (ex Wegman et al. 2014)	1160721	S	11	7	18	0.00596
+Dialister succinatiphilus	487173	S	51	18	69	0.02283
+Megasphaera sp.	2023260	S	22	37	59	0.01952
+Mitsuokella multacida	52226	S	28	12	40	0.01324
+Bifidobacterium adolescentis	1680	S	24	103	127	0.04203

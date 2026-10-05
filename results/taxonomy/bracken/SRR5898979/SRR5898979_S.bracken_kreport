@@ -1,0 +1,43 @@
+100.00	7350	0	R	1	root
+100.00	7350	0	R1	131567	  cellular organisms
+100.00	7350	0	D	2	    Bacteria
+83.54	6139	0	K	3379134	      Pseudomonadati
+83.15	6111	0	K1	1783270	        FCB group
+83.15	6111	0	K2	68336	          Bacteroidota/Chlorobiota group
+83.15	6111	0	P	976	            Bacteroidota
+83.15	6111	0	C	200643	              Bacteroidia
+83.15	6111	0	O	171549	                Bacteroidales
+83.15	6111	0	F	171552	                  Prevotellaceae
+83.15	6111	0	G	2974251	                    Segatella
+82.85	6089	6089	S	165179	                      Segatella copri
+0.30	22	22	S	2518605	                      Segatella hominis
+0.39	28	0	P	1224	        Pseudomonadota
+0.39	28	0	C	28216	          Betaproteobacteria
+0.39	28	0	O	80840	            Burkholderiales
+0.39	28	0	F	995019	              Sutterellaceae
+0.39	28	0	G	40544	                Sutterella
+0.39	28	28	S	2584944	                  Sutterella faecalis
+16.46	1210	0	K	1783272	      Bacillati
+16.46	1210	0	P	1239	        Bacillota
+8.57	629	0	C	909932	          Negativicutes
+8.57	629	0	O	1843489	            Veillonellales
+8.57	629	0	F	31977	              Veillonellaceae
+6.13	450	0	G	39948	                Dialister
+6.13	450	450	S	487173	                  Dialister succinatiphilus
+2.44	179	0	G	906	                Megasphaera
+2.44	179	0	G1	2626256	                  unclassified Megasphaera
+2.44	179	179	S	2023260	                    Megasphaera sp.
+6.93	509	0	C	186801	          Clostridia
+6.66	489	0	O	186802	            Eubacteriales
+6.66	489	0	F	216572	              Oscillospiraceae
+6.66	489	0	G	216851	                Faecalibacterium
+6.66	489	489	S	853	                  Faecalibacterium prausnitzii
+0.27	19	0	O	3085636	            Lachnospirales
+0.27	19	0	F	186803	              Lachnospiraceae
+0.27	19	0	G	841	                Roseburia
+0.27	19	19	S	301302	                  Roseburia faecis
+0.97	70	0	C	91061	          Bacilli
+0.97	70	0	O	186826	            Lactobacillales
+0.97	70	0	F	33958	              Lactobacillaceae
+0.97	70	0	G	2767887	                Ligilactobacillus
+0.97	70	70	S	1623	                  Ligilactobacillus ruminis

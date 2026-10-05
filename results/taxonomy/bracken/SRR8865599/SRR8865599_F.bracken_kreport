@@ -1,0 +1,49 @@
+100.00	12566	0	R	1	root
+99.12	12456	0	R1	131567	  cellular organisms
+99.12	12456	0	D	2	    Bacteria
+68.76	8640	0	K	3379134	      Pseudomonadati
+59.38	7461	0	P	1224	        Pseudomonadota
+59.38	7461	0	C	1236	          Gammaproteobacteria
+58.62	7367	0	O	91347	            Enterobacterales
+58.62	7367	0	F	543	              Enterobacteriaceae
+0.75	94	0	O	135625	            Pasteurellales
+0.75	94	0	F	712	              Pasteurellaceae
+9.38	1179	0	K1	1783270	        FCB group
+9.38	1179	0	K2	68336	          Bacteroidota/Chlorobiota group
+9.38	1179	0	P	976	            Bacteroidota
+9.38	1179	0	C	200643	              Bacteroidia
+9.38	1179	0	O	171549	                Bacteroidales
+6.72	844	0	F	815	                  Bacteroidaceae
+2.66	334	0	F	171552	                  Prevotellaceae
+30.36	3815	0	K	1783272	      Bacillati
+28.24	3549	0	P	1239	        Bacillota
+12.38	1555	0	C	186801	          Clostridia
+7.52	944	0	O	3085636	            Lachnospirales
+7.52	944	0	F	186803	              Lachnospiraceae
+4.87	611	0	O	186802	            Eubacteriales
+4.87	611	0	F	216572	              Oscillospiraceae
+9.11	1144	0	C	91061	          Bacilli
+9.11	1144	0	O	186826	            Lactobacillales
+6.54	821	0	F	1300	              Streptococcaceae
+2.57	322	0	F	33958	              Lactobacillaceae
+6.75	848	0	C	909932	          Negativicutes
+6.75	848	0	O	1843489	            Veillonellales
+6.75	848	0	F	31977	              Veillonellaceae
+2.12	266	0	P	201174	        Actinomycetota
+1.49	187	0	C	1760	          Actinomycetes
+1.12	141	0	O	85004	            Bifidobacteriales
+1.12	141	0	F	31953	              Bifidobacteriaceae
+0.37	46	0	O	85006	            Micrococcales
+0.37	46	0	F	1268	              Micrococcaceae
+0.63	79	0	C	84998	          Coriobacteriia
+0.63	79	0	O	84999	            Coriobacteriales
+0.63	79	0	F	84107	              Coriobacteriaceae
+0.88	110	0	R1	10239	  Viruses
+0.88	110	0	R2	2731341	    Duplodnaviria
+0.88	110	0	K	2731360	      Heunggongvirae
+0.88	110	0	P	2731618	        Uroviricota
+0.88	110	0	C	2731619	          Caudoviricetes
+0.66	83	0	O	3420545	            Pantevenvirales
+0.66	83	0	F	2946170	              Straboviridae
+0.22	27	0	C1	3424297	            Caudoviricetes incertae sedis
+0.22	27	27	F	2842329	              Schitoviridae

@@ -1,0 +1,86 @@
+100.00	2714	0	R	1	root
+100.00	2714	0	R1	131567	  cellular organisms
+97.67	2650	0	D	2	    Bacteria
+82.95	2251	0	K	3379134	      Pseudomonadati
+78.74	2137	0	K1	1783270	        FCB group
+78.74	2137	0	K2	68336	          Bacteroidota/Chlorobiota group
+78.74	2137	0	P	976	            Bacteroidota
+78.74	2137	0	C	200643	              Bacteroidia
+78.74	2137	0	O	171549	                Bacteroidales
+70.64	1917	0	F	815	                  Bacteroidaceae
+70.64	1917	0	G	816	                    Bacteroides
+26.65	723	723	S	329854	                      Bacteroides intestinalis
+35.81	971	971	S	820	                      Bacteroides uniformis
+8.19	222	222	S	28111	                      Bacteroides eggerthii
+4.82	130	0	F	171552	                  Prevotellaceae
+4.82	130	0	G	2974251	                    Segatella
+3.50	95	95	S	165179	                      Segatella copri
+1.31	35	35	S	2518605	                      Segatella hominis
+3.28	89	0	F	1853231	                  Odoribacteraceae
+1.76	47	0	G	574697	                    Butyricimonas
+1.76	47	47	S	544645	                      Butyricimonas virosa
+1.52	41	0	G	283168	                    Odoribacter
+1.52	41	41	S	28118	                      Odoribacter splanchnicus
+2.13	57	0	P	200940	        Thermodesulfobacteriota
+2.13	57	0	C	3031449	          Desulfovibrionia
+2.13	57	0	O	213115	            Desulfovibrionales
+2.13	57	0	F	194924	              Desulfovibrionaceae
+2.13	57	0	G	872	                Desulfovibrio
+2.13	57	57	S	901	                  Desulfovibrio piger
+2.08	56	0	K1	1783257	        PVC group
+2.08	56	0	P	74201	          Verrucomicrobiota
+2.08	56	0	C	203494	            Verrucomicrobiia
+2.08	56	0	O	48461	              Verrucomicrobiales
+2.08	56	0	F	1647988	                Akkermansiaceae
+2.08	56	0	G	239934	                  Akkermansia
+2.08	56	56	S	239935	                    Akkermansia muciniphila
+14.72	399	0	K	1783272	      Bacillati
+14.72	399	0	P	1239	        Bacillota
+13.35	362	0	C	186801	          Clostridia
+8.90	241	0	O	186802	            Eubacteriales
+8.90	241	0	F	216572	              Oscillospiraceae
+5.72	155	0	G	2892396	                Vescimonas
+5.72	155	155	S	2714355	                  Vescimonas coprocola
+2.06	56	0	G	1905344	                Ruthenibacterium
+2.06	56	56	S	1550024	                  Ruthenibacterium lactatiformans
+1.11	30	0	G	1263	                Ruminococcus
+1.11	30	30	S	1161942	                  Ruminococcus champanellensis
+4.45	120	0	O	3085636	            Lachnospirales
+4.45	120	0	F	186803	              Lachnospiraceae
+4.45	120	0	G	2944193	                Simiaoa
+4.45	120	120	S	2763672	                  Simiaoa sunii
+1.37	37	0	C	909932	          Negativicutes
+1.37	37	0	O	1843489	            Veillonellales
+1.37	37	0	F	31977	              Veillonellaceae
+1.37	37	0	G	39948	                Dialister
+1.37	37	37	S	39950	                  Dialister pneumosintes
+2.33	63	0	D	2759	    Eukaryota
+2.33	63	0	D1	33154	      Opisthokonta
+2.33	63	0	K	33208	        Metazoa
+2.33	63	0	K1	6072	          Eumetazoa
+2.33	63	0	K2	33213	            Bilateria
+2.33	63	0	K3	33511	              Deuterostomia
+2.33	63	0	P	7711	                Chordata
+2.33	63	0	P1	89593	                  Craniata
+2.33	63	0	P2	7742	                    Vertebrata
+2.33	63	0	P3	7776	                      Gnathostomata
+2.33	63	0	P4	117570	                        Teleostomi
+2.33	63	0	P5	117571	                          Euteleostomi
+2.33	63	0	P6	8287	                            Sarcopterygii
+2.33	63	0	P7	1338369	                              Dipnotetrapodomorpha
+2.33	63	0	P8	32523	                                Tetrapoda
+2.33	63	0	P9	32524	                                  Amniota
+2.33	63	0	C	40674	                                    Mammalia
+2.33	63	0	C1	32525	                                      Theria
+2.33	63	0	C2	9347	                                        Eutheria
+2.33	63	0	C3	1437010	                                          Boreoeutheria
+2.33	63	0	C4	314146	                                            Euarchontoglires
+2.33	63	0	O	9443	                                              Primates
+2.33	63	0	O1	376913	                                                Haplorrhini
+2.33	63	0	O2	314293	                                                  Simiiformes
+2.33	63	0	O3	9526	                                                    Catarrhini
+2.33	63	0	O4	314295	                                                      Hominoidea
+2.33	63	0	F	9604	                                                        Hominidae
+2.33	63	0	F1	207598	                                                          Homininae
+2.33	63	0	G	9605	                                                            Homo
+2.33	63	63	S	9606	                                                              Homo sapiens

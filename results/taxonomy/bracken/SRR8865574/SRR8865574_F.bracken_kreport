@@ -1,0 +1,44 @@
+100.00	8848	0	R	1	root
+99.80	8831	0	R1	131567	  cellular organisms
+99.80	8831	0	D	2	    Bacteria
+96.62	8549	0	K	3379134	      Pseudomonadati
+94.56	8367	0	K1	1783270	        FCB group
+94.56	8367	0	K2	68336	          Bacteroidota/Chlorobiota group
+94.56	8367	0	P	976	            Bacteroidota
+94.56	8367	0	C	200643	              Bacteroidia
+94.56	8367	0	O	171549	                Bacteroidales
+71.02	6284	0	F	815	                  Bacteroidaceae
+17.04	1507	0	F	2005525	                  Tannerellaceae
+5.03	444	0	F	171552	                  Prevotellaceae
+1.25	110	0	F	171550	                  Rikenellaceae
+0.23	20	0	F	1853231	                  Odoribacteraceae
+2.06	182	0	P	1224	        Pseudomonadota
+1.93	170	0	C	1236	          Gammaproteobacteria
+1.93	170	0	O	91347	            Enterobacterales
+1.48	130	0	F	543	              Enterobacteriaceae
+0.45	39	0	F	1903414	              Morganellaceae
+0.13	11	0	C	28216	          Betaproteobacteria
+0.13	11	0	O	80840	            Burkholderiales
+0.13	11	0	F	995019	              Sutterellaceae
+3.19	281	0	K	1783272	      Bacillati
+2.61	230	0	P	1239	        Bacillota
+2.08	183	0	C	186801	          Clostridia
+2.08	183	0	O	3085636	            Lachnospirales
+2.08	183	0	F	186803	              Lachnospiraceae
+0.53	46	0	C	91061	          Bacilli
+0.53	46	0	O	186826	            Lactobacillales
+0.53	46	0	F	33958	              Lactobacillaceae
+0.58	51	0	P	201174	        Actinomycetota
+0.36	31	0	C	84998	          Coriobacteriia
+0.36	31	0	O	84999	            Coriobacteriales
+0.36	31	0	F	84107	              Coriobacteriaceae
+0.22	19	0	C	1760	          Actinomycetes
+0.22	19	0	O	85004	            Bifidobacteriales
+0.22	19	0	F	31953	              Bifidobacteriaceae
+0.20	17	0	R1	10239	  Viruses
+0.20	17	0	R2	2731341	    Duplodnaviria
+0.20	17	0	K	2731360	      Heunggongvirae
+0.20	17	0	P	2731618	        Uroviricota
+0.20	17	0	C	2731619	          Caudoviricetes
+0.20	17	0	C1	3424297	            Caudoviricetes incertae sedis
+0.20	17	17	F	3424670	              Sarkviridae

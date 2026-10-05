@@ -1,0 +1,25 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacteroides eggerthii	28111	S	523	469	992	0.09214
+Bacteroides stercoris	46506	S	258	252	510	0.04737
+Bacteroides thetaiotaomicron	818	S	102	98	200	0.01858
+Bacteroides hominis	2763023	S	97	1129	1226	0.11388
+Bacteroides caccae	47678	S	93	53	146	0.01356
+Bacteroides uniformis	820	S	86	340	426	0.03957
+Bacteroides ovatus	28116	S	15	200	215	0.01997
+Phocaeicola vulgatus	821	S	695	2195	2890	0.26844
+Phocaeicola dorei	357276	S	14	47	61	0.00567
+Parabacteroides merdae	46503	S	610	778	1388	0.12892
+Parabacteroides distasonis	823	S	15	117	132	0.01226
+Segatella copri	165179	S	384	142	526	0.04886
+Paraprevotella clara	454154	S	47	55	102	0.00947
+Paraprevotella xylaniphila	454155	S	15	20	35	0.00325
+Alistipes shahii	328814	S	81	231	312	0.02898
+Odoribacter splanchnicus	28118	S	37	8	45	0.00418
+Escherichia coli	562	S	13	744	757	0.07031
+Morganella morganii	582	S	243	154	397	0.03688
+Sutterella faecalis	2584944	S	27	4	31	0.00288
+Mediterraneibacter gnavus	33038	S	117	54	171	0.01588
+Simiaoa sunii	2763672	S	64	24	88	0.00817
+Allocoprococcus comes	410072	S	30	19	49	0.00455
+Flavonifractor plautii	292800	S	26	5	31	0.00288
+Lactobacillus crispatus	47770	S	12	14	26	0.00242

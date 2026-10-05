@@ -1,0 +1,82 @@
+100.00	3087	0	R	1	root
+100.00	3087	0	R1	131567	  cellular organisms
+100.00	3087	0	D	2	    Bacteria
+90.58	2796	0	K	3379134	      Pseudomonadati
+72.96	2252	0	K1	1783270	        FCB group
+72.96	2252	0	K2	68336	          Bacteroidota/Chlorobiota group
+72.96	2252	0	P	976	            Bacteroidota
+72.96	2252	0	C	200643	              Bacteroidia
+72.96	2252	0	O	171549	                Bacteroidales
+28.79	888	0	F	815	                  Bacteroidaceae
+18.56	572	0	G	909656	                    Phocaeicola
+18.56	572	572	S	821	                      Phocaeicola vulgatus
+10.22	315	0	G	816	                    Bacteroides
+5.01	154	154	S	329854	                      Bacteroides intestinalis
+3.70	114	114	S	371601	                      Bacteroides xylanisolvens
+0.86	26	26	S	46506	                      Bacteroides stercoris
+0.65	20	20	S	28111	                      Bacteroides eggerthii
+17.42	537	0	F	171552	                  Prevotellaceae
+17.42	537	0	G	2974251	                    Segatella
+17.42	537	537	S	165179	                      Segatella copri
+16.88	521	0	F	2005525	                  Tannerellaceae
+16.88	521	0	G	375288	                    Parabacteroides
+16.88	521	521	S	823	                      Parabacteroides distasonis
+9.87	304	0	F	1853231	                  Odoribacteraceae
+5.41	166	0	G	574697	                    Butyricimonas
+4.42	136	136	S	2093856	                      Butyricimonas faecalis
+0.99	30	30	S	544645	                      Butyricimonas virosa
+4.47	137	0	G	283168	                    Odoribacter
+4.47	137	137	S	28118	                      Odoribacter splanchnicus
+11.31	349	0	K1	1783257	        PVC group
+11.31	349	0	P	74201	          Verrucomicrobiota
+11.31	349	0	C	203494	            Verrucomicrobiia
+11.31	349	0	O	48461	              Verrucomicrobiales
+11.31	349	0	F	1647988	                Akkermansiaceae
+11.31	349	0	G	239934	                  Akkermansia
+11.31	349	349	S	239935	                    Akkermansia muciniphila
+3.57	110	0	P	29547	        Campylobacterota
+3.57	110	0	C	3031852	          Epsilonproteobacteria
+3.57	110	0	O	213849	            Campylobacterales
+3.57	110	0	F	72294	              Campylobacteraceae
+3.57	110	0	G	194	                Campylobacter
+3.57	110	110	S	2561898	                  Candidatus Campylobacter infans
+1.30	40	0	P	200940	        Thermodesulfobacteriota
+1.30	40	0	C	3031449	          Desulfovibrionia
+1.30	40	0	O	213115	            Desulfovibrionales
+1.30	40	0	F	194924	              Desulfovibrionaceae
+0.79	24	0	G	35832	                Bilophila
+0.79	24	24	S	35833	                  Bilophila wadsworthia
+0.51	15	0	G	872	                Desulfovibrio
+0.51	15	15	S	901	                  Desulfovibrio piger
+0.99	30	0	P	203691	        Spirochaetota
+0.99	30	0	C	203692	          Spirochaetia
+0.99	30	0	O	3120456	            Treponematales
+0.99	30	0	F	2845253	              Treponemataceae
+0.99	30	0	G	157	                Treponema
+0.99	30	30	S	167	                  Treponema succinifaciens
+0.44	13	0	P	1224	        Pseudomonadota
+0.44	13	0	C	28216	          Betaproteobacteria
+0.44	13	0	O	80840	            Burkholderiales
+0.44	13	0	F	995019	              Sutterellaceae
+0.44	13	0	G	1980697	                Duodenibacillus
+0.44	13	13	S	1852381	                  Duodenibacillus massiliensis
+9.42	290	0	K	1783272	      Bacillati
+9.42	290	0	P	1239	        Bacillota
+8.02	247	0	C	186801	          Clostridia
+4.41	136	0	O	186802	            Eubacteriales
+4.41	136	0	F	216572	              Oscillospiraceae
+3.15	97	0	G	2591381	                Dysosmobacter
+3.15	97	97	S	2093857	                  Dysosmobacter welbionis
+1.26	38	0	G	1905344	                Ruthenibacterium
+1.26	38	38	S	1550024	                  Ruthenibacterium lactatiformans
+3.62	111	0	O	3085636	            Lachnospirales
+3.62	111	0	F	186803	              Lachnospiraceae
+2.13	65	0	G	28050	                Lachnospira
+2.13	65	65	S	39485	                  Lachnospira eligens
+1.49	45	0	G	3569723	                Allocoprococcus
+1.49	45	45	S	410072	                  Allocoprococcus comes
+1.40	43	0	C	909932	          Negativicutes
+1.40	43	0	O	1843489	            Veillonellales
+1.40	43	0	F	31977	              Veillonellaceae
+1.40	43	0	G	29465	                Veillonella
+1.40	43	43	S	29466	                  Veillonella parvula

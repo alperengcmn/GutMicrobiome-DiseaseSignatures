@@ -1,0 +1,45 @@
+100.00	4688	0	R	1	root
+100.00	4688	0	R1	131567	  cellular organisms
+100.00	4688	0	D	2	    Bacteria
+88.94	4170	0	K	3379134	      Pseudomonadati
+87.46	4101	0	K1	1783270	        FCB group
+87.46	4101	0	K2	68336	          Bacteroidota/Chlorobiota group
+87.46	4101	0	P	976	            Bacteroidota
+87.46	4101	0	C	200643	              Bacteroidia
+87.46	4101	0	O	171549	                Bacteroidales
+73.53	3447	0	F	171552	                  Prevotellaceae
+73.53	3447	0	G	2974251	                    Segatella
+72.36	3392	3392	S	165179	                      Segatella copri
+1.18	55	55	S	2518605	                      Segatella hominis
+13.93	653	0	F	815	                  Bacteroidaceae
+13.93	653	0	G	816	                    Bacteroides
+9.48	444	444	S	371601	                      Bacteroides xylanisolvens
+4.45	208	208	S	820	                      Bacteroides uniformis
+1.47	69	0	P	1224	        Pseudomonadota
+0.88	41	0	C	1236	          Gammaproteobacteria
+0.88	41	0	O	135625	            Pasteurellales
+0.88	41	0	F	712	              Pasteurellaceae
+0.88	41	0	G	724	                Haemophilus
+0.88	41	41	S	729	                  Haemophilus parainfluenzae
+0.60	28	0	C	28216	          Betaproteobacteria
+0.60	28	0	O	80840	            Burkholderiales
+0.60	28	0	F	995019	              Sutterellaceae
+0.60	28	0	G	40544	                Sutterella
+0.60	28	28	S	40545	                  Sutterella wadsworthensis
+11.06	518	0	K	1783272	      Bacillati
+10.02	470	0	P	1239	        Bacillota
+10.02	470	0	C	186801	          Clostridia
+10.02	470	0	O	3085636	            Lachnospirales
+10.02	470	0	F	186803	              Lachnospiraceae
+4.80	225	0	G	1766253	                Agathobacter
+4.80	225	225	S	39491	                  Agathobacter rectalis
+3.99	186	0	G	2944193	                Simiaoa
+3.99	186	186	S	2763672	                  Simiaoa sunii
+1.24	58	0	G	28050	                Lachnospira
+1.24	58	58	S	39485	                  Lachnospira eligens
+1.04	48	0	P	201174	        Actinomycetota
+1.04	48	0	C	84998	          Coriobacteriia
+1.04	48	0	O	84999	            Coriobacteriales
+1.04	48	0	F	84107	              Coriobacteriaceae
+1.04	48	0	G	102106	                Collinsella
+1.04	48	48	S	74426	                  Collinsella aerofaciens

@@ -1,0 +1,33 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Klebsiella pneumoniae	573	S	47	7972	8019	0.54000
+Klebsiella oxytoca	571	S	17	84	101	0.00680
+Enterobacter cloacae	550	S	22	552	574	0.03865
+Haemophilus parainfluenzae	729	S	146	123	269	0.01811
+Phocaeicola vulgatus	821	S	340	1286	1626	0.10949
+Bacteroides ovatus	28116	S	55	961	1016	0.06842
+Bacteroides thetaiotaomicron	818	S	42	56	98	0.00660
+Bacteroides fragilis	817	S	38	60	98	0.00660
+Bacteroides uniformis	820	S	10	53	63	0.00424
+Odoribacter splanchnicus	28118	S	38	13	51	0.00343
+Parabacteroides merdae	46503	S	14	28	42	0.00283
+Alistipes onderdonkii	328813	S	11	8	19	0.00128
+Veillonella parvula	29466	S	112	110	222	0.01495
+Veillonella atypica	39777	S	75	53	128	0.00862
+Veillonella rogosae	423477	S	13	28	41	0.00276
+Megasphaera massiliensis	1232428	S	193	62	255	0.01717
+Dialister succinatiphilus	487173	S	49	22	71	0.00478
+Megamonas funiformis	437897	S	392	137	529	0.03562
+Phascolarctobacterium faecium	33025	S	51	6	57	0.00384
+Anaerostipes hadrus	649756	S	225	94	319	0.02148
+Mediterraneibacter gnavus	33038	S	197	125	322	0.02168
+Dorea formicigenerans	39486	S	154	134	288	0.01939
+Blautia faecis	871665	S	22	27	49	0.00330
+Faecalimonas umbilicata	1912855	S	10	6	16	0.00108
+Faecalibacterium prausnitzii	853	S	25	140	165	0.01111
+Flavonifractor plautii	292800	S	51	19	70	0.00471
+Hominenteromicrobium mulieris	2885357	S	23	19	42	0.00283
+Ruminococcus bicirculans (ex Wegman et al. 2014)	1160721	S	15	2	17	0.00114
+Ruthenibacterium lactatiformans	1550024	S	11	2	13	0.00088
+Ligilactobacillus ruminis	1623	S	38	16	54	0.00364
+Thomasclavelia ramosa	1547	S	28	7	35	0.00236
+Bifidobacterium longum	216816	S	43	126	169	0.01138

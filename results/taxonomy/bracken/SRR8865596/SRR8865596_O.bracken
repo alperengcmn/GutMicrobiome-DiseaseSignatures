@@ -1,0 +1,7 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Enterobacterales	91347	O	10298	2540	12838	0.75473
+Bacteroidales	171549	O	823	20	843	0.04956
+Bifidobacteriales	85004	O	2741	227	2968	0.17449
+Lactobacillales	186826	O	238	36	274	0.01611
+Eubacteriales	186802	O	45	8	53	0.00312
+Lachnospirales	3085636	O	27	4	31	0.00182

@@ -1,0 +1,16 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Simiaoa	2944193	G	1761	440	2201	0.45626
+Roseburia	841	G	107	32	139	0.02881
+Agathobacter	1766253	G	83	30	113	0.02342
+Dorea	189330	G	31	12	43	0.00891
+Allocoprococcus	3569723	G	10	4	14	0.00290
+Ruminococcus	1263	G	105	1	106	0.02197
+Faecalibacterium	216851	G	88	37	125	0.02591
+Mitsuokella	52225	G	81	21	102	0.02114
+Megasphaera	906	G	18	2	20	0.00415
+Bifidobacterium	1678	G	12	0	12	0.00249
+Segatella	2974251	G	1343	219	1562	0.32380
+Phocaeicola	909656	G	195	62	257	0.05328
+Bacteroides	816	G	62	20	82	0.01700
+Odoribacter	283168	G	21	5	26	0.00539
+Alistipes	239759	G	11	3	14	0.00290

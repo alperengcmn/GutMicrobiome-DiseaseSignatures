@@ -1,0 +1,27 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacteroides stercoris	46506	S	1036	441	1477	0.15039
+Bacteroides fragilis	817	S	692	440	1132	0.11526
+Bacteroides uniformis	820	S	359	939	1298	0.13217
+Bacteroides caccae	47678	S	95	37	132	0.01344
+Bacteroides ovatus	28116	S	62	474	536	0.05458
+Phocaeicola vulgatus	821	S	714	1385	2099	0.21373
+Phocaeicola dorei	357276	S	27	105	132	0.01344
+Parabacteroides distasonis	823	S	91	256	347	0.03533
+Parabacteroides merdae	46503	S	64	30	94	0.00957
+Alistipes putredinis	28117	S	196	65	261	0.02658
+Alistipes communis	2585118	S	25	8	33	0.00336
+Odoribacter splanchnicus	28118	S	13	1	14	0.00143
+Desulfovibrio piger	901	S	13	4	17	0.00173
+Megasphaera sp.	2023260	S	491	426	917	0.09337
+Dialister hominis	2582419	S	122	16	138	0.01405
+Faecalibacterium prausnitzii	853	S	36	492	528	0.05376
+Eubacterium ventriosum	39496	S	43	31	74	0.00753
+Roseburia faecis	301302	S	59	55	114	0.01161
+Lachnospira eligens	39485	S	47	16	63	0.00641
+Mediterraneibacter torques	33039	S	36	35	71	0.00723
+Agathobacter rectalis	39491	S	44	50	94	0.00957
+Collinsella aerofaciens	74426	S	11	14	25	0.00255
+Homo sapiens	9606	S	16	0	16	0.00163
+Carjivirus communis	2955582	S	74	88	162	0.01650
+Carjivirus hominis	2955583	S	10	11	21	0.00214
+Endlipuvirus intestinihominis	2955861	S	10	1	11	0.00112

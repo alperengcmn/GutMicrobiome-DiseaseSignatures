@@ -1,0 +1,77 @@
+100.00	8294	0	R	1	root
+100.00	8294	0	R1	131567	  cellular organisms
+100.00	8294	0	D	2	    Bacteria
+61.48	5098	0	K	3379134	      Pseudomonadati
+38.92	3227	0	P	1224	        Pseudomonadota
+38.41	3185	0	C	1236	          Gammaproteobacteria
+37.98	3150	0	O	91347	            Enterobacterales
+37.24	3088	0	F	543	              Enterobacteriaceae
+37.24	3088	0	G	547	                Enterobacter
+37.24	3088	0	G1	354276	                  Enterobacter cloacae complex
+37.24	3088	3088	S	550	                    Enterobacter cloacae
+0.74	61	0	F	1903414	              Morganellaceae
+0.74	61	0	G	581	                Morganella
+0.74	61	61	S	582	                  Morganella morganii
+0.42	35	0	O	135625	            Pasteurellales
+0.42	35	0	F	712	              Pasteurellaceae
+0.42	35	0	G	724	                Haemophilus
+0.42	35	35	S	729	                  Haemophilus parainfluenzae
+0.51	42	0	C	28216	          Betaproteobacteria
+0.51	42	0	O	80840	            Burkholderiales
+0.51	42	0	F	995019	              Sutterellaceae
+0.51	42	0	G	40544	                Sutterella
+0.51	42	42	S	40545	                  Sutterella wadsworthensis
+22.56	1871	0	K1	1783270	        FCB group
+22.56	1871	0	K2	68336	          Bacteroidota/Chlorobiota group
+22.56	1871	0	P	976	            Bacteroidota
+22.56	1871	0	C	200643	              Bacteroidia
+22.56	1871	0	O	171549	                Bacteroidales
+22.11	1833	0	F	815	                  Bacteroidaceae
+18.88	1565	0	G	909656	                    Phocaeicola
+18.32	1519	1519	S	821	                      Phocaeicola vulgatus
+0.56	46	46	S	387090	                      Phocaeicola coprophilus
+3.23	267	0	G	816	                    Bacteroides
+3.23	267	267	S	818	                      Bacteroides thetaiotaomicron
+0.45	37	0	F	171552	                  Prevotellaceae
+0.45	37	0	G	2974251	                    Segatella
+0.45	37	37	S	165179	                      Segatella copri
+38.52	3195	0	K	1783272	      Bacillati
+37.53	3112	0	P	1239	        Bacillota
+28.95	2401	0	C	909932	          Negativicutes
+28.06	2327	0	O	1843489	            Veillonellales
+28.06	2327	0	F	31977	              Veillonellaceae
+26.66	2211	0	G	906	                Megasphaera
+25.87	2145	0	G1	2626256	                  unclassified Megasphaera
+25.87	2145	2145	S	2023260	                    Megasphaera sp.
+0.79	65	65	S	907	                  Megasphaera elsdenii
+1.40	116	0	G	39948	                Dialister
+1.40	116	116	S	487173	                  Dialister succinatiphilus
+0.89	73	0	O	909929	            Selenomonadales
+0.89	73	0	F	1843491	              Selenomonadaceae
+0.89	73	0	G	52225	                Mitsuokella
+0.89	73	73	S	52226	                  Mitsuokella multacida
+8.58	711	0	C	186801	          Clostridia
+7.05	584	0	O	186802	            Eubacteriales
+7.05	584	0	F	216572	              Oscillospiraceae
+6.10	505	0	G	216851	                Faecalibacterium
+6.10	505	505	S	853	                  Faecalibacterium prausnitzii
+0.45	37	0	G	1263	                Ruminococcus
+0.45	37	37	S	1160721	                  Ruminococcus bicirculans (ex Wegman et al. 2014)
+0.28	23	0	G	3073575	                Hominenteromicrobium
+0.28	23	23	S	2885357	                  Hominenteromicrobium mulieris
+0.21	17	0	G	946234	                Flavonifractor
+0.21	17	17	S	292800	                  Flavonifractor plautii
+1.53	127	0	O	3085636	            Lachnospirales
+1.53	127	0	F	186803	              Lachnospiraceae
+0.62	51	0	G	28050	                Lachnospira
+0.62	51	51	S	39485	                  Lachnospira eligens
+0.57	46	0	G	841	                Roseburia
+0.57	46	46	S	166486	                  Roseburia intestinalis
+0.34	28	0	G	2316020	                Mediterraneibacter
+0.34	28	28	S	33038	                  Mediterraneibacter gnavus
+0.99	82	0	P	201174	        Actinomycetota
+0.99	82	0	C	1760	          Actinomycetes
+0.99	82	0	O	85004	            Bifidobacteriales
+0.99	82	0	F	31953	              Bifidobacteriaceae
+0.99	82	0	G	1678	                Bifidobacterium
+0.99	82	82	S	216816	                  Bifidobacterium longum

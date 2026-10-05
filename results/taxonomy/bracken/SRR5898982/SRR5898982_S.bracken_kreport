@@ -1,0 +1,28 @@
+100.00	5010	0	R	1	root
+100.00	5010	0	R1	131567	  cellular organisms
+100.00	5010	0	D	2	    Bacteria
+86.69	4343	0	K	3379134	      Pseudomonadati
+86.69	4343	0	K1	1783270	        FCB group
+86.69	4343	0	K2	68336	          Bacteroidota/Chlorobiota group
+86.69	4343	0	P	976	            Bacteroidota
+86.69	4343	0	C	200643	              Bacteroidia
+86.69	4343	0	O	171549	                Bacteroidales
+86.69	4343	0	F	171552	                  Prevotellaceae
+86.69	4343	0	G	2974251	                    Segatella
+81.49	4082	4082	S	165179	                      Segatella copri
+5.20	260	260	S	2518605	                      Segatella hominis
+13.31	666	0	K	1783272	      Bacillati
+13.31	666	0	P	1239	        Bacillota
+13.31	666	0	C	186801	          Clostridia
+11.35	568	0	O	3085636	            Lachnospirales
+11.35	568	0	F	186803	              Lachnospiraceae
+7.46	373	0	G	3342669	                Eshraghiella
+7.46	373	373	S	45851	                  Eshraghiella crossota
+2.68	134	0	G	1766253	                Agathobacter
+2.68	134	134	S	39491	                  Agathobacter rectalis
+1.22	61	0	G	2944193	                Simiaoa
+1.22	61	61	S	2763672	                  Simiaoa sunii
+1.95	97	0	O	186802	            Eubacteriales
+1.95	97	0	F	216572	              Oscillospiraceae
+1.95	97	0	G	2892396	                Vescimonas
+1.95	97	97	S	2714353	                  Vescimonas fastidiosa

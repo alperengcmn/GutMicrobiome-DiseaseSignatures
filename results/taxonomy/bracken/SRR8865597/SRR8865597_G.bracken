@@ -1,0 +1,17 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacteroides	816	G	212	112	324	0.23011
+Phocaeicola	909656	G	178	78	256	0.18182
+Segatella	2974251	G	52	8	60	0.04261
+Prevotella	838	G	30	8	38	0.02699
+Parabacteroides	375288	G	49	20	69	0.04901
+Odoribacter	283168	G	24	6	30	0.02131
+Butyricimonas	574697	G	11	4	15	0.01065
+Alistipes	239759	G	31	15	46	0.03267
+Porphyromonas	836	G	24	5	29	0.02060
+Mediterraneibacter	2316020	G	50	55	105	0.07457
+Vescimonas	2892396	G	10	25	35	0.02486
+Parvimonas	543311	G	82	51	133	0.09446
+Dialister	39948	G	18	3	21	0.01491
+Bifidobacterium	1678	G	10	0	10	0.00710
+Methanobrevibacter	2172	G	181	6	187	0.13281
+Shelovirus	3700215	G	14	26	40	0.02841

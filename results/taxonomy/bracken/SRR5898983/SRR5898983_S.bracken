@@ -1,0 +1,9 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Megasphaera sp.	2023260	S	2374	2784	5158	0.71828
+Megasphaera elsdenii	907	S	281	338	619	0.08620
+Dialister succinatiphilus	487173	S	147	73	220	0.03064
+Acidaminococcus intestini	187327	S	55	115	170	0.02367
+Ligilactobacillus ruminis	1623	S	265	87	352	0.04902
+Roseburia faecis	301302	S	41	29	70	0.00975
+Bifidobacterium adolescentis	1680	S	88	403	491	0.06837
+Bifidobacterium longum	216816	S	24	73	97	0.01351

@@ -1,0 +1,4 @@
+metric	mean_CRC	sd_CRC	n_CRC	mean_Healthy	sd_Healthy	n_Healthy	kruskal_H	kruskal_p	test	adj_p_value	significant
+observed	22.083333	5.555386	24	15.633333	5.095524	30	16.310328	0.000054	Kruskal-Wallis	0.000067	True
+shannon	1.972261	0.465986	24	1.265721	0.619010	30	15.891212	0.000067	Kruskal-Wallis	0.000067	True
+simpson	0.758079	0.130482	24	0.501573	0.239792	30	18.338182	0.000018	Kruskal-Wallis	0.000055	True

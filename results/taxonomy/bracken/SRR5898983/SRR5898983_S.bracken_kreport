@@ -1,0 +1,35 @@
+100.00	7181	0	R	1	root
+100.00	7181	0	R1	131567	  cellular organisms
+100.00	7181	0	D	2	    Bacteria
+100.00	7181	0	K	1783272	      Bacillati
+91.79	6591	0	P	1239	        Bacillota
+85.91	6168	0	C	909932	          Negativicutes
+83.53	5997	0	O	1843489	            Veillonellales
+83.53	5997	0	F	31977	              Veillonellaceae
+80.46	5777	0	G	906	                Megasphaera
+71.84	5158	0	G1	2626256	                  unclassified Megasphaera
+71.84	5158	5158	S	2023260	                    Megasphaera sp.
+8.62	619	619	S	907	                  Megasphaera elsdenii
+3.06	220	0	G	39948	                Dialister
+3.06	220	220	S	487173	                  Dialister succinatiphilus
+2.38	170	0	O	1843488	            Acidaminococcales
+2.38	170	0	F	909930	              Acidaminococcaceae
+2.38	170	0	G	904	                Acidaminococcus
+2.38	170	170	S	187327	                  Acidaminococcus intestini
+4.91	352	0	C	91061	          Bacilli
+4.91	352	0	O	186826	            Lactobacillales
+4.91	352	0	F	33958	              Lactobacillaceae
+4.91	352	0	G	2767887	                Ligilactobacillus
+4.91	352	352	S	1623	                  Ligilactobacillus ruminis
+0.98	70	0	C	186801	          Clostridia
+0.98	70	0	O	3085636	            Lachnospirales
+0.98	70	0	F	186803	              Lachnospiraceae
+0.98	70	0	G	841	                Roseburia
+0.98	70	70	S	301302	                  Roseburia faecis
+8.21	589	0	P	201174	        Actinomycetota
+8.21	589	0	C	1760	          Actinomycetes
+8.21	589	0	O	85004	            Bifidobacteriales
+8.21	589	0	F	31953	              Bifidobacteriaceae
+8.21	589	0	G	1678	                Bifidobacterium
+6.85	491	491	S	1680	                  Bifidobacterium adolescentis
+1.35	97	97	S	216816	                  Bifidobacterium longum

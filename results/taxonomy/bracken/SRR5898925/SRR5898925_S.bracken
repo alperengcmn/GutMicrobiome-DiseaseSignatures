@@ -1,0 +1,5 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Segatella copri	165179	S	5300	1997	7297	0.96394
+Segatella hominis	2518605	S	91	100	191	0.02523
+Dialister hominis	2582419	S	49	10	59	0.00779
+Roseburia faecis	301302	S	12	10	22	0.00291

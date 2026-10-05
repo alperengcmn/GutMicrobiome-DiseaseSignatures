@@ -1,0 +1,23 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Segatella copri	165179	S	1694	642	2336	0.44419
+Phocaeicola vulgatus	821	S	136	327	463	0.08804
+Bacteroides caccae	47678	S	12	18	30	0.00570
+Bacteroides uniformis	820	S	10	146	156	0.02966
+Alistipes onderdonkii	328813	S	10	13	23	0.00437
+Parabacteroides merdae	46503	S	12	19	31	0.00589
+Sutterella wadsworthensis	40545	S	18	2	20	0.00380
+Duodenibacillus massiliensis	1852381	S	12	0	12	0.00228
+Bilophila wadsworthia	35833	S	10	0	10	0.00190
+Dialister hominis	2582419	S	600	77	677	0.12873
+Megasphaera sp.	2023260	S	93	91	184	0.03499
+Mitsuokella multacida	52226	S	110	31	141	0.02681
+Faecalibacterium prausnitzii	853	S	70	312	382	0.07264
+Roseburia faecis	301302	S	69	33	102	0.01940
+Agathobacter rectalis	39491	S	66	38	104	0.01978
+Simiaoa sunii	2763672	S	17	7	24	0.00456
+Blautia wexlerae	418240	S	10	10	20	0.00380
+Coprococcus sp. ART55/1	751585	S	12	6	18	0.00342
+Ligilactobacillus ruminis	1623	S	44	8	52	0.00989
+Bifidobacterium adolescentis	1680	S	70	197	267	0.05077
+Bifidobacterium longum	216816	S	37	69	106	0.02016
+Homo sapiens	9606	S	85	5	90	0.01711

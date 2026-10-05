@@ -1,0 +1,48 @@
+100.00	16879	0	R	1	root
+100.00	16879	0	R1	131567	  cellular organisms
+100.00	16879	0	D	2	    Bacteria
+80.82	13641	0	K	3379134	      Pseudomonadati
+75.97	12823	0	P	1224	        Pseudomonadota
+75.97	12823	0	C	1236	          Gammaproteobacteria
+75.97	12823	0	O	91347	            Enterobacterales
+75.97	12823	0	F	543	              Enterobacteriaceae
+75.97	12823	0	G	561	                Escherichia
+75.97	12823	12823	S	562	                  Escherichia coli
+4.85	817	0	K1	1783270	        FCB group
+4.85	817	0	K2	68336	          Bacteroidota/Chlorobiota group
+4.85	817	0	P	976	            Bacteroidota
+4.85	817	0	C	200643	              Bacteroidia
+4.85	817	0	O	171549	                Bacteroidales
+4.49	757	0	F	815	                  Bacteroidaceae
+4.21	709	0	G	816	                    Bacteroides
+0.68	115	115	S	674529	                      Bacteroides faecis
+0.49	82	82	S	818	                      Bacteroides thetaiotaomicron
+3.03	511	511	S	371601	                      Bacteroides xylanisolvens
+0.28	47	0	G	909656	                    Phocaeicola
+0.28	47	47	S	821	                      Phocaeicola vulgatus
+0.36	60	0	F	2005525	                  Tannerellaceae
+0.36	60	0	G	375288	                    Parabacteroides
+0.36	60	60	S	823	                      Parabacteroides distasonis
+19.18	3237	0	K	1783272	      Bacillati
+17.52	2956	0	P	201174	        Actinomycetota
+17.52	2956	0	C	1760	          Actinomycetes
+17.52	2956	0	O	85004	            Bifidobacteriales
+17.52	2956	0	F	31953	              Bifidobacteriaceae
+17.52	2956	0	G	1678	                Bifidobacterium
+15.73	2655	2655	S	216816	                  Bifidobacterium longum
+1.55	260	260	S	1685	                  Bifidobacterium breve
+0.24	39	39	S	1686	                  Bifidobacterium catenulatum
+1.66	280	0	P	1239	        Bacillota
+1.40	235	0	C	91061	          Bacilli
+1.40	235	0	O	186826	            Lactobacillales
+1.17	198	0	F	81852	              Enterococcaceae
+1.17	198	0	G	1350	                Enterococcus
+1.17	198	198	S	33945	                  Enterococcus avium
+0.22	37	0	F	33958	              Lactobacillaceae
+0.22	37	0	G	1578	                Lactobacillus
+0.22	37	37	S	1587	                  Lactobacillus helveticus
+0.27	45	0	C	186801	          Clostridia
+0.27	45	0	O	186802	            Eubacteriales
+0.27	45	0	F	216572	              Oscillospiraceae
+0.27	45	0	G	946234	                Flavonifractor
+0.27	45	45	S	292800	                  Flavonifractor plautii

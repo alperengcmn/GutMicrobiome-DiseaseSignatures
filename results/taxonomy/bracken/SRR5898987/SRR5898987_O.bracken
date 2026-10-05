@@ -1,0 +1,13 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacteroidales	171549	O	3318	278	3596	0.66127
+Enterobacterales	91347	O	224	72	296	0.05443
+Burkholderiales	80840	O	10	1	11	0.00202
+Verrucomicrobiales	48461	O	114	13	127	0.02335
+Desulfovibrionales	213115	O	54	10	64	0.01177
+Eubacteriales	186802	O	327	150	477	0.08772
+Lachnospirales	3085636	O	48	68	116	0.02133
+Veillonellales	1843489	O	345	59	404	0.07429
+Bifidobacteriales	85004	O	238	15	253	0.04652
+Coriobacteriales	84999	O	23	4	27	0.00497
+Primates	9443	O	35	5	40	0.00736
+Crassvirales	1978007	O	22	0	22	0.00405
